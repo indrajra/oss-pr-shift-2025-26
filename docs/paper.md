@@ -4,7 +4,7 @@ Nov 25, 2026 · @Rajesh Rathnam
 
 ## Abstract
 
-This is an observational study. It describes how pull requests (PRs) changed in open-source projects and asks whether the timing lines up with the spread of agentic AI coding tools in 2025. It does not establish that AI caused any of the changes, and it was not designed to.
+This is an observational study. It describes how pull requests (PRs) changed in open-source projects in 2025–26, compared with the same months of 2023–24. It does not establish that AI caused any of the changes, and it was not designed to.
 
 Description length, lines added and deleted, files changed, PRs opened and the share merged within 30 days were measured for 45 established GitHub projects over two windows of identical length and season: 2023-01-09 to 2024-08-19, and 2025-01-06 to 2026-08-17. ChatGPT and Copilot were already in common use in the first window, so the contrast is between before and after agentic tools. The 45 are 15 hand-picked flagship projects and 30 drawn at random, stratified by language, from active repositories with at least 1,000 stars.
 
@@ -119,7 +119,7 @@ Kubernetes was the pilot. Its 8,615 PRs in 2025–26 show the pattern in detail:
 
 PR-level tests were mostly underpowered. In the 20 repos analysed for 2025–26 in the first round, named-tool disclosure gave one "larger" verdict (pandas), one "mixed" (cpython), ten "no difference detected" and eight "not testable" (fewer than 30 flagged PRs).
 
-In Kubernetes only 46 PRs (0.5%) named a tool, and the same-author interval for lines changed ran from −41% to +612%. A large effect cannot be ruled out.
+In Kubernetes only 46 PRs (0.5%) named a tool. Compared with the same author's other PRs, tool-naming PRs changed somewhere between 41% fewer and 612% more lines (95% interval). A large effect cannot be ruled out.
 
 Where disclosure was common (pandas, cpython, deno; 500 to 600 PRs each), the matched text was mostly Claude Code's default attribution lines.
 
@@ -127,7 +127,7 @@ Where disclosure was common (pandas, cpython, deno; 500 to 600 PRs each), the ma
 
 In 45 established open-source projects, PRs in 2025–26 had longer descriptions, added more code and were opened more often. A smaller share were merged within 30 days. Over the same months of 2023–24, the same projects showed no common direction on any of these measures.
 
-The timing matches the spread of agentic AI coding tools, and the descriptive result held in a random sample as well as in flagship projects. Nothing here shows that AI caused it. The design has no control group, and the comparison window already had AI assistants. Treat this as an observation that motivates a properly designed study, not as its answer.
+The timing matches the spread of agentic AI coding tools, and the descriptive result held in a random sample as well as in flagship projects. A timing match alone does not show that AI caused it. The design has no control group, and the comparison window already had AI assistants. Treat this as an observation that motivates a properly designed study, not as its answer.
 
 ## References
 
