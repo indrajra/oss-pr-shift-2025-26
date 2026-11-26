@@ -77,7 +77,7 @@ In 2023–24 the 45 repos split roughly evenly on every measure. In 2025–26 mo
 
 ### 3.1 All 45 repos
 
-How to read each cell: **21 – 19 (6 / 5)** means 21 repos trended up and 19 trended down. Of those, 6 trended up significantly and 5 trended down significantly. The other 29 moved without a significant trend.
+How to read each cell: **21 – 19 (6 / 5)** means 21 repos trended up and 19 trended down. Of those, 6 trended up significantly and 5 trended down significantly. The other 29 of those 40 moved without a significant trend. The remaining 5 of the 45 had no change or too little data.
 
 | Measure | 2023–24: up – down (sig up / sig down) | 2025–26: up – down (sig up / sig down) |
 | --- | --- | --- |
