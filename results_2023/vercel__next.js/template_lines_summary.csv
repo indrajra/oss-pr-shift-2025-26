@@ -1,0 +1,15 @@
+line,first_month,last_month,months,peak_share,change_event
+"errors have a helpful link attached, see `contributing.md`",2023-01,2023-02,2,0.6274038461538461,removed
+related issues linked using `fixes #number`,2023-01,2023-02,2,0.6274038461538461,removed
+## bug,2023-01,2023-02,2,0.6201923076923077,removed
+integration tests added,2023-01,2023-02,2,0.6081730769230769,removed
+## documentation / examples,2023-01,2023-02,2,0.5721153846153846,removed
+"the ""examples guidelines"" are followed from our contributing doc",2023-01,2023-02,2,0.5673076923076923,removed
+make sure the linting passes by running `pnpm build && pnpm lint`,2023-01,2023-02,2,0.5600961538461539,removed
+## feature,2023-01,2023-02,2,0.5264423076923077,removed
+documentation added,2023-01,2023-02,2,0.5264423076923077,removed
+e2e tests added,2023-01,2023-02,2,0.5264423076923077,removed
+implements an existing feature request or rfc. make sure the feature request has been accepted for implementation before opening a pr.,2023-01,2023-02,2,0.5264423076923077,removed
+telemetry added. in case of a feature if it's used or not.,2023-01,2023-02,2,0.5264423076923077,removed
+### what?,2023-04,2024-06,6,0.2689075630252101,
+### why?,2024-06,2024-06,1,0.20359281437125748,

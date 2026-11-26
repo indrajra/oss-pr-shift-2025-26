@@ -1,0 +1,181 @@
+month,line,share_of_prs,n_prs
+2025-01,### detail,0.38578680203045684,197
+2025-01,### additional information,0.2182741116751269,197
+2025-01,changelog files are updated for the changed libraries if there is a behavior change or additional feature. minor bug fixes and documentation changes should not be included.,0.4263959390862944,197
+2025-01,tests are added or updated if you fix a bug or add a feature.,0.41116751269035534,197
+2025-01,before submitting the pr make sure the following are checked:,0.4517766497461929,197
+2025-01,### motivation / background,0.4213197969543147,197
+2025-01,this pull request is related to one change. unrelated changes should be opened in separate prs.,0.4467005076142132,197
+2025-01,### checklist,0.45685279187817257,197
+2025-01,commit message has a detailed description of what changed and why. if this pr fixes a related issue include it in the commit message. ex: `[fix #issue-number]`,0.4365482233502538,197
+2025-02,### detail,0.4437869822485207,169
+2025-02,### additional information,0.3076923076923077,169
+2025-02,changelog files are updated for the changed libraries if there is a behavior change or additional feature. minor bug fixes and documentation changes should not be included.,0.5088757396449705,169
+2025-02,tests are added or updated if you fix a bug or add a feature.,0.5088757396449705,169
+2025-02,before submitting the pr make sure the following are checked:,0.5384615384615384,169
+2025-02,### motivation / background,0.5443786982248521,169
+2025-02,this pull request is related to one change. unrelated changes should be opened in separate prs.,0.5384615384615384,169
+2025-02,### checklist,0.5384615384615384,169
+2025-02,commit message has a detailed description of what changed and why. if this pr fixes a related issue include it in the commit message. ex: `[fix #issue-number]`,0.5266272189349113,169
+2025-03,### detail,0.484375,128
+2025-03,### additional information,0.2890625,128
+2025-03,changelog files are updated for the changed libraries if there is a behavior change or additional feature. minor bug fixes and documentation changes should not be included.,0.4765625,128
+2025-03,tests are added or updated if you fix a bug or add a feature.,0.46875,128
+2025-03,before submitting the pr make sure the following are checked:,0.53125,128
+2025-03,### motivation / background,0.546875,128
+2025-03,this pull request is related to one change. unrelated changes should be opened in separate prs.,0.53125,128
+2025-03,### checklist,0.53125,128
+2025-03,commit message has a detailed description of what changed and why. if this pr fixes a related issue include it in the commit message. ex: `[fix #issue-number]`,0.5,128
+2025-04,### detail,0.6153846153846154,104
+2025-04,### additional information,0.3942307692307692,104
+2025-04,changelog files are updated for the changed libraries if there is a behavior change or additional feature. minor bug fixes and documentation changes should not be included.,0.5673076923076923,104
+2025-04,tests are added or updated if you fix a bug or add a feature.,0.5576923076923077,104
+2025-04,before submitting the pr make sure the following are checked:,0.5865384615384616,104
+2025-04,### motivation / background,0.6346153846153846,104
+2025-04,this pull request is related to one change. unrelated changes should be opened in separate prs.,0.5865384615384616,104
+2025-04,### checklist,0.6057692307692307,104
+2025-04,commit message has a detailed description of what changed and why. if this pr fixes a related issue include it in the commit message. ex: `[fix #issue-number]`,0.5673076923076923,104
+2025-05,### detail,0.631578947368421,95
+2025-05,### additional information,0.4631578947368421,95
+2025-05,changelog files are updated for the changed libraries if there is a behavior change or additional feature. minor bug fixes and documentation changes should not be included.,0.5578947368421052,95
+2025-05,tests are added or updated if you fix a bug or add a feature.,0.5684210526315789,95
+2025-05,before submitting the pr make sure the following are checked:,0.6105263157894737,95
+2025-05,### motivation / background,0.6210526315789474,95
+2025-05,this pull request is related to one change. unrelated changes should be opened in separate prs.,0.6105263157894737,95
+2025-05,### checklist,0.6526315789473685,95
+2025-05,commit message has a detailed description of what changed and why. if this pr fixes a related issue include it in the commit message. ex: `[fix #issue-number]`,0.5578947368421052,95
+2025-06,### detail,0.49514563106796117,103
+2025-06,### additional information,0.33980582524271846,103
+2025-06,changelog files are updated for the changed libraries if there is a behavior change or additional feature. minor bug fixes and documentation changes should not be included.,0.5631067961165048,103
+2025-06,tests are added or updated if you fix a bug or add a feature.,0.5533980582524272,103
+2025-06,before submitting the pr make sure the following are checked:,0.5631067961165048,103
+2025-06,### motivation / background,0.5533980582524272,103
+2025-06,this pull request is related to one change. unrelated changes should be opened in separate prs.,0.5728155339805825,103
+2025-06,### checklist,0.5728155339805825,103
+2025-06,commit message has a detailed description of what changed and why. if this pr fixes a related issue include it in the commit message. ex: `[fix #issue-number]`,0.5728155339805825,103
+2025-07,### detail,0.4930555555555556,144
+2025-07,### additional information,0.3819444444444444,144
+2025-07,changelog files are updated for the changed libraries if there is a behavior change or additional feature. minor bug fixes and documentation changes should not be included.,0.5486111111111112,144
+2025-07,tests are added or updated if you fix a bug or add a feature.,0.5625,144
+2025-07,before submitting the pr make sure the following are checked:,0.5625,144
+2025-07,### motivation / background,0.5486111111111112,144
+2025-07,this pull request is related to one change. unrelated changes should be opened in separate prs.,0.5763888888888888,144
+2025-07,### checklist,0.5625,144
+2025-07,commit message has a detailed description of what changed and why. if this pr fixes a related issue include it in the commit message. ex: `[fix #issue-number]`,0.5625,144
+2025-08,### detail,0.45454545454545453,121
+2025-08,### additional information,0.3305785123966942,121
+2025-08,changelog files are updated for the changed libraries if there is a behavior change or additional feature. minor bug fixes and documentation changes should not be included.,0.5041322314049587,121
+2025-08,tests are added or updated if you fix a bug or add a feature.,0.5289256198347108,121
+2025-08,before submitting the pr make sure the following are checked:,0.5371900826446281,121
+2025-08,### motivation / background,0.5041322314049587,121
+2025-08,this pull request is related to one change. unrelated changes should be opened in separate prs.,0.5454545454545454,121
+2025-08,### checklist,0.5454545454545454,121
+2025-08,commit message has a detailed description of what changed and why. if this pr fixes a related issue include it in the commit message. ex: `[fix #issue-number]`,0.5371900826446281,121
+2025-09,### detail,0.4258064516129032,155
+2025-09,### additional information,0.32903225806451614,155
+2025-09,changelog files are updated for the changed libraries if there is a behavior change or additional feature. minor bug fixes and documentation changes should not be included.,0.45806451612903226,155
+2025-09,tests are added or updated if you fix a bug or add a feature.,0.45806451612903226,155
+2025-09,before submitting the pr make sure the following are checked:,0.5161290322580645,155
+2025-09,### motivation / background,0.5161290322580645,155
+2025-09,this pull request is related to one change. unrelated changes should be opened in separate prs.,0.5290322580645161,155
+2025-09,### checklist,0.535483870967742,155
+2025-09,commit message has a detailed description of what changed and why. if this pr fixes a related issue include it in the commit message. ex: `[fix #issue-number]`,0.4967741935483871,155
+2025-10,### detail,0.5454545454545454,198
+2025-10,### additional information,0.30303030303030304,198
+2025-10,changelog files are updated for the changed libraries if there is a behavior change or additional feature. minor bug fixes and documentation changes should not be included.,0.494949494949495,198
+2025-10,tests are added or updated if you fix a bug or add a feature.,0.4898989898989899,198
+2025-10,before submitting the pr make sure the following are checked:,0.6060606060606061,198
+2025-10,### motivation / background,0.5858585858585859,198
+2025-10,this pull request is related to one change. unrelated changes should be opened in separate prs.,0.6363636363636364,198
+2025-10,### checklist,0.6313131313131313,198
+2025-10,commit message has a detailed description of what changed and why. if this pr fixes a related issue include it in the commit message. ex: `[fix #issue-number]`,0.6262626262626263,198
+2025-11,### detail,0.4720496894409938,161
+2025-11,### additional information,0.36645962732919257,161
+2025-11,changelog files are updated for the changed libraries if there is a behavior change or additional feature. minor bug fixes and documentation changes should not be included.,0.4906832298136646,161
+2025-11,tests are added or updated if you fix a bug or add a feature.,0.4782608695652174,161
+2025-11,before submitting the pr make sure the following are checked:,0.4782608695652174,161
+2025-11,### motivation / background,0.5093167701863354,161
+2025-11,this pull request is related to one change. unrelated changes should be opened in separate prs.,0.4906832298136646,161
+2025-11,### checklist,0.5031055900621118,161
+2025-11,commit message has a detailed description of what changed and why. if this pr fixes a related issue include it in the commit message. ex: `[fix #issue-number]`,0.4782608695652174,161
+2025-12,### detail,0.48677248677248675,189
+2025-12,### additional information,0.37566137566137564,189
+2025-12,changelog files are updated for the changed libraries if there is a behavior change or additional feature. minor bug fixes and documentation changes should not be included.,0.5608465608465608,189
+2025-12,tests are added or updated if you fix a bug or add a feature.,0.5925925925925926,189
+2025-12,before submitting the pr make sure the following are checked:,0.582010582010582,189
+2025-12,### motivation / background,0.5767195767195767,189
+2025-12,this pull request is related to one change. unrelated changes should be opened in separate prs.,0.6084656084656085,189
+2025-12,### checklist,0.6243386243386243,189
+2025-12,commit message has a detailed description of what changed and why. if this pr fixes a related issue include it in the commit message. ex: `[fix #issue-number]`,0.5925925925925926,189
+2026-01,### detail,0.4853801169590643,171
+2026-01,### additional information,0.3742690058479532,171
+2026-01,changelog files are updated for the changed libraries if there is a behavior change or additional feature. minor bug fixes and documentation changes should not be included.,0.5146198830409356,171
+2026-01,tests are added or updated if you fix a bug or add a feature.,0.5263157894736842,171
+2026-01,before submitting the pr make sure the following are checked:,0.5087719298245614,171
+2026-01,### motivation / background,0.5380116959064327,171
+2026-01,this pull request is related to one change. unrelated changes should be opened in separate prs.,0.5263157894736842,171
+2026-01,### checklist,0.5497076023391813,171
+2026-01,commit message has a detailed description of what changed and why. if this pr fixes a related issue include it in the commit message. ex: `[fix #issue-number]`,0.52046783625731,171
+2026-02,### detail,0.5031847133757962,157
+2026-02,### additional information,0.31210191082802546,157
+2026-02,changelog files are updated for the changed libraries if there is a behavior change or additional feature. minor bug fixes and documentation changes should not be included.,0.4585987261146497,157
+2026-02,tests are added or updated if you fix a bug or add a feature.,0.5477707006369427,157
+2026-02,before submitting the pr make sure the following are checked:,0.5159235668789809,157
+2026-02,### motivation / background,0.535031847133758,157
+2026-02,this pull request is related to one change. unrelated changes should be opened in separate prs.,0.5605095541401274,157
+2026-02,### checklist,0.5668789808917197,157
+2026-02,commit message has a detailed description of what changed and why. if this pr fixes a related issue include it in the commit message. ex: `[fix #issue-number]`,0.5159235668789809,157
+2026-03,### detail,0.5443037974683544,158
+2026-03,### additional information,0.3860759493670886,158
+2026-03,changelog files are updated for the changed libraries if there is a behavior change or additional feature. minor bug fixes and documentation changes should not be included.,0.34810126582278483,158
+2026-03,tests are added or updated if you fix a bug or add a feature.,0.3924050632911392,158
+2026-03,before submitting the pr make sure the following are checked:,0.34177215189873417,158
+2026-03,### motivation / background,0.5759493670886076,158
+2026-03,this pull request is related to one change. unrelated changes should be opened in separate prs.,0.4240506329113924,158
+2026-03,### checklist,0.5,158
+2026-03,commit message has a detailed description of what changed and why. if this pr fixes a related issue include it in the commit message. ex: `[fix #issue-number]`,0.3670886075949367,158
+2026-04,### detail,0.45528455284552843,123
+2026-04,### additional information,0.34959349593495936,123
+2026-04,changelog files are updated for the changed libraries if there is a behavior change or additional feature. minor bug fixes and documentation changes should not be included.,0.4065040650406504,123
+2026-04,tests are added or updated if you fix a bug or add a feature.,0.4634146341463415,123
+2026-04,before submitting the pr make sure the following are checked:,0.37398373983739835,123
+2026-04,### motivation / background,0.5284552845528455,123
+2026-04,this pull request is related to one change. unrelated changes should be opened in separate prs.,0.4715447154471545,123
+2026-04,### checklist,0.5203252032520326,123
+2026-04,commit message has a detailed description of what changed and why. if this pr fixes a related issue include it in the commit message. ex: `[fix #issue-number]`,0.42276422764227645,123
+2026-05,### detail,0.6019900497512438,201
+2026-05,### additional information,0.4975124378109453,201
+2026-05,changelog files are updated for the changed libraries if there is a behavior change or additional feature. minor bug fixes and documentation changes should not be included.,0.4975124378109453,201
+2026-05,tests are added or updated if you fix a bug or add a feature.,0.572139303482587,201
+2026-05,before submitting the pr make sure the following are checked:,0.47761194029850745,201
+2026-05,### motivation / background,0.6218905472636815,201
+2026-05,this pull request is related to one change. unrelated changes should be opened in separate prs.,0.5522388059701493,201
+2026-05,### checklist,0.6268656716417911,201
+2026-05,commit message has a detailed description of what changed and why. if this pr fixes a related issue include it in the commit message. ex: `[fix #issue-number]`,0.4626865671641791,201
+2026-06,### detail,0.32904884318766064,389
+2026-06,### additional information,0.2390745501285347,389
+2026-06,changelog files are updated for the changed libraries if there is a behavior change or additional feature. minor bug fixes and documentation changes should not be included.,0.2802056555269923,389
+2026-06,tests are added or updated if you fix a bug or add a feature.,0.3213367609254499,389
+2026-06,before submitting the pr make sure the following are checked:,0.31876606683804626,389
+2026-06,### motivation / background,0.33676092544987146,389
+2026-06,this pull request is related to one change. unrelated changes should be opened in separate prs.,0.3110539845758355,389
+2026-06,### checklist,0.3496143958868895,389
+2026-06,commit message has a detailed description of what changed and why. if this pr fixes a related issue include it in the commit message. ex: `[fix #issue-number]`,0.3059125964010283,389
+2026-07,### detail,0.3446327683615819,354
+2026-07,### additional information,0.2401129943502825,354
+2026-07,changelog files are updated for the changed libraries if there is a behavior change or additional feature. minor bug fixes and documentation changes should not be included.,0.2655367231638418,354
+2026-07,tests are added or updated if you fix a bug or add a feature.,0.2909604519774011,354
+2026-07,before submitting the pr make sure the following are checked:,0.2824858757062147,354
+2026-07,### motivation / background,0.3446327683615819,354
+2026-07,this pull request is related to one change. unrelated changes should be opened in separate prs.,0.3022598870056497,354
+2026-07,### checklist,0.3615819209039548,354
+2026-07,commit message has a detailed description of what changed and why. if this pr fixes a related issue include it in the commit message. ex: `[fix #issue-number]`,0.288135593220339,354
+2026-08,### detail,0.4473684210526316,152
+2026-08,### additional information,0.3618421052631579,152
+2026-08,changelog files are updated for the changed libraries if there is a behavior change or additional feature. minor bug fixes and documentation changes should not be included.,0.3881578947368421,152
+2026-08,tests are added or updated if you fix a bug or add a feature.,0.48026315789473684,152
+2026-08,before submitting the pr make sure the following are checked:,0.4144736842105263,152
+2026-08,### motivation / background,0.4868421052631579,152
+2026-08,this pull request is related to one change. unrelated changes should be opened in separate prs.,0.4473684210526316,152
+2026-08,### checklist,0.4934210526315789,152
+2026-08,commit message has a detailed description of what changed and why. if this pr fixes a related issue include it in the commit message. ex: `[fix #issue-number]`,0.4276315789473684,152

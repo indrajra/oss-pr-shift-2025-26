@@ -1,0 +1,13 @@
+line,first_month,last_month,months,peak_share,change_event
+important files changed,2025-11,2026-08,7,0.8888888888888888,
+sequence diagram,2025-11,2026-01,3,0.8611111111111112,removed
+greptile summary,2025-12,2026-08,6,0.8611111111111112,added
+| filename | overview |,2026-05,2026-08,4,0.8297872340425532,added
+|----------|----------|,2026-05,2026-08,4,0.8297872340425532,added
+## summary,2026-05,2026-05,1,0.7,added
+confidence score: 5/5,2026-06,2026-06,1,0.6436781609195402,added
+🤖 generated with claude code,2026-06,2026-06,1,0.5057471264367817,added
+# description,2026-06,2026-06,1,0.47126436781609193,
+flowchart,2026-06,2026-06,1,0.4482758620689655,
+# todo,2026-06,2026-06,1,0.41379310344827586,
+no files require special attention.,2026-06,2026-06,1,0.3563218390804598,

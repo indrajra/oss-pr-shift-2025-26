@@ -1,0 +1,11 @@
+metric,label,n_baseline,n_final
+words_prose,Description words (non-empty),3,0
+files_changed,Files changed,13,0
+additions,Lines added,13,0
+deletions,Lines deleted,13,0
+net_lines,Net lines (added minus deleted),13,0
+churn,Lines changed (added plus deleted),13,0
+hours_to_merge,Hours from open to merge (merged PRs),13,0
+commits,Commits,13,0
+comments,Comments,13,0
+reviews,Reviews,13,0

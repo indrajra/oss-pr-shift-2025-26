@@ -1,0 +1,5 @@
+tool,n_exposed,status
+cursor,9,fewer than 30 exposed PRs
+unspecified,8,fewer than 30 exposed PRs
+gemini,7,fewer than 30 exposed PRs
+claude,7,fewer than 30 exposed PRs

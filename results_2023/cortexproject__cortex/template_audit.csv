@@ -1,0 +1,102 @@
+month,line,share_of_prs,n_prs
+2023-02,documentation added,0.9210526315789473,38
+2023-02,*what this pr does**:,0.8157894736842105,38
+2023-02,*checklist**,0.9736842105263158,38
+2023-02,"`changelog.md` updated - the order of entries should be `[change]`, `[feature]`, `[enhancement]`, `[bugfix]`",0.9736842105263158,38
+2023-02,tests updated,0.9210526315789473,38
+2023-04,*checklist**,0.8108108108108109,37
+2023-04,tests updated,0.8108108108108109,37
+2023-04,*what this pr does**:,0.8108108108108109,37
+2023-05,documentation added,0.7804878048780488,41
+2023-05,*what this pr does**:,0.8780487804878049,41
+2023-05,*checklist**,0.7804878048780488,41
+2023-05,"`changelog.md` updated - the order of entries should be `[change]`, `[feature]`, `[enhancement]`, `[bugfix]`",0.7560975609756098,41
+2023-05,tests updated,0.7804878048780488,41
+2023-06,documentation added,0.9024390243902439,41
+2023-06,*what this pr does**:,0.975609756097561,41
+2023-06,*checklist**,1.0,41
+2023-06,*which issue(s) this pr fixes**:,0.8536585365853658,41
+2023-06,"`changelog.md` updated - the order of entries should be `[change]`, `[feature]`, `[enhancement]`, `[bugfix]`",0.926829268292683,41
+2023-06,tests updated,0.9512195121951219,41
+2023-07,documentation added,0.8947368421052632,38
+2023-07,*what this pr does**:,0.9210526315789473,38
+2023-07,*checklist**,1.0,38
+2023-07,*which issue(s) this pr fixes**:,0.8421052631578947,38
+2023-07,"`changelog.md` updated - the order of entries should be `[change]`, `[feature]`, `[enhancement]`, `[bugfix]`",0.9210526315789473,38
+2023-07,tests updated,0.9736842105263158,38
+2023-08,documentation added,0.8857142857142857,35
+2023-08,*what this pr does**:,0.9142857142857143,35
+2023-08,*checklist**,1.0,35
+2023-08,"`changelog.md` updated - the order of entries should be `[change]`, `[feature]`, `[enhancement]`, `[bugfix]`",0.9142857142857143,35
+2023-08,tests updated,0.9428571428571428,35
+2023-09,fixes #,0.7090909090909091,55
+2023-09,documentation added,0.9090909090909091,55
+2023-09,*what this pr does**:,0.9454545454545454,55
+2023-09,*checklist**,1.0,55
+2023-09,*which issue(s) this pr fixes**:,0.8545454545454545,55
+2023-09,"`changelog.md` updated - the order of entries should be `[change]`, `[feature]`, `[enhancement]`, `[bugfix]`",0.9454545454545454,55
+2023-09,tests updated,0.9636363636363636,55
+2023-10,documentation added,0.9761904761904762,42
+2023-10,*what this pr does**:,1.0,42
+2023-10,*checklist**,1.0,42
+2023-10,*which issue(s) this pr fixes**:,0.9047619047619048,42
+2023-10,"`changelog.md` updated - the order of entries should be `[change]`, `[feature]`, `[enhancement]`, `[bugfix]`",1.0,42
+2023-10,tests updated,1.0,42
+2023-11,documentation added,1.0,35
+2023-11,*what this pr does**:,1.0,35
+2023-11,*checklist**,1.0,35
+2023-11,*which issue(s) this pr fixes**:,0.9714285714285714,35
+2023-11,"`changelog.md` updated - the order of entries should be `[change]`, `[feature]`, `[enhancement]`, `[bugfix]`",1.0,35
+2023-11,tests updated,1.0,35
+2023-12,fixes #,0.6964285714285714,56
+2023-12,documentation added,1.0,56
+2023-12,*what this pr does**:,1.0,56
+2023-12,*checklist**,1.0,56
+2023-12,*which issue(s) this pr fixes**:,0.9464285714285714,56
+2023-12,"`changelog.md` updated - the order of entries should be `[change]`, `[feature]`, `[enhancement]`, `[bugfix]`",1.0,56
+2023-12,tests updated,1.0,56
+2024-01,documentation added,1.0,43
+2024-01,*what this pr does**:,0.9767441860465116,43
+2024-01,*checklist**,1.0,43
+2024-01,*which issue(s) this pr fixes**:,0.9069767441860465,43
+2024-01,"`changelog.md` updated - the order of entries should be `[change]`, `[feature]`, `[enhancement]`, `[bugfix]`",1.0,43
+2024-01,tests updated,1.0,43
+2024-02,documentation added,0.95,40
+2024-02,*what this pr does**:,0.9,40
+2024-02,*checklist**,0.975,40
+2024-02,*which issue(s) this pr fixes**:,0.85,40
+2024-02,"`changelog.md` updated - the order of entries should be `[change]`, `[feature]`, `[enhancement]`, `[bugfix]`",0.95,40
+2024-02,tests updated,0.95,40
+2024-03,documentation added,0.8478260869565217,46
+2024-03,*what this pr does**:,0.8913043478260869,46
+2024-03,*checklist**,0.9782608695652174,46
+2024-03,*which issue(s) this pr fixes**:,0.8913043478260869,46
+2024-03,"`changelog.md` updated - the order of entries should be `[change]`, `[feature]`, `[enhancement]`, `[bugfix]`",0.8478260869565217,46
+2024-03,tests updated,0.8695652173913043,46
+2024-04,documentation added,0.7727272727272727,44
+2024-04,*what this pr does**:,0.8636363636363636,44
+2024-04,*checklist**,0.9090909090909091,44
+2024-04,*which issue(s) this pr fixes**:,0.75,44
+2024-04,"`changelog.md` updated - the order of entries should be `[change]`, `[feature]`, `[enhancement]`, `[bugfix]`",0.7954545454545454,44
+2024-04,tests updated,0.8181818181818182,44
+2024-05,fixes #,0.74,50
+2024-05,documentation added,0.82,50
+2024-05,*what this pr does**:,0.96,50
+2024-05,*checklist**,0.98,50
+2024-05,*which issue(s) this pr fixes**:,0.9,50
+2024-05,"`changelog.md` updated - the order of entries should be `[change]`, `[feature]`, `[enhancement]`, `[bugfix]`",0.84,50
+2024-05,tests updated,0.86,50
+2024-06,*checklist**,0.9090909090909091,33
+2024-07,documentation added,0.8,40
+2024-07,*what this pr does**:,0.925,40
+2024-07,*checklist**,0.95,40
+2024-07,*which issue(s) this pr fixes**:,0.8,40
+2024-07,"`changelog.md` updated - the order of entries should be `[change]`, `[feature]`, `[enhancement]`, `[bugfix]`",0.9,40
+2024-07,tests updated,0.925,40
+2024-08,fixes #,0.5873015873015873,63
+2024-08,documentation added,0.8253968253968254,63
+2024-08,*what this pr does**:,0.9365079365079365,63
+2024-08,*checklist**,0.9523809523809523,63
+2024-08,*which issue(s) this pr fixes**:,0.8412698412698413,63
+2024-08,"`changelog.md` updated - the order of entries should be `[change]`, `[feature]`, `[enhancement]`, `[bugfix]`",0.9047619047619048,63
+2024-08,tests updated,0.8888888888888888,63

@@ -1,0 +1,10 @@
+line,first_month,last_month,months,peak_share,change_event
+### checklist,2025-01,2026-08,20,0.6526315789473685,
+this pull request is related to one change. unrelated changes should be opened in separate prs.,2025-01,2026-08,20,0.6363636363636364,
+### motivation / background,2025-01,2026-08,20,0.6346153846153846,
+### detail,2025-01,2026-08,20,0.631578947368421,
+commit message has a detailed description of what changed and why. if this pr fixes a related issue include it in the commit message. ex: `[fix #issue-number]`,2025-01,2026-08,20,0.6262626262626263,
+before submitting the pr make sure the following are checked:,2025-01,2026-08,20,0.6105263157894737,
+tests are added or updated if you fix a bug or add a feature.,2025-01,2026-08,20,0.5925925925925926,
+changelog files are updated for the changed libraries if there is a behavior change or additional feature. minor bug fixes and documentation changes should not be included.,2025-01,2026-08,20,0.5673076923076923,
+### additional information,2025-01,2026-08,20,0.4975124378109453,

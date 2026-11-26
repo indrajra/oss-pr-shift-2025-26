@@ -1,0 +1,17 @@
+measure,window,up,down,sig_up,sig_down
+words,2023-24,21,19,6,5
+words,2025-26,40,4,24,0
+lines added,2023-24,20,25,1,5
+lines added,2025-26,35,8,13,1
+lines deleted,2023-24,22,19,1,1
+lines deleted,2025-26,20,21,0,2
+lines changed,2023-24,21,24,2,4
+lines changed,2025-26,31,12,11,3
+files,2023-24,13,12,0,0
+files,2025-26,19,9,1,0
+PRs opened,2023-24,23,22,8,5
+PRs opened,2025-26,35,10,15,0
+PRs merged,2023-24,23,20,5,6
+PRs merged,2025-26,32,13,9,1
+merge rate,2023-24,20,25,3,1
+merge rate,2025-26,10,34,1,17

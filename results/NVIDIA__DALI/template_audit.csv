@@ -1,0 +1,489 @@
+month,line,share_of_prs,n_prs
+2025-02,### tests:,0.967741935483871,31
+2025-02,doxygen,0.967741935483871,31
+2025-02,other,0.967741935483871,31
+2025-02,### documentation,0.967741935483871,31
+2025-02,*req ids**: n/a,0.967741935483871,31
+2025-02,## description:,0.967741935483871,31
+2025-02,python tests,0.967741935483871,31
+2025-02,existing tests apply,0.967741935483871,31
+2025-02,implements new requirements,0.967741935483871,31
+2025-02,## checklist,0.967741935483871,31
+2025-02,new tests added,0.967741935483871,31
+2025-02,documentation updated,0.967741935483871,31
+2025-02,n/a,0.967741935483871,31
+2025-02,existing documentation applies,0.967741935483871,31
+2025-02,### dali team only,0.967741935483871,31
+2025-02,#### requirements,0.967741935483871,31
+2025-02,benchmark,0.967741935483871,31
+2025-02,affects existing requirements,0.967741935483871,31
+2025-02,## additional information:,0.967741935483871,31
+2025-02,jupyter,0.967741935483871,31
+2025-02,docstring,0.967741935483871,31
+2025-02,gtests,0.967741935483871,31
+2025-02,rst,0.967741935483871,31
+2025-03,### tests:,0.9827586206896551,58
+2025-03,doxygen,0.9827586206896551,58
+2025-03,other,0.9827586206896551,58
+2025-03,### documentation,0.9827586206896551,58
+2025-03,*req ids**: n/a,0.9827586206896551,58
+2025-03,## description:,0.9827586206896551,58
+2025-03,python tests,0.9827586206896551,58
+2025-03,existing tests apply,0.9827586206896551,58
+2025-03,### key points relevant for the review:,0.9655172413793104,58
+2025-03,implements new requirements,0.9827586206896551,58
+2025-03,## checklist,0.9827586206896551,58
+2025-03,new tests added,0.9827586206896551,58
+2025-03,documentation updated,0.9827586206896551,58
+2025-03,## category:,0.9655172413793104,58
+2025-03,n/a,0.9827586206896551,58
+2025-03,existing documentation applies,0.9827586206896551,58
+2025-03,*jira task**: n/a,0.9310344827586207,58
+2025-03,### dali team only,0.9827586206896551,58
+2025-03,### affected modules and functionalities:,0.9655172413793104,58
+2025-03,#### requirements,0.9827586206896551,58
+2025-03,benchmark,0.9827586206896551,58
+2025-03,affects existing requirements,0.9827586206896551,58
+2025-03,## additional information:,0.9827586206896551,58
+2025-03,jupyter,0.9827586206896551,58
+2025-03,docstring,0.9827586206896551,58
+2025-03,gtests,0.9827586206896551,58
+2025-03,rst,0.9827586206896551,58
+2025-04,### tests:,1.0,37
+2025-04,doxygen,1.0,37
+2025-04,other,1.0,37
+2025-04,### documentation,1.0,37
+2025-04,*req ids**: n/a,1.0,37
+2025-04,## description:,1.0,37
+2025-04,python tests,1.0,37
+2025-04,existing tests apply,1.0,37
+2025-04,### key points relevant for the review:,1.0,37
+2025-04,implements new requirements,1.0,37
+2025-04,## checklist,1.0,37
+2025-04,new tests added,1.0,37
+2025-04,documentation updated,1.0,37
+2025-04,## category:,1.0,37
+2025-04,n/a,1.0,37
+2025-04,existing documentation applies,1.0,37
+2025-04,*jira task**: n/a,0.918918918918919,37
+2025-04,### dali team only,1.0,37
+2025-04,### affected modules and functionalities:,1.0,37
+2025-04,#### requirements,1.0,37
+2025-04,benchmark,1.0,37
+2025-04,affects existing requirements,1.0,37
+2025-04,## additional information:,1.0,37
+2025-04,jupyter,1.0,37
+2025-04,docstring,1.0,37
+2025-04,gtests,1.0,37
+2025-04,rst,1.0,37
+2025-05,### tests:,1.0,65
+2025-05,doxygen,1.0,65
+2025-05,other,1.0,65
+2025-05,### documentation,1.0,65
+2025-05,*req ids**: n/a,1.0,65
+2025-05,## description:,1.0,65
+2025-05,python tests,1.0,65
+2025-05,existing tests apply,0.9846153846153847,65
+2025-05,### key points relevant for the review:,0.9846153846153847,65
+2025-05,implements new requirements,1.0,65
+2025-05,## checklist,1.0,65
+2025-05,new tests added,1.0,65
+2025-05,documentation updated,1.0,65
+2025-05,## category:,0.9692307692307692,65
+2025-05,n/a,1.0,65
+2025-05,existing documentation applies,1.0,65
+2025-05,*jira task**: n/a,0.9230769230769231,65
+2025-05,### dali team only,1.0,65
+2025-05,### affected modules and functionalities:,1.0,65
+2025-05,#### requirements,1.0,65
+2025-05,benchmark,0.9846153846153847,65
+2025-05,affects existing requirements,1.0,65
+2025-05,## additional information:,1.0,65
+2025-05,jupyter,1.0,65
+2025-05,docstring,1.0,65
+2025-05,gtests,0.9846153846153847,65
+2025-05,rst,1.0,65
+2025-06,### tests:,0.9803921568627451,51
+2025-06,doxygen,0.9803921568627451,51
+2025-06,other,0.9803921568627451,51
+2025-06,### documentation,0.9803921568627451,51
+2025-06,*req ids**: n/a,0.9803921568627451,51
+2025-06,## description:,0.9803921568627451,51
+2025-06,python tests,0.9803921568627451,51
+2025-06,existing tests apply,0.9607843137254902,51
+2025-06,### key points relevant for the review:,0.9607843137254902,51
+2025-06,implements new requirements,0.9803921568627451,51
+2025-06,## checklist,0.9803921568627451,51
+2025-06,new tests added,0.9803921568627451,51
+2025-06,documentation updated,0.9803921568627451,51
+2025-06,## category:,0.9411764705882353,51
+2025-06,n/a,0.9803921568627451,51
+2025-06,existing documentation applies,0.9803921568627451,51
+2025-06,*jira task**: n/a,0.8235294117647058,51
+2025-06,### dali team only,0.9803921568627451,51
+2025-06,### affected modules and functionalities:,0.9803921568627451,51
+2025-06,#### requirements,0.9803921568627451,51
+2025-06,benchmark,0.9607843137254902,51
+2025-06,affects existing requirements,0.9803921568627451,51
+2025-06,## additional information:,0.9803921568627451,51
+2025-06,jupyter,0.9803921568627451,51
+2025-06,docstring,0.9803921568627451,51
+2025-06,gtests,0.9607843137254902,51
+2025-06,rst,0.9803921568627451,51
+2025-07,### tests:,0.9487179487179487,39
+2025-07,doxygen,0.9743589743589743,39
+2025-07,other,0.9743589743589743,39
+2025-07,### documentation,0.9743589743589743,39
+2025-07,*req ids**: n/a,0.9743589743589743,39
+2025-07,## description:,0.9743589743589743,39
+2025-07,python tests,0.9743589743589743,39
+2025-07,existing tests apply,0.9743589743589743,39
+2025-07,### key points relevant for the review:,0.9743589743589743,39
+2025-07,implements new requirements,0.9743589743589743,39
+2025-07,## checklist,0.9743589743589743,39
+2025-07,new tests added,0.9743589743589743,39
+2025-07,documentation updated,0.9743589743589743,39
+2025-07,## category:,0.9743589743589743,39
+2025-07,n/a,0.9743589743589743,39
+2025-07,existing documentation applies,0.9743589743589743,39
+2025-07,*jira task**: n/a,0.8205128205128205,39
+2025-07,### dali team only,0.9743589743589743,39
+2025-07,### affected modules and functionalities:,0.9743589743589743,39
+2025-07,#### requirements,0.9743589743589743,39
+2025-07,benchmark,0.9743589743589743,39
+2025-07,affects existing requirements,0.9743589743589743,39
+2025-07,## additional information:,0.9743589743589743,39
+2025-07,jupyter,0.9743589743589743,39
+2025-07,docstring,0.9743589743589743,39
+2025-07,gtests,0.9743589743589743,39
+2025-07,rst,0.9743589743589743,39
+2025-08,### tests:,0.9523809523809523,42
+2025-08,doxygen,1.0,42
+2025-08,other,1.0,42
+2025-08,### documentation,1.0,42
+2025-08,*req ids**: n/a,1.0,42
+2025-08,## description:,1.0,42
+2025-08,python tests,1.0,42
+2025-08,existing tests apply,1.0,42
+2025-08,### key points relevant for the review:,1.0,42
+2025-08,implements new requirements,1.0,42
+2025-08,## checklist,1.0,42
+2025-08,new tests added,1.0,42
+2025-08,documentation updated,1.0,42
+2025-08,## category:,1.0,42
+2025-08,n/a,1.0,42
+2025-08,existing documentation applies,1.0,42
+2025-08,*jira task**: n/a,1.0,42
+2025-08,### dali team only,1.0,42
+2025-08,### affected modules and functionalities:,1.0,42
+2025-08,#### requirements,1.0,42
+2025-08,benchmark,1.0,42
+2025-08,affects existing requirements,1.0,42
+2025-08,## additional information:,1.0,42
+2025-08,jupyter,1.0,42
+2025-08,docstring,1.0,42
+2025-08,gtests,1.0,42
+2025-08,rst,1.0,42
+2025-09,### tests:,1.0,30
+2025-09,doxygen,1.0,30
+2025-09,other,1.0,30
+2025-09,### documentation,1.0,30
+2025-09,*req ids**: n/a,1.0,30
+2025-09,## description:,1.0,30
+2025-09,python tests,1.0,30
+2025-09,existing tests apply,1.0,30
+2025-09,### key points relevant for the review:,1.0,30
+2025-09,implements new requirements,1.0,30
+2025-09,## checklist,1.0,30
+2025-09,new tests added,1.0,30
+2025-09,documentation updated,1.0,30
+2025-09,n/a,1.0,30
+2025-09,existing documentation applies,1.0,30
+2025-09,### dali team only,1.0,30
+2025-09,### affected modules and functionalities:,1.0,30
+2025-09,#### requirements,1.0,30
+2025-09,benchmark,1.0,30
+2025-09,affects existing requirements,1.0,30
+2025-09,## additional information:,1.0,30
+2025-09,jupyter,1.0,30
+2025-09,docstring,1.0,30
+2025-09,gtests,1.0,30
+2025-09,rst,1.0,30
+2025-10,### tests:,1.0,36
+2025-10,doxygen,0.9166666666666666,36
+2025-10,other,0.9166666666666666,36
+2025-10,### documentation,1.0,36
+2025-10,*req ids**: n/a,1.0,36
+2025-10,## description:,1.0,36
+2025-10,python tests,0.9166666666666666,36
+2025-10,existing tests apply,0.9166666666666666,36
+2025-10,### key points relevant for the review:,1.0,36
+2025-10,implements new requirements,0.9722222222222222,36
+2025-10,## checklist,1.0,36
+2025-10,new tests added,0.8888888888888888,36
+2025-10,documentation updated,0.9444444444444444,36
+2025-10,## category:,1.0,36
+2025-10,n/a,1.0,36
+2025-10,existing documentation applies,0.9444444444444444,36
+2025-10,### dali team only,1.0,36
+2025-10,### affected modules and functionalities:,1.0,36
+2025-10,#### requirements,1.0,36
+2025-10,benchmark,0.9166666666666666,36
+2025-10,affects existing requirements,0.9722222222222222,36
+2025-10,## additional information:,1.0,36
+2025-10,jupyter,0.9166666666666666,36
+2025-10,docstring,0.9166666666666666,36
+2025-10,gtests,0.9166666666666666,36
+2025-10,rst,0.9166666666666666,36
+2025-11,### tests:,1.0,59
+2025-11,doxygen,0.9152542372881356,59
+2025-11,other,0.9152542372881356,59
+2025-11,### documentation,1.0,59
+2025-11,*req ids**: n/a,1.0,59
+2025-11,## description:,1.0,59
+2025-11,python tests,0.9491525423728814,59
+2025-11,existing tests apply,0.8813559322033898,59
+2025-11,### key points relevant for the review:,1.0,59
+2025-11,implements new requirements,0.9491525423728814,59
+2025-11,## checklist,1.0,59
+2025-11,new tests added,0.9322033898305084,59
+2025-11,documentation updated,0.9322033898305084,59
+2025-11,## category:,0.9661016949152542,59
+2025-11,n/a,1.0,59
+2025-11,existing documentation applies,0.8983050847457628,59
+2025-11,*jira task**: n/a,0.6949152542372882,59
+2025-11,### dali team only,1.0,59
+2025-11,### affected modules and functionalities:,1.0,59
+2025-11,#### requirements,1.0,59
+2025-11,benchmark,0.8983050847457628,59
+2025-11,affects existing requirements,0.9491525423728814,59
+2025-11,## additional information:,0.9661016949152542,59
+2025-11,jupyter,0.9152542372881356,59
+2025-11,docstring,0.9152542372881356,59
+2025-11,gtests,0.9152542372881356,59
+2025-11,rst,0.9152542372881356,59
+2025-12,### tests:,0.9761904761904762,42
+2025-12,doxygen,0.9761904761904762,42
+2025-12,other,0.9761904761904762,42
+2025-12,### documentation,0.9761904761904762,42
+2025-12,*req ids**: n/a,0.9523809523809523,42
+2025-12,## description:,0.9523809523809523,42
+2025-12,python tests,0.9523809523809523,42
+2025-12,existing tests apply,0.9761904761904762,42
+2025-12,### key points relevant for the review:,0.9761904761904762,42
+2025-12,implements new requirements,0.9761904761904762,42
+2025-12,## checklist,0.9761904761904762,42
+2025-12,new tests added,0.9523809523809523,42
+2025-12,documentation updated,0.9761904761904762,42
+2025-12,## category:,0.7142857142857143,42
+2025-12,n/a,0.9761904761904762,42
+2025-12,existing documentation applies,0.9761904761904762,42
+2025-12,*jira task**: n/a,0.7142857142857143,42
+2025-12,### dali team only,0.9761904761904762,42
+2025-12,### affected modules and functionalities:,0.9761904761904762,42
+2025-12,#### requirements,0.9761904761904762,42
+2025-12,benchmark,0.9761904761904762,42
+2025-12,affects existing requirements,0.9761904761904762,42
+2025-12,## additional information:,0.9761904761904762,42
+2025-12,jupyter,0.9761904761904762,42
+2025-12,docstring,0.9761904761904762,42
+2025-12,gtests,0.9761904761904762,42
+2025-12,rst,0.9761904761904762,42
+2026-01,### tests:,1.0,31
+2026-01,doxygen,1.0,31
+2026-01,other,1.0,31
+2026-01,### documentation,1.0,31
+2026-01,*req ids**: n/a,1.0,31
+2026-01,## description:,1.0,31
+2026-01,python tests,1.0,31
+2026-01,existing tests apply,1.0,31
+2026-01,### key points relevant for the review:,1.0,31
+2026-01,implements new requirements,1.0,31
+2026-01,## checklist,1.0,31
+2026-01,new tests added,0.967741935483871,31
+2026-01,documentation updated,1.0,31
+2026-01,n/a,1.0,31
+2026-01,existing documentation applies,1.0,31
+2026-01,### dali team only,1.0,31
+2026-01,### affected modules and functionalities:,1.0,31
+2026-01,#### requirements,1.0,31
+2026-01,benchmark,1.0,31
+2026-01,affects existing requirements,1.0,31
+2026-01,## additional information:,1.0,31
+2026-01,jupyter,1.0,31
+2026-01,docstring,1.0,31
+2026-01,gtests,1.0,31
+2026-01,rst,1.0,31
+2026-02,### tests:,1.0,53
+2026-02,doxygen,1.0,53
+2026-02,other,1.0,53
+2026-02,### documentation,1.0,53
+2026-02,*req ids**: n/a,0.9811320754716981,53
+2026-02,## description:,0.9622641509433962,53
+2026-02,python tests,1.0,53
+2026-02,existing tests apply,1.0,53
+2026-02,### key points relevant for the review:,0.9811320754716981,53
+2026-02,implements new requirements,1.0,53
+2026-02,## checklist,1.0,53
+2026-02,new tests added,1.0,53
+2026-02,documentation updated,1.0,53
+2026-02,## category:,0.9811320754716981,53
+2026-02,n/a,1.0,53
+2026-02,existing documentation applies,1.0,53
+2026-02,*jira task**: n/a,0.7924528301886793,53
+2026-02,### dali team only,1.0,53
+2026-02,### affected modules and functionalities:,0.9811320754716981,53
+2026-02,#### requirements,1.0,53
+2026-02,benchmark,1.0,53
+2026-02,affects existing requirements,1.0,53
+2026-02,## additional information:,0.9811320754716981,53
+2026-02,jupyter,1.0,53
+2026-02,docstring,1.0,53
+2026-02,gtests,1.0,53
+2026-02,rst,1.0,53
+2026-03,n/a,0.9117647058823529,34
+2026-03,existing documentation applies,0.8823529411764706,34
+2026-03,### key points relevant for the review:,0.9411764705882353,34
+2026-03,## checklist,0.9411764705882353,34
+2026-03,### tests:,0.9117647058823529,34
+2026-03,### dali team only,0.9411764705882353,34
+2026-03,### affected modules and functionalities:,0.9411764705882353,34
+2026-03,#### requirements,0.9411764705882353,34
+2026-03,documentation updated,0.8823529411764706,34
+2026-03,### documentation,0.9411764705882353,34
+2026-03,*req ids**: n/a,0.9117647058823529,34
+2026-03,## description:,0.9411764705882353,34
+2026-03,## category:,0.9411764705882353,34
+2026-03,## additional information:,0.9411764705882353,34
+2026-04,### tests:,0.84,50
+2026-04,doxygen,0.78,50
+2026-04,other,0.78,50
+2026-04,### documentation,0.86,50
+2026-04,*req ids**: n/a,0.82,50
+2026-04,## description:,0.86,50
+2026-04,python tests,0.78,50
+2026-04,existing tests apply,0.84,50
+2026-04,### key points relevant for the review:,0.86,50
+2026-04,implements new requirements,0.8,50
+2026-04,## checklist,0.86,50
+2026-04,new tests added,0.82,50
+2026-04,documentation updated,0.8,50
+2026-04,## category:,0.86,50
+2026-04,n/a,0.86,50
+2026-04,existing documentation applies,0.8,50
+2026-04,*jira task**: n/a,0.7,50
+2026-04,### dali team only,0.84,50
+2026-04,### affected modules and functionalities:,0.86,50
+2026-04,#### requirements,0.86,50
+2026-04,benchmark,0.78,50
+2026-04,affects existing requirements,0.82,50
+2026-04,## additional information:,0.86,50
+2026-04,jupyter,0.78,50
+2026-04,docstring,0.78,50
+2026-04,gtests,0.8,50
+2026-04,rst,0.78,50
+2026-05,### tests:,0.8297872340425532,47
+2026-05,doxygen,0.8085106382978723,47
+2026-05,other,0.8297872340425532,47
+2026-05,### documentation,0.8297872340425532,47
+2026-05,*req ids**: n/a,0.8297872340425532,47
+2026-05,## description:,0.8085106382978723,47
+2026-05,python tests,0.8297872340425532,47
+2026-05,existing tests apply,0.8085106382978723,47
+2026-05,### key points relevant for the review:,0.8085106382978723,47
+2026-05,implements new requirements,0.8297872340425532,47
+2026-05,## checklist,0.8297872340425532,47
+2026-05,new tests added,0.8297872340425532,47
+2026-05,documentation updated,0.8297872340425532,47
+2026-05,## category:,0.8085106382978723,47
+2026-05,n/a,0.8297872340425532,47
+2026-05,existing documentation applies,0.8297872340425532,47
+2026-05,### dali team only,0.8297872340425532,47
+2026-05,### affected modules and functionalities:,0.8085106382978723,47
+2026-05,#### requirements,0.8297872340425532,47
+2026-05,benchmark,0.8297872340425532,47
+2026-05,affects existing requirements,0.8297872340425532,47
+2026-05,## additional information:,0.8085106382978723,47
+2026-05,jupyter,0.8085106382978723,47
+2026-05,docstring,0.8085106382978723,47
+2026-05,gtests,0.8297872340425532,47
+2026-05,rst,0.8085106382978723,47
+2026-06,### tests:,0.9375,32
+2026-06,doxygen,0.96875,32
+2026-06,other,0.96875,32
+2026-06,### documentation,0.96875,32
+2026-06,*req ids**: n/a,0.9375,32
+2026-06,## description:,0.9375,32
+2026-06,python tests,0.96875,32
+2026-06,existing tests apply,0.9375,32
+2026-06,### key points relevant for the review:,0.9375,32
+2026-06,implements new requirements,0.9375,32
+2026-06,## checklist,0.9375,32
+2026-06,new tests added,0.96875,32
+2026-06,documentation updated,0.96875,32
+2026-06,## category:,0.9375,32
+2026-06,n/a,0.96875,32
+2026-06,existing documentation applies,0.96875,32
+2026-06,### dali team only,0.96875,32
+2026-06,### affected modules and functionalities:,0.9375,32
+2026-06,#### requirements,0.9375,32
+2026-06,benchmark,0.96875,32
+2026-06,affects existing requirements,0.9375,32
+2026-06,## additional information:,0.9375,32
+2026-06,jupyter,0.96875,32
+2026-06,docstring,0.96875,32
+2026-06,gtests,0.96875,32
+2026-06,rst,0.96875,32
+2026-07,### tests:,0.9615384615384616,52
+2026-07,doxygen,0.9423076923076923,52
+2026-07,other,0.9807692307692307,52
+2026-07,### documentation,0.9807692307692307,52
+2026-07,*req ids**: n/a,0.9615384615384616,52
+2026-07,## description:,0.9615384615384616,52
+2026-07,python tests,0.9615384615384616,52
+2026-07,existing tests apply,0.9615384615384616,52
+2026-07,### key points relevant for the review:,0.9615384615384616,52
+2026-07,implements new requirements,0.9615384615384616,52
+2026-07,## checklist,0.9615384615384616,52
+2026-07,new tests added,0.9807692307692307,52
+2026-07,documentation updated,0.9807692307692307,52
+2026-07,## category:,0.9615384615384616,52
+2026-07,n/a,0.9807692307692307,52
+2026-07,existing documentation applies,0.9807692307692307,52
+2026-07,*jira task**: n/a,0.5769230769230769,52
+2026-07,### dali team only,0.9807692307692307,52
+2026-07,### affected modules and functionalities:,0.9615384615384616,52
+2026-07,#### requirements,0.9615384615384616,52
+2026-07,benchmark,0.9807692307692307,52
+2026-07,affects existing requirements,0.9615384615384616,52
+2026-07,## additional information:,0.9615384615384616,52
+2026-07,jupyter,0.9807692307692307,52
+2026-07,docstring,0.9807692307692307,52
+2026-07,gtests,0.9807692307692307,52
+2026-07,rst,0.9807692307692307,52
+2026-08,### tests:,1.0,38
+2026-08,doxygen,0.9473684210526315,38
+2026-08,other,1.0,38
+2026-08,### documentation,1.0,38
+2026-08,*req ids**: n/a,1.0,38
+2026-08,## description:,1.0,38
+2026-08,python tests,0.9736842105263158,38
+2026-08,existing tests apply,1.0,38
+2026-08,### key points relevant for the review:,1.0,38
+2026-08,implements new requirements,1.0,38
+2026-08,## checklist,1.0,38
+2026-08,new tests added,1.0,38
+2026-08,documentation updated,1.0,38
+2026-08,## category:,0.9736842105263158,38
+2026-08,n/a,1.0,38
+2026-08,existing documentation applies,1.0,38
+2026-08,### dali team only,1.0,38
+2026-08,### affected modules and functionalities:,1.0,38
+2026-08,#### requirements,1.0,38
+2026-08,benchmark,1.0,38
+2026-08,affects existing requirements,1.0,38
+2026-08,## additional information:,1.0,38
+2026-08,jupyter,1.0,38
+2026-08,docstring,1.0,38
+2026-08,gtests,1.0,38
+2026-08,rst,1.0,38

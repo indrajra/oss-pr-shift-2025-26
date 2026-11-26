@@ -1,0 +1,76 @@
+month,line,share_of_prs,n_prs
+2023-01,### license,1.0,82
+2023-01,"by submitting this pull request, i confirm that my contribution is made under the terms of the apache 2.0 license.",0.9878048780487805,82
+2023-01,### description,0.975609756097561,82
+2023-02,### context,0.297029702970297,101
+2023-02,"by submitting this pull request, i confirm that my contribution is made under the terms of the apache 2.0 license.",0.9801980198019802,101
+2023-02,### license,0.9801980198019802,101
+2023-02,### description,0.9702970297029703,101
+2023-03,"by submitting this pull request, i confirm that my contribution is made under the terms of the apache 2.0 license.",0.9767441860465116,86
+2023-03,### license,0.9767441860465116,86
+2023-03,### description,0.9883720930232558,86
+2023-04,### context,0.32978723404255317,94
+2023-04,"by submitting this pull request, i confirm that my contribution is made under the terms of the apache 2.0 license.",0.9893617021276596,94
+2023-04,### license,0.9893617021276596,94
+2023-04,### description,0.8404255319148937,94
+2023-05,### license,1.0,77
+2023-05,"by submitting this pull request, i confirm that my contribution is made under the terms of the apache 2.0 license.",1.0,77
+2023-05,### description,0.9090909090909091,77
+2023-06,"by submitting this pull request, i confirm that my contribution is made under the terms of the apache 2.0 license.",0.9838709677419355,62
+2023-06,### license,0.9838709677419355,62
+2023-06,### description,0.9838709677419355,62
+2023-07,### license,1.0,66
+2023-07,"by submitting this pull request, i confirm that my contribution is made under the terms of the apache 2.0 license.",1.0,66
+2023-07,### description,1.0,66
+2023-08,### context,0.29464285714285715,112
+2023-08,"by submitting this pull request, i confirm that my contribution is made under the terms of the apache 2.0 license.",0.9821428571428571,112
+2023-08,### license,0.9821428571428571,112
+2023-08,### description,1.0,112
+2023-09,### license,1.0,50
+2023-09,"by submitting this pull request, i confirm that my contribution is made under the terms of the apache 2.0 license.",1.0,50
+2023-09,### description,0.96,50
+2023-10,### license,0.987012987012987,77
+2023-10,"by submitting this pull request, i confirm that my contribution is made under the terms of the apache 2.0 license.",1.0,77
+2023-10,### description,0.987012987012987,77
+2023-11,"by submitting this pull request, i confirm that my contribution is made under the terms of the apache 2.0 license.",1.0,59
+2023-11,### license,1.0,59
+2023-11,### description,0.9830508474576272,59
+2023-12,### license,0.991304347826087,115
+2023-12,"by submitting this pull request, i confirm that my contribution is made under the terms of the apache 2.0 license.",0.991304347826087,115
+2023-12,### description,1.0,115
+2024-01,### license,1.0,71
+2024-01,"by submitting this pull request, i confirm that my contribution is made under the terms of the apache 2.0 license.",1.0,71
+2024-01,### description,1.0,71
+2024-02,### context,0.5053763440860215,93
+2024-02,"by submitting this pull request, i confirm that my contribution is made under the terms of the apache 2.0 license.",0.989247311827957,93
+2024-02,### license,0.989247311827957,93
+2024-02,### description,0.989247311827957,93
+2024-03,### context,0.2894736842105263,114
+2024-03,"by submitting this pull request, i confirm that my contribution is made under the terms of the apache 2.0 license.",1.0,114
+2024-03,### license,1.0,114
+2024-03,### description,0.9912280701754386,114
+2024-04,### context,0.3423913043478261,184
+2024-04,"by submitting this pull request, i confirm that my contribution is made under the terms of the apache 2.0 license.",0.9945652173913043,184
+2024-04,### license,0.9945652173913043,184
+2024-04,### description,0.9945652173913043,184
+2024-05,### context,0.40559440559440557,143
+2024-05,"by submitting this pull request, i confirm that my contribution is made under the terms of the apache 2.0 license.",0.993006993006993,143
+2024-05,### license,0.993006993006993,143
+2024-05,### description,1.0,143
+2024-06,### context,0.3516483516483517,91
+2024-06,"by submitting this pull request, i confirm that my contribution is made under the terms of the apache 2.0 license.",1.0,91
+2024-06,### license,1.0,91
+2024-06,### description,0.989010989010989,91
+2024-07,### context,0.3793103448275862,116
+2024-07,### license,1.0,116
+2024-07,"by submitting this pull request, i confirm that my contribution is made under the terms of the apache 2.0 license.",1.0,116
+2024-07,### description,1.0,116
+2024-08,### checklist,0.7571428571428571,70
+2024-08,### description,1.0,70
+2024-08,### context,0.6142857142857143,70
+2024-08,are there new checks included in this pr? yes / no,0.5,70
+2024-08,review if the code is being covered by tests.,0.7571428571428571,70
+2024-08,review if code is being documented following this specification,0.7571428571428571,70
+2024-08,"if so, do we need to update permissions for the provider? please review this carefully.",0.6571428571428571,70
+2024-08,"by submitting this pull request, i confirm that my contribution is made under the terms of the apache 2.0 license.",1.0,70
+2024-08,### license,1.0,70

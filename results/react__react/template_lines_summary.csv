@@ -1,0 +1,7 @@
+line,first_month,last_month,months,peak_share,change_event
+## summary,2025-01,2026-08,16,0.6967213114754098,
+## how did you test this change?,2025-01,2026-08,15,0.5053763440860215,
+--,2025-03,2026-02,4,0.3145539906103286,
+[//]: # (begin sapling footer),2025-03,2026-02,3,0.30985915492957744,
+stack created with sapling. best reviewed with reviewstack.,2025-03,2026-02,3,0.30985915492957744,
+stack from ghstack (oldest at bottom):,2025-05,2025-05,1,0.2057142857142857,

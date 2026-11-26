@@ -1,0 +1,6 @@
+line,first_month,last_month,months,peak_share,change_event
+### details,2025-07,2026-08,5,0.6607142857142857,
+### tests,2025-07,2026-08,5,0.6607142857142857,
+### fixed issues,2025-07,2026-08,5,0.6307692307692307,
+"*internal testing reminder:** when changing bedrock, please compile auth against your new changes",2025-12,2026-08,3,0.6428571428571429,added
+_________,2025-12,2026-08,3,0.6428571428571429,added

@@ -1,0 +1,308 @@
+month,line,share_of_prs,n_prs
+2025-02,---,0.94,50
+2025-02,---------,0.94,50
+2025-02,open questions / follow-ups,0.94,50
+2025-02,is this change gated behind feature flag(s)?,0.86,50
+2025-02,"if so, include tracking information for the system test changes",0.88,50
+2025-02,-------------------------,0.94,50
+2025-02,does this change require modifying existing system tests or adding new system tests?,0.88,50
+2025-02,test & review,0.96,50
+2025-02,did you add sufficient unit test and/or integration test coverage for this pr?,0.86,50
+2025-02,jira:,0.88,50
+2025-02,-----------,0.96,50
+2025-02,contains customer facing changes? including api/behavior changes,0.88,50
+2025-02,references,0.94,50
+2025-02,what,0.94,50
+2025-02,checklist,0.94,50
+2025-02,-----------------,0.94,50
+2025-02,"if not, please explain why it is not required",0.72,50
+2025-02,list the ld flags needed to be set to enable this change,0.9,50
+2025-03,---,0.9620253164556962,79
+2025-03,---------,0.9620253164556962,79
+2025-03,open questions / follow-ups,0.9493670886075949,79
+2025-03,is this change gated behind feature flag(s)?,0.8227848101265823,79
+2025-03,"if so, include tracking information for the system test changes",0.9113924050632911,79
+2025-03,-------------------------,0.9493670886075949,79
+2025-03,does this change require modifying existing system tests or adding new system tests?,0.8481012658227848,79
+2025-03,test & review,0.9746835443037974,79
+2025-03,did you add sufficient unit test and/or integration test coverage for this pr?,0.8227848101265823,79
+2025-03,jira:,0.8354430379746836,79
+2025-03,-----------,0.9746835443037974,79
+2025-03,contains customer facing changes? including api/behavior changes,0.8481012658227848,79
+2025-03,references,0.9620253164556962,79
+2025-03,what,0.9620253164556962,79
+2025-03,checklist,0.9620253164556962,79
+2025-03,-----------------,0.9620253164556962,79
+2025-03,"if not, please explain why it is not required",0.810126582278481,79
+2025-03,list the ld flags needed to be set to enable this change,0.9240506329113924,79
+2025-04,---,1.0,42
+2025-04,---------,1.0,42
+2025-04,open questions / follow-ups,1.0,42
+2025-04,is this change gated behind feature flag(s)?,0.9523809523809523,42
+2025-04,"if so, include tracking information for the system test changes",1.0,42
+2025-04,-------------------------,1.0,42
+2025-04,does this change require modifying existing system tests or adding new system tests?,0.9523809523809523,42
+2025-04,test & review,1.0,42
+2025-04,did you add sufficient unit test and/or integration test coverage for this pr?,0.9285714285714286,42
+2025-04,jira:,0.8809523809523809,42
+2025-04,-----------,1.0,42
+2025-04,contains customer facing changes? including api/behavior changes,0.9047619047619048,42
+2025-04,references,1.0,42
+2025-04,what,1.0,42
+2025-04,-----------------,1.0,42
+2025-04,checklist,1.0,42
+2025-04,"if not, please explain why it is not required",1.0,42
+2025-04,list the ld flags needed to be set to enable this change,1.0,42
+2025-05,---,1.0,62
+2025-05,---------,1.0,62
+2025-05,open questions / follow-ups,1.0,62
+2025-05,is this change gated behind feature flag(s)?,0.6451612903225806,62
+2025-05,"if so, include tracking information for the system test changes",1.0,62
+2025-05,-------------------------,1.0,62
+2025-05,does this change require modifying existing system tests or adding new system tests?,0.6451612903225806,62
+2025-05,test & review,1.0,62
+2025-05,did you add sufficient unit test and/or integration test coverage for this pr?,0.6290322580645161,62
+2025-05,jira:,0.9193548387096774,62
+2025-05,-----------,1.0,62
+2025-05,contains customer facing changes? including api/behavior changes,0.6129032258064516,62
+2025-05,references,1.0,62
+2025-05,what,1.0,62
+2025-05,-----------------,1.0,62
+2025-05,checklist,1.0,62
+2025-05,"if not, please explain why it is not required",0.9838709677419355,62
+2025-05,list the ld flags needed to be set to enable this change,0.6774193548387096,62
+2025-07,---,1.0,36
+2025-07,"please answer the questions with y, n or n/a if not applicable.",1.0,36
+2025-07,---------,1.0,36
+2025-07,open questions / follow-ups,0.9166666666666666,36
+2025-07,"if so, include tracking information for the system test changes",1.0,36
+2025-07,-------------------------,0.9166666666666666,36
+2025-07,test & review,0.9722222222222222,36
+2025-07,list the config(s) needed to be set to enable this change,1.0,36
+2025-07,"if so, please include the link(s) to the changes that must be released together",1.0,36
+2025-07,jira:,1.0,36
+2025-07,-----------,0.9722222222222222,36
+2025-07,references,1.0,36
+2025-07,what,0.9444444444444444,36
+2025-07,checklist,1.0,36
+2025-07,-----------------,1.0,36
+2025-07,"if not, please explain why it is not required",0.9444444444444444,36
+2025-08,**[n]** is this change gated behind config(s)?,0.49206349206349204,63
+2025-08,"if not, please explain why it is not required",0.7777777777777778,63
+2025-08,"if so, include tracking information for the system test changes",0.9047619047619048,63
+2025-08,jira:,0.8888888888888888,63
+2025-08,-----------,0.873015873015873,63
+2025-08,references,0.8888888888888888,63
+2025-08,checklist,0.9047619047619048,63
+2025-08,test & review,0.873015873015873,63
+2025-08,list the config(s) needed to be set to enable this change,0.8888888888888888,63
+2025-08,"if so, please include the link(s) to the changes that must be released together",0.9047619047619048,63
+2025-08,-----------------,0.9047619047619048,63
+2025-08,"**[n]** must this be released together with other change(s), either in this repo or another one?",0.5079365079365079,63
+2025-08,---,0.9047619047619048,63
+2025-08,"please answer the questions with y, n or n/a if not applicable.",0.9047619047619048,63
+2025-08,---------,0.8888888888888888,63
+2025-08,-------------------------,0.8412698412698413,63
+2025-08,what,0.873015873015873,63
+2025-08,open questions / follow-ups,0.8412698412698413,63
+2025-08,**[n]** does this change require modifying existing system tests or adding new system tests?,0.47619047619047616,63
+2025-09,---,0.9375,32
+2025-09,"please answer the questions with y, n or n/a if not applicable.",0.9375,32
+2025-09,---------,0.9375,32
+2025-09,open questions / follow-ups,0.9375,32
+2025-09,"if so, include tracking information for the system test changes",0.9375,32
+2025-09,-------------------------,0.9375,32
+2025-09,test & review,0.9375,32
+2025-09,list the config(s) needed to be set to enable this change,0.9375,32
+2025-09,"if so, please include the link(s) to the changes that must be released together",0.9375,32
+2025-09,-----------,0.9375,32
+2025-09,references,0.9375,32
+2025-09,what,0.9375,32
+2025-09,checklist,0.9375,32
+2025-09,-----------------,0.9375,32
+2025-10,**[n]** is this change gated behind config(s)?,0.5769230769230769,52
+2025-10,"if not, please explain why it is not required",0.8269230769230769,52
+2025-10,"if so, include tracking information for the system test changes",1.0,52
+2025-10,jira:,0.9230769230769231,52
+2025-10,-----------,1.0,52
+2025-10,references,0.9807692307692307,52
+2025-10,checklist,1.0,52
+2025-10,test & review,1.0,52
+2025-10,list the config(s) needed to be set to enable this change,0.9807692307692307,52
+2025-10,"if so, please include the link(s) to the changes that must be released together",1.0,52
+2025-10,-----------------,1.0,52
+2025-10,"**[n]** must this be released together with other change(s), either in this repo or another one?",0.6153846153846154,52
+2025-10,---,1.0,52
+2025-10,"please answer the questions with y, n or n/a if not applicable.",1.0,52
+2025-10,---------,0.9807692307692307,52
+2025-10,-------------------------,0.8461538461538461,52
+2025-10,what,1.0,52
+2025-10,open questions / follow-ups,0.8461538461538461,52
+2025-10,**[n]** does this change require modifying existing system tests or adding new system tests?,0.6153846153846154,52
+2025-11,---,0.95,40
+2025-11,"please answer the questions with y, n or n/a if not applicable.",0.95,40
+2025-11,---------,0.95,40
+2025-11,open questions / follow-ups,0.75,40
+2025-11,"if so, include tracking information for the system test changes",0.95,40
+2025-11,-------------------------,0.75,40
+2025-11,test & review,0.95,40
+2025-11,list the config(s) needed to be set to enable this change,0.925,40
+2025-11,"if so, please include the link(s) to the changes that must be released together",0.925,40
+2025-11,jira:,0.85,40
+2025-11,-----------,0.95,40
+2025-11,references,0.95,40
+2025-11,what,0.95,40
+2025-11,checklist,0.95,40
+2025-11,-----------------,0.95,40
+2025-11,"if not, please explain why it is not required",0.825,40
+2025-12,**[n]** is this change gated behind config(s)?,0.6612903225806451,62
+2025-12,"if not, please explain why it is not required",0.8387096774193549,62
+2025-12,**[y]** did you add sufficient unit test and/or integration test coverage for this pr?,0.4838709677419355,62
+2025-12,"if so, include tracking information for the system test changes",0.9516129032258065,62
+2025-12,jira:,0.8709677419354839,62
+2025-12,-----------,0.9516129032258065,62
+2025-12,references,0.9516129032258065,62
+2025-12,checklist,0.9516129032258065,62
+2025-12,test & review,0.9516129032258065,62
+2025-12,list the config(s) needed to be set to enable this change,0.9354838709677419,62
+2025-12,"if so, please include the link(s) to the changes that must be released together",0.9354838709677419,62
+2025-12,-----------------,0.9516129032258065,62
+2025-12,"**[n]** must this be released together with other change(s), either in this repo or another one?",0.6451612903225806,62
+2025-12,---,0.9516129032258065,62
+2025-12,"please answer the questions with y, n or n/a if not applicable.",0.9516129032258065,62
+2025-12,---------,0.9516129032258065,62
+2025-12,-------------------------,0.8064516129032258,62
+2025-12,what,0.9516129032258065,62
+2025-12,open questions / follow-ups,0.8064516129032258,62
+2025-12,**[n]** does this change require modifying existing system tests or adding new system tests?,0.6612903225806451,62
+2026-01,---,1.0,32
+2026-01,"please answer the questions with y, n or n/a if not applicable.",1.0,32
+2026-01,---------,1.0,32
+2026-01,open questions / follow-ups,1.0,32
+2026-01,"if so, include tracking information for the system test changes",1.0,32
+2026-01,-------------------------,1.0,32
+2026-01,test & review,1.0,32
+2026-01,list the config(s) needed to be set to enable this change,1.0,32
+2026-01,"if so, please include the link(s) to the changes that must be released together",0.96875,32
+2026-01,-----------,1.0,32
+2026-01,references,1.0,32
+2026-01,what,1.0,32
+2026-01,checklist,1.0,32
+2026-01,-----------------,1.0,32
+2026-01,"if not, please explain why it is not required",0.9375,32
+2026-02,**[n]** is this change gated behind config(s)?,0.6382978723404256,47
+2026-02,"if not, please explain why it is not required",0.8297872340425532,47
+2026-02,"if so, include tracking information for the system test changes",0.8723404255319149,47
+2026-02,jira:,0.8085106382978723,47
+2026-02,-----------,0.851063829787234,47
+2026-02,references,0.851063829787234,47
+2026-02,checklist,0.9148936170212766,47
+2026-02,test & review,0.851063829787234,47
+2026-02,list the config(s) needed to be set to enable this change,0.851063829787234,47
+2026-02,"if so, please include the link(s) to the changes that must be released together",0.8723404255319149,47
+2026-02,-----------------,0.9148936170212766,47
+2026-02,"**[n]** must this be released together with other change(s), either in this repo or another one?",0.6382978723404256,47
+2026-02,---,0.8723404255319149,47
+2026-02,"please answer the questions with y, n or n/a if not applicable.",0.9148936170212766,47
+2026-02,---------,0.851063829787234,47
+2026-02,-------------------------,0.851063829787234,47
+2026-02,what,0.8723404255319149,47
+2026-02,open questions / follow-ups,0.851063829787234,47
+2026-02,**[n]** does this change require modifying existing system tests or adding new system tests?,0.6595744680851063,47
+2026-03,---,0.9069767441860465,43
+2026-03,"please answer the questions with y, n or n/a if not applicable.",0.8837209302325582,43
+2026-03,---------,0.9069767441860465,43
+2026-03,open questions / follow-ups,0.8837209302325582,43
+2026-03,"if so, include tracking information for the system test changes",0.8837209302325582,43
+2026-03,-------------------------,0.8837209302325582,43
+2026-03,test & review,0.9069767441860465,43
+2026-03,list the config(s) needed to be set to enable this change,0.8837209302325582,43
+2026-03,"if so, please include the link(s) to the changes that must be released together",0.8837209302325582,43
+2026-03,jira:,0.8837209302325582,43
+2026-03,-----------,0.9069767441860465,43
+2026-03,references,0.9069767441860465,43
+2026-03,what,0.9069767441860465,43
+2026-03,checklist,0.9069767441860465,43
+2026-03,-----------------,0.9069767441860465,43
+2026-03,"if not, please explain why it is not required",0.7906976744186046,43
+2026-04,---,0.9555555555555556,45
+2026-04,"please answer the questions with y, n or n/a if not applicable.",0.7555555555555555,45
+2026-04,---------,0.9111111111111111,45
+2026-04,open questions / follow-ups,0.8444444444444444,45
+2026-04,"if so, include tracking information for the system test changes",0.7555555555555555,45
+2026-04,-------------------------,0.8444444444444444,45
+2026-04,test & review,0.9555555555555556,45
+2026-04,list the config(s) needed to be set to enable this change,0.7333333333333333,45
+2026-04,"if so, please include the link(s) to the changes that must be released together",0.7555555555555555,45
+2026-04,jira:,0.8444444444444444,45
+2026-04,-----------,0.9333333333333333,45
+2026-04,references,0.9111111111111111,45
+2026-04,what,0.9555555555555556,45
+2026-04,checklist,0.9555555555555556,45
+2026-04,-----------------,0.9333333333333333,45
+2026-05,---,0.8571428571428571,42
+2026-05,"please answer the questions with y, n or n/a if not applicable.",0.8333333333333334,42
+2026-05,---------,0.8571428571428571,42
+2026-05,open questions / follow-ups,0.8333333333333334,42
+2026-05,"if so, include tracking information for the system test changes",0.8095238095238095,42
+2026-05,-------------------------,0.8333333333333334,42
+2026-05,test & review,0.8571428571428571,42
+2026-05,list the config(s) needed to be set to enable this change,0.7857142857142857,42
+2026-05,"if so, please include the link(s) to the changes that must be released together",0.8095238095238095,42
+2026-05,jira:,0.8095238095238095,42
+2026-05,-----------,0.8571428571428571,42
+2026-05,references,0.8571428571428571,42
+2026-05,what,0.8571428571428571,42
+2026-05,checklist,0.8571428571428571,42
+2026-05,-----------------,0.8571428571428571,42
+2026-05,"if not, please explain why it is not required",0.7857142857142857,42
+2026-06,---,0.7407407407407407,54
+2026-06,"please answer the questions with y, n or n/a if not applicable.",0.7037037037037037,54
+2026-06,---------,0.7407407407407407,54
+2026-06,open questions / follow-ups,0.7037037037037037,54
+2026-06,"if so, include tracking information for the system test changes",0.7037037037037037,54
+2026-06,-------------------------,0.7037037037037037,54
+2026-06,test & review,0.7407407407407407,54
+2026-06,list the config(s) needed to be set to enable this change,0.6851851851851852,54
+2026-06,"if so, please include the link(s) to the changes that must be released together",0.6666666666666666,54
+2026-06,jira:,0.7407407407407407,54
+2026-06,-----------,0.7407407407407407,54
+2026-06,references,0.7407407407407407,54
+2026-06,what,0.7407407407407407,54
+2026-06,checklist,0.7407407407407407,54
+2026-06,-----------------,0.7407407407407407,54
+2026-06,"if not, please explain why it is not required",0.6666666666666666,54
+2026-07,---,0.8245614035087719,57
+2026-07,"please answer the questions with y, n or n/a if not applicable.",0.6140350877192983,57
+2026-07,---------,0.7894736842105263,57
+2026-07,open questions / follow-ups,0.7894736842105263,57
+2026-07,"if so, include tracking information for the system test changes",0.5964912280701754,57
+2026-07,-------------------------,0.7894736842105263,57
+2026-07,test & review,0.8070175438596491,57
+2026-07,list the config(s) needed to be set to enable this change,0.5964912280701754,57
+2026-07,"if so, please include the link(s) to the changes that must be released together",0.5964912280701754,57
+2026-07,jira:,0.7017543859649122,57
+2026-07,-----------,0.7894736842105263,57
+2026-07,references,0.7894736842105263,57
+2026-07,what,0.8245614035087719,57
+2026-07,checklist,0.8070175438596491,57
+2026-07,-----------------,0.8070175438596491,57
+2026-07,"if not, please explain why it is not required",0.5789473684210527,57
+2026-08,---,0.7857142857142857,84
+2026-08,"please answer the questions with y, n or n/a if not applicable.",0.5952380952380952,84
+2026-08,---------,0.75,84
+2026-08,open questions / follow-ups,0.7261904761904762,84
+2026-08,**[y]** did you add sufficient unit test and/or integration test coverage for this pr?,0.38095238095238093,84
+2026-08,"if so, include tracking information for the system test changes",0.5595238095238095,84
+2026-08,-------------------------,0.7261904761904762,84
+2026-08,test & review,0.7738095238095238,84
+2026-08,list the config(s) needed to be set to enable this change,0.5476190476190477,84
+2026-08,"if so, please include the link(s) to the changes that must be released together",0.5595238095238095,84
+2026-08,jira:,0.6785714285714286,84
+2026-08,-----------,0.75,84
+2026-08,references,0.75,84
+2026-08,what,0.7857142857142857,84
+2026-08,checklist,0.7738095238095238,84
+2026-08,-----------------,0.7738095238095238,84
+2026-08,**[n]** does this change require modifying existing system tests or adding new system tests?,0.38095238095238093,84
+2026-08,"if not, please explain why it is not required",0.5476190476190477,84

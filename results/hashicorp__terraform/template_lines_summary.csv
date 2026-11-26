@@ -1,0 +1,17 @@
+line,first_month,last_month,months,peak_share,change_event
+## target release,2025-01,2026-08,18,0.7848101265822784,
+this change is user-facing and i added a changelog entry.,2025-01,2026-08,18,0.7848101265822784,
+## changelog entry,2025-01,2026-08,18,0.7738095238095238,
+this change is not user-facing.,2025-01,2026-08,18,0.7738095238095238,
+11.x,2025-01,2025-02,2,0.5222222222222223,removed
+12.x,2025-03,2025-03,1,0.39473684210526316,
+## rollback plan,2025-05,2026-08,14,0.7738095238095238,added
+"if a change needs to be reverted, we will roll out an update to the code within 7 days.",2025-05,2026-08,14,0.7738095238095238,added
+## changes to security controls,2025-05,2026-08,14,0.7735849056603774,added
+"are there any changes to security controls (access controls, encryption, logging) in this pull request? if so, explain.",2025-05,2026-08,14,0.7547169811320755,added
+13.x,2025-05,2025-05,1,0.4606741573033708,
+14.x,2025-07,2025-09,3,0.5578947368421052,added
+15.x,2025-10,2026-02,2,0.6190476190476191,added
+fixes #,2026-02,2026-02,1,0.42857142857142855,
+16.x,2026-04,2026-07,4,0.5607476635514018,added
+17.x,2026-08,2026-08,1,0.6792452830188679,added

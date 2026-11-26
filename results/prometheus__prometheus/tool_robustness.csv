@@ -1,0 +1,4 @@
+tool,n_exposed,status
+unspecified,17,fewer than 30 exposed PRs
+claude,12,fewer than 30 exposed PRs
+copilot,1,fewer than 30 exposed PRs

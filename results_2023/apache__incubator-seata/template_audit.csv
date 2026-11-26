@@ -1,0 +1,107 @@
+month,line,share_of_prs,n_prs
+2023-02,### ⅳ. describe how to verify it,0.8985507246376812,69
+2023-02,### ⅴ. special notes for reviews,0.8985507246376812,69
+2023-02,### ⅰ. describe what this pr did,0.9420289855072463,69
+2023-02,### ⅱ. does this pull request fix one issue?,0.927536231884058,69
+2023-02,### ⅲ. why don't you add test cases (unit test/integration test)?,0.8985507246376812,69
+2023-02,i have registered the pr changes.,0.9130434782608695,69
+2023-03,### ⅳ. describe how to verify it,0.8936170212765957,94
+2023-03,### ⅴ. special notes for reviews,0.8936170212765957,94
+2023-03,### ⅰ. describe what this pr did,0.925531914893617,94
+2023-03,### ⅱ. does this pull request fix one issue?,0.9148936170212766,94
+2023-03,### ⅲ. why don't you add test cases (unit test/integration test)?,0.8936170212765957,94
+2023-03,i have registered the pr changes.,0.9042553191489362,94
+2023-04,### ⅳ. describe how to verify it,0.9285714285714286,42
+2023-04,### ⅲ. why don't you add test cases (unit test/integration test)?,0.9285714285714286,42
+2023-04,### ⅰ. describe what this pr did,0.9285714285714286,42
+2023-04,### ⅱ. does this pull request fix one issue?,0.9285714285714286,42
+2023-04,### ⅴ. special notes for reviews,0.9285714285714286,42
+2023-04,i have registered the pr changes.,0.9047619047619048,42
+2023-05,i have registered the pr changes.,1.0,30
+2023-06,### ⅳ. describe how to verify it,0.9272727272727272,55
+2023-06,### ⅴ. special notes for reviews,0.9272727272727272,55
+2023-06,### ⅰ. describe what this pr did,0.9818181818181818,55
+2023-06,### ⅱ. does this pull request fix one issue?,0.9636363636363636,55
+2023-06,### ⅲ. why don't you add test cases (unit test/integration test)?,0.9272727272727272,55
+2023-06,i have registered the pr changes.,0.9818181818181818,55
+2023-07,### ⅳ. describe how to verify it,0.98,50
+2023-07,### ⅴ. special notes for reviews,0.98,50
+2023-07,### ⅰ. describe what this pr did,1.0,50
+2023-07,### ⅱ. does this pull request fix one issue?,0.98,50
+2023-07,### ⅲ. why don't you add test cases (unit test/integration test)?,0.98,50
+2023-07,i have registered the pr changes.,0.98,50
+2023-08,### ⅳ. describe how to verify it,1.0,53
+2023-08,### ⅲ. why don't you add test cases (unit test/integration test)?,1.0,53
+2023-08,### ⅰ. describe what this pr did,1.0,53
+2023-08,### ⅱ. does this pull request fix one issue?,1.0,53
+2023-08,### ⅴ. special notes for reviews,1.0,53
+2023-08,i have registered the pr changes.,0.9811320754716981,53
+2023-09,### ⅳ. describe how to verify it,0.8157894736842105,38
+2023-09,### ⅲ. why don't you add test cases (unit test/integration test)?,0.8157894736842105,38
+2023-09,### ⅰ. describe what this pr did,0.8421052631578947,38
+2023-09,### ⅱ. does this pull request fix one issue?,0.8421052631578947,38
+2023-09,### ⅴ. special notes for reviews,0.8157894736842105,38
+2023-09,i have registered the pr changes.,0.8421052631578947,38
+2023-10,### ⅳ. describe how to verify it,0.8490566037735849,53
+2023-10,### ⅴ. special notes for reviews,0.8490566037735849,53
+2023-10,### ⅰ. describe what this pr did,0.8301886792452831,53
+2023-10,### ⅱ. does this pull request fix one issue?,0.8490566037735849,53
+2023-10,### ⅲ. why don't you add test cases (unit test/integration test)?,0.8490566037735849,53
+2023-10,i have registered the pr changes.,0.8301886792452831,53
+2023-11,### ⅳ. describe how to verify it,0.8771929824561403,57
+2023-11,### ⅲ. why don't you add test cases (unit test/integration test)?,0.8771929824561403,57
+2023-11,### ⅰ. describe what this pr did,0.8771929824561403,57
+2023-11,### ⅱ. does this pull request fix one issue?,0.8771929824561403,57
+2023-11,### ⅴ. special notes for reviews,0.8771929824561403,57
+2023-11,i have registered the pr changes.,0.9122807017543859,57
+2023-12,### ⅳ. describe how to verify it,0.9215686274509803,51
+2023-12,### ⅴ. special notes for reviews,0.9215686274509803,51
+2023-12,### ⅰ. describe what this pr did,0.9607843137254902,51
+2023-12,### ⅱ. does this pull request fix one issue?,0.9607843137254902,51
+2023-12,### ⅲ. why don't you add test cases (unit test/integration test)?,0.9215686274509803,51
+2023-12,i have registered the pr changes.,0.9411764705882353,51
+2024-01,### ⅲ. why don't you add test cases (unit test/integration test)?,0.9512195121951219,41
+2024-01,### ⅴ. special notes for reviews,0.9512195121951219,41
+2024-01,### ⅰ. describe what this pr did,1.0,41
+2024-01,### ⅱ. does this pull request fix one issue?,1.0,41
+2024-01,### ⅳ. describe how to verify it,0.9512195121951219,41
+2024-01,i have registered the pr changes.,1.0,41
+2024-02,### ⅰ. describe what this pr did,0.9696969696969697,33
+2024-02,### ⅱ. does this pull request fix one issue?,0.9393939393939394,33
+2024-02,i have registered the pr changes.,0.9696969696969697,33
+2024-03,### ⅳ. describe how to verify it,0.8727272727272727,55
+2024-03,### ⅴ. special notes for reviews,0.8727272727272727,55
+2024-03,### ⅰ. describe what this pr did,0.9454545454545454,55
+2024-03,### ⅱ. does this pull request fix one issue?,0.9090909090909091,55
+2024-03,### ⅲ. why don't you add test cases (unit test/integration test)?,0.8727272727272727,55
+2024-03,i have registered the pr changes.,0.9454545454545454,55
+2024-04,### ⅳ. describe how to verify it,0.8780487804878049,41
+2024-04,### ⅲ. why don't you add test cases (unit test/integration test)?,0.8780487804878049,41
+2024-04,### ⅰ. describe what this pr did,0.9024390243902439,41
+2024-04,### ⅱ. does this pull request fix one issue?,0.8780487804878049,41
+2024-04,### ⅴ. special notes for reviews,0.8780487804878049,41
+2024-04,i have registered the pr changes.,0.9024390243902439,41
+2024-05,### ⅳ. describe how to verify it,0.9047619047619048,42
+2024-05,### ⅴ. special notes for reviews,0.9047619047619048,42
+2024-05,### ⅰ. describe what this pr did,0.9285714285714286,42
+2024-05,### ⅱ. does this pull request fix one issue?,0.9285714285714286,42
+2024-05,### ⅲ. why don't you add test cases (unit test/integration test)?,0.9047619047619048,42
+2024-05,i have registered the pr changes.,0.9047619047619048,42
+2024-06,### ⅳ. describe how to verify it,0.9322033898305084,59
+2024-06,### ⅴ. special notes for reviews,0.9322033898305084,59
+2024-06,### ⅰ. describe what this pr did,0.9491525423728814,59
+2024-06,### ⅱ. does this pull request fix one issue?,0.9491525423728814,59
+2024-06,### ⅲ. why don't you add test cases (unit test/integration test)?,0.9322033898305084,59
+2024-06,i have registered the pr changes.,0.9322033898305084,59
+2024-07,### ⅳ. describe how to verify it,0.975609756097561,41
+2024-07,### ⅲ. why don't you add test cases (unit test/integration test)?,0.975609756097561,41
+2024-07,### ⅰ. describe what this pr did,0.975609756097561,41
+2024-07,### ⅱ. does this pull request fix one issue?,0.975609756097561,41
+2024-07,### ⅴ. special notes for reviews,0.975609756097561,41
+2024-07,i have registered the pr changes.,0.975609756097561,41
+2024-08,### ⅳ. describe how to verify it,1.0,35
+2024-08,### ⅴ. special notes for reviews,1.0,35
+2024-08,### ⅰ. describe what this pr did,1.0,35
+2024-08,### ⅱ. does this pull request fix one issue?,1.0,35
+2024-08,### ⅲ. why don't you add test cases (unit test/integration test)?,1.0,35
+2024-08,i have registered the pr changes.,0.9428571428571428,35

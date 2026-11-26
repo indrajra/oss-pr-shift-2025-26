@@ -1,0 +1,297 @@
+month,line,share_of_prs,n_prs
+2025-01,contains risk assessment (low | medium | high),0.75,56
+2025-01,highlights breaking api changes (if applicable),0.8571428571428571,56
+2025-01,links to automated tests covering new functionality,0.8392857142857143,56
+2025-01,follows contributing guidelines,0.8571428571428571,56
+2025-01,## pull request submission checklist,0.8571428571428571,56
+2025-01,includes manual testing instructions (if necessary),0.8571428571428571,56
+2025-01,## where should the reviewer start?,0.5535714285714286,56
+2025-01,## what does this pr do?,0.8571428571428571,56
+2025-01,## how should this be manually tested?,0.5892857142857143,56
+2025-01,updates relevant gitbook documentation (pr link: ___),0.8392857142857143,56
+2025-01,includes detailed description of changes,0.8392857142857143,56
+2025-02,contains risk assessment (low | medium | high),0.7818181818181819,55
+2025-02,highlights breaking api changes (if applicable),0.8545454545454545,55
+2025-02,follows contributing guidelines,0.8545454545454545,55
+2025-02,## pull request submission checklist,0.8545454545454545,55
+2025-02,includes detailed description of changes,0.8545454545454545,55
+2025-02,includes manual testing instructions (if necessary),0.8545454545454545,55
+2025-02,## where should the reviewer start?,0.7818181818181819,55
+2025-02,## what does this pr do?,0.8727272727272727,55
+2025-02,## how should this be manually tested?,0.7818181818181819,55
+2025-02,updates relevant gitbook documentation (pr link: ___),0.8363636363636363,55
+2025-02,links to automated tests covering new functionality,0.8545454545454545,55
+2025-03,contains risk assessment (low | medium | high),0.7380952380952381,42
+2025-03,follows contributing guidelines,0.7380952380952381,42
+2025-03,## pull request submission checklist,0.7380952380952381,42
+2025-03,includes detailed description of changes,0.7380952380952381,42
+2025-03,includes manual testing instructions (if necessary),0.7380952380952381,42
+2025-03,## what does this pr do?,0.7380952380952381,42
+2025-03,includes product update to be announced in the next stable release notes,0.7142857142857143,42
+2025-03,links to automated tests covering new functionality,0.7142857142857143,42
+2025-04,contains risk assessment (low | medium | high),0.7213114754098361,61
+2025-04,highlights breaking api changes (if applicable),0.7377049180327869,61
+2025-04,## what's the product update that needs to be communicated to cli users?,0.6229508196721312,61
+2025-04,follows contributing guidelines,0.7377049180327869,61
+2025-04,## pull request submission checklist,0.7377049180327869,61
+2025-04,includes detailed description of changes,0.7377049180327869,61
+2025-04,includes manual testing instructions (if necessary),0.7377049180327869,61
+2025-04,## where should the reviewer start?,0.6557377049180327,61
+2025-04,## what does this pr do?,0.7540983606557377,61
+2025-04,## how should this be manually tested?,0.6721311475409836,61
+2025-04,includes product update to be announced in the next stable release notes,0.7377049180327869,61
+2025-04,updates relevant gitbook documentation (pr link: ___),0.7377049180327869,61
+2025-04,links to automated tests covering new functionality,0.7377049180327869,61
+2025-05,contains risk assessment (low | medium | high),0.5932203389830508,59
+2025-05,highlights breaking api changes (if applicable),0.5932203389830508,59
+2025-05,links to automated tests covering new functionality,0.576271186440678,59
+2025-05,## what's the product update that needs to be communicated to cli users?,0.6610169491525424,59
+2025-05,follows contributing guidelines,0.6610169491525424,59
+2025-05,## pull request submission checklist,0.6610169491525424,59
+2025-05,includes manual testing instructions (if necessary),0.6271186440677966,59
+2025-05,## where should the reviewer start?,0.6101694915254238,59
+2025-05,## what does this pr do?,0.7627118644067796,59
+2025-05,## how should this be manually tested?,0.6779661016949152,59
+2025-05,includes product update to be announced in the next stable release notes,0.6101694915254238,59
+2025-05,updates relevant gitbook documentation (pr link: ___),0.576271186440678,59
+2025-05,includes detailed description of changes,0.6440677966101694,59
+2025-06,contains risk assessment (low | medium | high),0.8103448275862069,58
+2025-06,highlights breaking api changes (if applicable),0.7758620689655172,58
+2025-06,"_what_ was changed, not _how_.",0.6551724137931034,58
+2025-06,## what's the product update that needs to be communicated to cli users?,0.7241379310344828,58
+2025-06,follows contributing guidelines,0.8793103448275862,58
+2025-06,## pull request submission checklist,0.8793103448275862,58
+2025-06,includes detailed description of changes,0.8448275862068966,58
+2025-06,commit messages,0.6551724137931034,58
+2025-06,includes manual testing instructions (if necessary),0.8448275862068966,58
+2025-06,## where should the reviewer start?,0.6724137931034483,58
+2025-06,"are release-note ready, emphasizing",0.6551724137931034,58
+2025-06,## what does this pr do?,0.8793103448275862,58
+2025-06,## how should this be manually tested?,0.6896551724137931,58
+2025-06,includes product update to be announced in the next stable release notes,0.8275862068965517,58
+2025-06,updates relevant gitbook documentation (pr link: ___),0.7931034482758621,58
+2025-06,links to automated tests covering new functionality,0.8275862068965517,58
+2025-07,contains risk assessment (low | medium | high),0.6065573770491803,61
+2025-07,highlights breaking api changes (if applicable),0.5409836065573771,61
+2025-07,links to automated tests covering new functionality,0.5737704918032787,61
+2025-07,"_what_ was changed, not _how_.",0.6557377049180327,61
+2025-07,## what's the product update that needs to be communicated to cli users?,0.639344262295082,61
+2025-07,follows contributing guidelines,0.6229508196721312,61
+2025-07,## pull request submission checklist,0.639344262295082,61
+2025-07,commit messages,0.6229508196721312,61
+2025-07,includes manual testing instructions (if necessary),0.5737704918032787,61
+2025-07,## where should the reviewer start?,0.6229508196721312,61
+2025-07,"are release-note ready, emphasizing",0.6557377049180327,61
+2025-07,## what does this pr do?,0.6721311475409836,61
+2025-07,## how should this be manually tested?,0.639344262295082,61
+2025-07,includes product update to be announced in the next stable release notes,0.6065573770491803,61
+2025-07,updates relevant gitbook documentation (pr link: ___),0.6065573770491803,61
+2025-07,includes detailed description of changes,0.6229508196721312,61
+2025-08,contains risk assessment (low | medium | high),0.7230769230769231,65
+2025-08,highlights breaking api changes (if applicable),0.7230769230769231,65
+2025-08,"_what_ was changed, not _how_.",0.7384615384615385,65
+2025-08,## what's the product update that needs to be communicated to cli users?,0.7384615384615385,65
+2025-08,follows contributing guidelines,0.7384615384615385,65
+2025-08,## pull request submission checklist,0.7384615384615385,65
+2025-08,includes detailed description of changes,0.7384615384615385,65
+2025-08,commit messages,0.7384615384615385,65
+2025-08,includes manual testing instructions (if necessary),0.7384615384615385,65
+2025-08,## where should the reviewer start?,0.7230769230769231,65
+2025-08,"are release-note ready, emphasizing",0.7384615384615385,65
+2025-08,## what does this pr do?,0.7384615384615385,65
+2025-08,## how should this be manually tested?,0.7230769230769231,65
+2025-08,includes product update to be announced in the next stable release notes,0.7230769230769231,65
+2025-08,updates relevant gitbook documentation (pr link: ___),0.7230769230769231,65
+2025-08,links to automated tests covering new functionality,0.7230769230769231,65
+2025-09,contains risk assessment (low | medium | high),0.8163265306122449,49
+2025-09,highlights breaking api changes (if applicable),0.8367346938775511,49
+2025-09,"_what_ was changed, not _how_.",0.8163265306122449,49
+2025-09,## what's the product update that needs to be communicated to cli users?,0.8367346938775511,49
+2025-09,follows contributing guidelines,0.8367346938775511,49
+2025-09,## pull request submission checklist,0.8367346938775511,49
+2025-09,includes detailed description of changes,0.8367346938775511,49
+2025-09,commit messages,0.8163265306122449,49
+2025-09,includes manual testing instructions (if necessary),0.8367346938775511,49
+2025-09,## where should the reviewer start?,0.8163265306122449,49
+2025-09,"are release-note ready, emphasizing",0.8163265306122449,49
+2025-09,## what does this pr do?,0.8571428571428571,49
+2025-09,## how should this be manually tested?,0.8163265306122449,49
+2025-09,includes product update to be announced in the next stable release notes,0.8367346938775511,49
+2025-09,updates relevant gitbook documentation (pr link: ___),0.8367346938775511,49
+2025-09,links to automated tests covering new functionality,0.8367346938775511,49
+2025-10,contains risk assessment (low | medium | high),0.875,72
+2025-10,highlights breaking api changes (if applicable),0.8055555555555556,72
+2025-10,links to automated tests covering new functionality,0.8472222222222222,72
+2025-10,"_what_ was changed, not _how_.",0.8333333333333334,72
+2025-10,## what's the product update that needs to be communicated to cli users?,0.7916666666666666,72
+2025-10,## how should this be manually tested?,0.8055555555555556,72
+2025-10,follows contributing guidelines,0.8611111111111112,72
+2025-10,## pull request submission checklist,0.8611111111111112,72
+2025-10,includes manual testing instructions (if necessary),0.8333333333333334,72
+2025-10,## where should the reviewer start?,0.75,72
+2025-10,"are release-note ready, emphasizing",0.8333333333333334,72
+2025-10,## what does this pr do?,0.8888888888888888,72
+2025-10,commit messages,0.8333333333333334,72
+2025-10,includes product update to be announced in the next stable release notes,0.8472222222222222,72
+2025-10,updates relevant gitbook documentation (pr link: ___),0.7638888888888888,72
+2025-10,includes detailed description of changes,0.875,72
+2025-11,contains risk assessment (low | medium | high),0.8,60
+2025-11,highlights breaking api changes (if applicable),0.7833333333333333,60
+2025-11,"_what_ was changed, not _how_.",0.8166666666666667,60
+2025-11,## what's the product update that needs to be communicated to cli users?,0.6,60
+2025-11,## how should this be manually tested?,0.55,60
+2025-11,follows contributing guidelines,0.8333333333333334,60
+2025-11,## pull request submission checklist,0.85,60
+2025-11,includes detailed description of changes,0.85,60
+2025-11,includes manual testing instructions (if necessary),0.8,60
+2025-11,## where should the reviewer start?,0.5833333333333334,60
+2025-11,"are release-note ready, emphasizing",0.8333333333333334,60
+2025-11,## what does this pr do?,0.85,60
+2025-11,commit messages,0.8333333333333334,60
+2025-11,includes product update to be announced in the next stable release notes,0.8166666666666667,60
+2025-11,updates relevant gitbook documentation (pr link: ___),0.7666666666666667,60
+2025-11,links to automated tests covering new functionality,0.8,60
+2025-12,contains risk assessment (low | medium | high),0.7419354838709677,62
+2025-12,highlights breaking api changes (if applicable),0.7258064516129032,62
+2025-12,links to automated tests covering new functionality,0.7580645161290323,62
+2025-12,"_what_ was changed, not _how_.",0.6935483870967742,62
+2025-12,## what's the product update that needs to be communicated to cli users?,0.7096774193548387,62
+2025-12,## how should this be manually tested?,0.7096774193548387,62
+2025-12,follows contributing guidelines,0.8225806451612904,62
+2025-12,## pull request submission checklist,0.8225806451612904,62
+2025-12,includes manual testing instructions (if necessary),0.7903225806451613,62
+2025-12,## where should the reviewer start?,0.6451612903225806,62
+2025-12,"are release-note ready, emphasizing",0.6935483870967742,62
+2025-12,## what does this pr do?,0.8387096774193549,62
+2025-12,commit messages,0.7096774193548387,62
+2025-12,includes product update to be announced in the next stable release notes,0.7258064516129032,62
+2025-12,updates relevant gitbook documentation (pr link: ___),0.7096774193548387,62
+2025-12,includes detailed description of changes,0.8064516129032258,62
+2026-01,contains risk assessment (low | medium | high),0.6987951807228916,83
+2026-01,highlights breaking api changes (if applicable),0.6987951807228916,83
+2026-01,"_what_ was changed, not _how_.",0.7469879518072289,83
+2026-01,## what's the product update that needs to be communicated to cli users?,0.7469879518072289,83
+2026-01,## how should this be manually tested?,0.7349397590361446,83
+2026-01,follows contributing guidelines,0.7590361445783133,83
+2026-01,## pull request submission checklist,0.7951807228915663,83
+2026-01,includes detailed description of changes,0.7831325301204819,83
+2026-01,includes manual testing instructions (if necessary),0.7710843373493976,83
+2026-01,## where should the reviewer start?,0.6626506024096386,83
+2026-01,"are release-note ready, emphasizing",0.7469879518072289,83
+2026-01,## what does this pr do?,0.8072289156626506,83
+2026-01,commit messages,0.7469879518072289,83
+2026-01,includes product update to be announced in the next stable release notes,0.6987951807228916,83
+2026-01,updates relevant gitbook documentation (pr link: ___),0.6746987951807228,83
+2026-01,links to automated tests covering new functionality,0.7349397590361446,83
+2026-02,contains risk assessment (low | medium | high),0.6886792452830188,106
+2026-02,highlights breaking api changes (if applicable),0.6981132075471698,106
+2026-02,links to automated tests covering new functionality,0.7547169811320755,106
+2026-02,"_what_ was changed, not _how_.",0.7924528301886793,106
+2026-02,## what's the product update that needs to be communicated to cli users?,0.7547169811320755,106
+2026-02,## how should this be manually tested?,0.7452830188679245,106
+2026-02,follows contributing guidelines,0.8301886792452831,106
+2026-02,## pull request submission checklist,0.8301886792452831,106
+2026-02,includes manual testing instructions (if necessary),0.7830188679245284,106
+2026-02,## where should the reviewer start?,0.6792452830188679,106
+2026-02,"are release-note ready, emphasizing",0.7924528301886793,106
+2026-02,## what does this pr do?,0.8301886792452831,106
+2026-02,commit messages,0.7924528301886793,106
+2026-02,includes product update to be announced in the next stable release notes,0.7075471698113207,106
+2026-02,updates relevant gitbook documentation (pr link: ___),0.6792452830188679,106
+2026-02,includes detailed description of changes,0.8301886792452831,106
+2026-03,contains risk assessment (low | medium | high),0.735632183908046,87
+2026-03,highlights breaking api changes (if applicable),0.735632183908046,87
+2026-03,"_what_ was changed, not _how_.",0.6666666666666666,87
+2026-03,## what's the product update that needs to be communicated to cli users?,0.7126436781609196,87
+2026-03,follows contributing guidelines,0.7816091954022989,87
+2026-03,## pull request submission checklist,0.8045977011494253,87
+2026-03,includes detailed description of changes,0.7816091954022989,87
+2026-03,commit messages,0.6666666666666666,87
+2026-03,includes manual testing instructions (if necessary),0.7816091954022989,87
+2026-03,## where should the reviewer start?,0.6781609195402298,87
+2026-03,"are release-note ready, emphasizing",0.6666666666666666,87
+2026-03,## what does this pr do?,0.8275862068965517,87
+2026-03,## how should this be manually tested?,0.7011494252873564,87
+2026-03,includes product update to be announced in the next stable release notes,0.7011494252873564,87
+2026-03,updates relevant gitbook documentation (pr link: ___),0.7126436781609196,87
+2026-03,links to automated tests covering new functionality,0.7471264367816092,87
+2026-04,contains risk assessment (low | medium | high),0.7538461538461538,65
+2026-04,highlights breaking api changes (if applicable),0.7384615384615385,65
+2026-04,links to automated tests covering new functionality,0.7692307692307693,65
+2026-04,"_what_ was changed, not _how_.",0.6615384615384615,65
+2026-04,## what's the product update that needs to be communicated to cli users?,0.676923076923077,65
+2026-04,follows contributing guidelines,0.7846153846153846,65
+2026-04,## pull request submission checklist,0.7846153846153846,65
+2026-04,commit messages,0.676923076923077,65
+2026-04,includes manual testing instructions (if necessary),0.7846153846153846,65
+2026-04,## where should the reviewer start?,0.7384615384615385,65
+2026-04,"are release-note ready, emphasizing",0.6615384615384615,65
+2026-04,## what does this pr do?,0.8153846153846154,65
+2026-04,## how should this be manually tested?,0.7692307692307693,65
+2026-04,includes product update to be announced in the next stable release notes,0.7384615384615385,65
+2026-04,updates relevant gitbook documentation (pr link: ___),0.7230769230769231,65
+2026-04,includes detailed description of changes,0.7846153846153846,65
+2026-05,contains risk assessment (low | medium | high),0.8645833333333334,96
+2026-05,highlights breaking api changes (if applicable),0.8645833333333334,96
+2026-05,"_what_ was changed, not _how_.",0.7291666666666666,96
+2026-05,## what's the product update that needs to be communicated to cli users?,0.8333333333333334,96
+2026-05,## how should this be manually tested?,0.8645833333333334,96
+2026-05,follows contributing guidelines,0.8854166666666666,96
+2026-05,## pull request submission checklist,0.8854166666666666,96
+2026-05,includes detailed description of changes,0.8854166666666666,96
+2026-05,includes manual testing instructions (if necessary),0.875,96
+2026-05,## where should the reviewer start?,0.84375,96
+2026-05,"are release-note ready, emphasizing",0.7291666666666666,96
+2026-05,## what does this pr do?,0.8854166666666666,96
+2026-05,commit messages,0.7291666666666666,96
+2026-05,includes product update to be announced in the next stable release notes,0.8645833333333334,96
+2026-05,updates relevant gitbook documentation (pr link: ___),0.84375,96
+2026-05,links to automated tests covering new functionality,0.8854166666666666,96
+2026-06,contains risk assessment (low | medium | high),0.7708333333333334,96
+2026-06,highlights breaking api changes (if applicable),0.71875,96
+2026-06,"_what_ was changed, not _how_.",0.6041666666666666,96
+2026-06,## what's the product update that needs to be communicated to cli users?,0.75,96
+2026-06,follows contributing guidelines,0.8020833333333334,96
+2026-06,## pull request submission checklist,0.8020833333333334,96
+2026-06,includes detailed description of changes,0.8020833333333334,96
+2026-06,commit messages,0.6041666666666666,96
+2026-06,includes manual testing instructions (if necessary),0.7708333333333334,96
+2026-06,## where should the reviewer start?,0.7708333333333334,96
+2026-06,"are release-note ready, emphasizing",0.6041666666666666,96
+2026-06,## what does this pr do?,0.7916666666666666,96
+2026-06,## how should this be manually tested?,0.78125,96
+2026-06,includes product update to be announced in the next stable release notes,0.71875,96
+2026-06,updates relevant gitbook documentation (pr link: ___),0.6979166666666666,96
+2026-06,links to automated tests covering new functionality,0.75,96
+2026-07,contains risk assessment (low | medium | high),0.7450980392156863,102
+2026-07,highlights breaking api changes (if applicable),0.7254901960784313,102
+2026-07,"_what_ was changed, not _how_.",0.5784313725490197,102
+2026-07,## what's the product update that needs to be communicated to cli users?,0.7843137254901961,102
+2026-07,follows contributing guidelines,0.7647058823529411,102
+2026-07,## pull request submission checklist,0.7549019607843137,102
+2026-07,includes detailed description of changes,0.7647058823529411,102
+2026-07,commit messages,0.5784313725490197,102
+2026-07,includes manual testing instructions (if necessary),0.7254901960784313,102
+2026-07,## where should the reviewer start?,0.7843137254901961,102
+2026-07,"are release-note ready, emphasizing",0.5784313725490197,102
+2026-07,## what does this pr do?,0.8235294117647058,102
+2026-07,## how should this be manually tested?,0.7745098039215687,102
+2026-07,includes product update to be announced in the next stable release notes,0.7254901960784313,102
+2026-07,updates relevant gitbook documentation (pr link: ___),0.696078431372549,102
+2026-07,links to automated tests covering new functionality,0.7352941176470589,102
+2026-08,contains risk assessment (low | medium | high),0.6052631578947368,76
+2026-08,highlights breaking api changes (if applicable),0.5131578947368421,76
+2026-08,"_what_ was changed, not _how_.",0.5131578947368421,76
+2026-08,## what's the product update that needs to be communicated to cli users?,0.631578947368421,76
+2026-08,follows contributing guidelines,0.6052631578947368,76
+2026-08,## pull request submission checklist,0.618421052631579,76
+2026-08,includes detailed description of changes,0.618421052631579,76
+2026-08,commit messages,0.5131578947368421,76
+2026-08,includes manual testing instructions (if necessary),0.5657894736842105,76
+2026-08,## where should the reviewer start?,0.5921052631578947,76
+2026-08,"are release-note ready, emphasizing",0.5131578947368421,76
+2026-08,## what does this pr do?,0.6578947368421053,76
+2026-08,## how should this be manually tested?,0.6052631578947368,76
+2026-08,includes product update to be announced in the next stable release notes,0.5657894736842105,76
+2026-08,updates relevant gitbook documentation (pr link: ___),0.47368421052631576,76
+2026-08,links to automated tests covering new functionality,0.5657894736842105,76

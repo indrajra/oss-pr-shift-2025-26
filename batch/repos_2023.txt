@@ -1,0 +1,15 @@
+tokio-rs/tokio
+hashicorp/terraform
+django/django
+prometheus/prometheus
+scikit-learn/scikit-learn
+react/react
+rails/rails
+pandas-dev/pandas
+apache/kafka
+nodejs/node
+keycloak/keycloak
+godotengine/godot
+vercel/next.js
+kubernetes/kubernetes
+python/cpython

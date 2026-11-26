@@ -1,0 +1,144 @@
+month,line,share_of_prs,n_prs
+2025-01,this change is not user-facing.,0.5222222222222223,90
+2025-01,## changelog entry,0.5888888888888889,90
+2025-01,11.x,0.5222222222222223,90
+2025-01,this change is user-facing and i added a changelog entry.,0.5222222222222223,90
+2025-01,## target release,0.6444444444444445,90
+2025-02,this change is not user-facing.,0.6826923076923077,104
+2025-02,## changelog entry,0.6634615384615384,104
+2025-02,11.x,0.3269230769230769,104
+2025-02,this change is user-facing and i added a changelog entry.,0.6826923076923077,104
+2025-02,## target release,0.6923076923076923,104
+2025-03,this change is not user-facing.,0.5263157894736842,114
+2025-03,## changelog entry,0.543859649122807,114
+2025-03,this change is user-facing and i added a changelog entry.,0.5263157894736842,114
+2025-03,12.x,0.39473684210526316,114
+2025-03,## target release,0.5350877192982456,114
+2025-04,this change is user-facing and i added a changelog entry.,0.5308641975308642,81
+2025-04,## target release,0.5185185185185185,81
+2025-04,this change is not user-facing.,0.5432098765432098,81
+2025-04,## changelog entry,0.5308641975308642,81
+2025-05,this change is not user-facing.,0.7191011235955056,89
+2025-05,## changelog entry,0.6966292134831461,89
+2025-05,"are there any changes to security controls (access controls, encryption, logging) in this pull request? if so, explain.",0.39325842696629215,89
+2025-05,## changes to security controls,0.42696629213483145,89
+2025-05,13.x,0.4606741573033708,89
+2025-05,this change is user-facing and i added a changelog entry.,0.7191011235955056,89
+2025-05,## rollback plan,0.42696629213483145,89
+2025-05,## target release,0.6966292134831461,89
+2025-05,"if a change needs to be reverted, we will roll out an update to the code within 7 days.",0.42696629213483145,89
+2025-06,this change is not user-facing.,0.5740740740740741,54
+2025-06,## changelog entry,0.5740740740740741,54
+2025-06,"are there any changes to security controls (access controls, encryption, logging) in this pull request? if so, explain.",0.5555555555555556,54
+2025-06,## changes to security controls,0.5740740740740741,54
+2025-06,this change is user-facing and i added a changelog entry.,0.5740740740740741,54
+2025-06,## rollback plan,0.5740740740740741,54
+2025-06,## target release,0.5740740740740741,54
+2025-06,"if a change needs to be reverted, we will roll out an update to the code within 7 days.",0.5740740740740741,54
+2025-07,this change is not user-facing.,0.6582278481012658,79
+2025-07,## changelog entry,0.6708860759493671,79
+2025-07,## changes to security controls,0.6708860759493671,79
+2025-07,"are there any changes to security controls (access controls, encryption, logging) in this pull request? if so, explain.",0.6708860759493671,79
+2025-07,14.x,0.4050632911392405,79
+2025-07,this change is user-facing and i added a changelog entry.,0.6582278481012658,79
+2025-07,## rollback plan,0.6708860759493671,79
+2025-07,## target release,0.6708860759493671,79
+2025-07,"if a change needs to be reverted, we will roll out an update to the code within 7 days.",0.6708860759493671,79
+2025-08,this change is not user-facing.,0.7263157894736842,95
+2025-08,## changelog entry,0.7368421052631579,95
+2025-08,"are there any changes to security controls (access controls, encryption, logging) in this pull request? if so, explain.",0.6947368421052632,95
+2025-08,## changes to security controls,0.7368421052631579,95
+2025-08,14.x,0.5578947368421052,95
+2025-08,this change is user-facing and i added a changelog entry.,0.7368421052631579,95
+2025-08,## rollback plan,0.7368421052631579,95
+2025-08,## target release,0.7368421052631579,95
+2025-08,"if a change needs to be reverted, we will roll out an update to the code within 7 days.",0.7368421052631579,95
+2025-09,this change is not user-facing.,0.7127659574468085,94
+2025-09,## changelog entry,0.723404255319149,94
+2025-09,"are there any changes to security controls (access controls, encryption, logging) in this pull request? if so, explain.",0.7127659574468085,94
+2025-09,## changes to security controls,0.7127659574468085,94
+2025-09,14.x,0.3617021276595745,94
+2025-09,this change is user-facing and i added a changelog entry.,0.7127659574468085,94
+2025-09,## rollback plan,0.7127659574468085,94
+2025-09,## target release,0.7021276595744681,94
+2025-09,"if a change needs to be reverted, we will roll out an update to the code within 7 days.",0.7127659574468085,94
+2025-10,15.x,0.379746835443038,79
+2025-10,this change is not user-facing.,0.759493670886076,79
+2025-10,## changelog entry,0.7721518987341772,79
+2025-10,"are there any changes to security controls (access controls, encryption, logging) in this pull request? if so, explain.",0.7468354430379747,79
+2025-10,## changes to security controls,0.759493670886076,79
+2025-10,this change is user-facing and i added a changelog entry.,0.7848101265822784,79
+2025-10,## rollback plan,0.759493670886076,79
+2025-10,## target release,0.7848101265822784,79
+2025-10,"if a change needs to be reverted, we will roll out an update to the code within 7 days.",0.7468354430379747,79
+2025-11,## changelog entry,0.7068965517241379,58
+2025-11,this change is not user-facing.,0.7068965517241379,58
+2025-11,"are there any changes to security controls (access controls, encryption, logging) in this pull request? if so, explain.",0.6724137931034483,58
+2025-11,## changes to security controls,0.6896551724137931,58
+2025-11,this change is user-facing and i added a changelog entry.,0.7068965517241379,58
+2025-11,## rollback plan,0.6896551724137931,58
+2025-11,## target release,0.7068965517241379,58
+2025-11,"if a change needs to be reverted, we will roll out an update to the code within 7 days.",0.6896551724137931,58
+2026-02,15.x,0.6190476190476191,84
+2026-02,this change is not user-facing.,0.7738095238095238,84
+2026-02,## changelog entry,0.7738095238095238,84
+2026-02,"are there any changes to security controls (access controls, encryption, logging) in this pull request? if so, explain.",0.75,84
+2026-02,## changes to security controls,0.7619047619047619,84
+2026-02,fixes #,0.42857142857142855,84
+2026-02,this change is user-facing and i added a changelog entry.,0.7738095238095238,84
+2026-02,## rollback plan,0.7738095238095238,84
+2026-02,## target release,0.75,84
+2026-02,"if a change needs to be reverted, we will roll out an update to the code within 7 days.",0.7738095238095238,84
+2026-03,this change is not user-facing.,0.6216216216216216,74
+2026-03,## changelog entry,0.6351351351351351,74
+2026-03,"are there any changes to security controls (access controls, encryption, logging) in this pull request? if so, explain.",0.527027027027027,74
+2026-03,## changes to security controls,0.6216216216216216,74
+2026-03,this change is user-facing and i added a changelog entry.,0.6351351351351351,74
+2026-03,## rollback plan,0.6216216216216216,74
+2026-03,## target release,0.6216216216216216,74
+2026-03,"if a change needs to be reverted, we will roll out an update to the code within 7 days.",0.6216216216216216,74
+2026-04,this change is not user-facing.,0.632183908045977,87
+2026-04,## changelog entry,0.6551724137931034,87
+2026-04,"are there any changes to security controls (access controls, encryption, logging) in this pull request? if so, explain.",0.5977011494252874,87
+2026-04,## changes to security controls,0.632183908045977,87
+2026-04,16.x,0.4482758620689655,87
+2026-04,this change is user-facing and i added a changelog entry.,0.6206896551724138,87
+2026-04,## rollback plan,0.6436781609195402,87
+2026-04,## target release,0.6551724137931034,87
+2026-04,"if a change needs to be reverted, we will roll out an update to the code within 7 days.",0.632183908045977,87
+2026-05,this change is not user-facing.,0.6915887850467289,107
+2026-05,## changelog entry,0.719626168224299,107
+2026-05,"are there any changes to security controls (access controls, encryption, logging) in this pull request? if so, explain.",0.5700934579439252,107
+2026-05,## changes to security controls,0.719626168224299,107
+2026-05,16.x,0.5607476635514018,107
+2026-05,## rollback plan,0.7289719626168224,107
+2026-05,this change is user-facing and i added a changelog entry.,0.6074766355140186,107
+2026-05,"if a change needs to be reverted, we will roll out an update to the code within 7 days.",0.719626168224299,107
+2026-05,## target release,0.7289719626168224,107
+2026-06,this change is not user-facing.,0.6296296296296297,108
+2026-06,## changelog entry,0.6574074074074074,108
+2026-06,"are there any changes to security controls (access controls, encryption, logging) in this pull request? if so, explain.",0.6018518518518519,108
+2026-06,## changes to security controls,0.6574074074074074,108
+2026-06,16.x,0.5462962962962963,108
+2026-06,this change is user-facing and i added a changelog entry.,0.6481481481481481,108
+2026-06,## rollback plan,0.6574074074074074,108
+2026-06,## target release,0.6574074074074074,108
+2026-06,"if a change needs to be reverted, we will roll out an update to the code within 7 days.",0.6574074074074074,108
+2026-07,this change is not user-facing.,0.6890756302521008,119
+2026-07,## changelog entry,0.7058823529411765,119
+2026-07,## changes to security controls,0.7058823529411765,119
+2026-07,"are there any changes to security controls (access controls, encryption, logging) in this pull request? if so, explain.",0.6050420168067226,119
+2026-07,16.x,0.40336134453781514,119
+2026-07,this change is user-facing and i added a changelog entry.,0.680672268907563,119
+2026-07,## rollback plan,0.7058823529411765,119
+2026-07,## target release,0.7142857142857143,119
+2026-07,"if a change needs to be reverted, we will roll out an update to the code within 7 days.",0.6974789915966386,119
+2026-08,this change is not user-facing.,0.7169811320754716,53
+2026-08,## changelog entry,0.7735849056603774,53
+2026-08,## changes to security controls,0.7735849056603774,53
+2026-08,"are there any changes to security controls (access controls, encryption, logging) in this pull request? if so, explain.",0.7547169811320755,53
+2026-08,17.x,0.6792452830188679,53
+2026-08,this change is user-facing and i added a changelog entry.,0.7547169811320755,53
+2026-08,## rollback plan,0.7735849056603774,53
+2026-08,## target release,0.7547169811320755,53
+2026-08,"if a change needs to be reverted, we will roll out an update to the code within 7 days.",0.7735849056603774,53

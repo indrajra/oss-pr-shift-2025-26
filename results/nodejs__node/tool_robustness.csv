@@ -1,0 +1,6 @@
+tool,n_exposed,m1_pct,m1_low,m1_high,call,status
+chatgpt,100,-22.919230810072342,-47.3787910262588,12.909701141145824,no clear difference,ok
+codex,39,2.5377479583964524,-41.65313190557295,80.19801404531376,no clear difference,ok
+claude,24,,,,,fewer than 30 exposed PRs
+unspecified,20,,,,,fewer than 30 exposed PRs
+copilot,1,,,,,fewer than 30 exposed PRs

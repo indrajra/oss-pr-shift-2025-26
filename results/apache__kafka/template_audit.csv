@@ -1,0 +1,10 @@
+month,line,share_of_prs,n_prs
+2025-01,verify documentation (including upgrade notes),0.6719160104986877,381
+2025-01,verify design and implementation,0.6719160104986877,381
+2025-01,verify test coverage and ci build status,0.6719160104986877,381
+2025-01,### committer checklist (excluded from commit message),0.6666666666666666,381
+2025-02,verify documentation (including upgrade notes),0.4689655172413793,290
+2025-02,verify design and implementation,0.4689655172413793,290
+2025-02,verify test coverage and ci build status,0.4689655172413793,290
+2025-02,### committer checklist (excluded from commit message),0.46551724137931033,290
+2025-10,reviewers: chia-ping tsai,0.21621621621621623,185

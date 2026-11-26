@@ -1,0 +1,14 @@
+exposure,outcome,label,n,n_exposed,median_exposed,median_unexposed,model,status,pct_difference,ci_low,ci_high,p,permutation_p,permutation_stat_log,p_holm
+ai_disclosed,churn,Lines changed,447,30,163.5,48.0,M1 month effects,ok,74.03870743990359,9.938547652465957,175.51275084242891,0.018066830245813435,,,0.0634003011324473
+ai_disclosed,churn,Lines changed,447,30,163.5,48.0,M2 plus description length,ok,64.69612614693905,2.702842297523622,164.1096717579597,0.03839178667930426,0.0009995002498750624,1.18269118521144,0.15356714671721705
+ai_disclosed,churn,Lines changed,447,30,163.5,48.0,M3 same author,too few authors with both kinds of PR,,,,,,,
+ai_disclosed,files_changed,Files changed,447,30,4.5,3.0,M1 month effects,ok,10.8494602419551,-10.28086658164341,36.95632545441789,0.33979312093585257,,,0.34814231842370114
+ai_disclosed,files_changed,Files changed,447,30,4.5,3.0,M2 plus description length,ok,9.473783951977843,-12.466036293260963,36.912677836861874,0.42766059747744867,0.30884557721139433,0.1689932848144435,0.42766059747744867
+ai_disclosed,files_changed,Files changed,447,30,4.5,3.0,M3 same author,too few authors with both kinds of PR,,,,,,,
+ai_disclosed,additions,Lines added,447,30,162.0,34.0,M1 month effects,ok,77.28334362755216,11.3351914120835,182.29514432175864,0.015850075283111824,,,0.0634003011324473
+ai_disclosed,additions,Lines added,447,30,162.0,34.0,M2 plus description length,ok,64.69676506243056,2.1475994301874746,165.54735082705471,0.0406435814953528,0.0004997501249375312,1.3500893720491152,0.15356714671721705
+ai_disclosed,additions,Lines added,447,30,162.0,34.0,M3 same author,too few authors with both kinds of PR,,,,,,,
+ai_disclosed,deletions,Lines deleted,447,30,19.5,8.0,M1 month effects,ok,34.987629789901376,-12.417858666454151,108.05223438075706,0.17407115921185057,,,0.34814231842370114
+ai_disclosed,deletions,Lines deleted,447,30,19.5,8.0,M2 plus description length,ok,36.16357349937906,-10.327025446106708,106.75703956912889,0.14748090846257578,0.29035482258870565,0.352402161599579,0.29496181692515155
+ai_disclosed,deletions,Lines deleted,447,30,19.5,8.0,M3 same author,too few authors with both kinds of PR,,,,,,,
+ai_disclosed,hours_to_merge,Hours to merge,384,29,1.2055555555555555,2.151388888888889,all,fewer than 30 exposed PRs,,,,,,,

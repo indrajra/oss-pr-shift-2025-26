@@ -1,0 +1,5 @@
+tool,n_exposed,m1_pct,m1_low,m1_high,m3_pct,m3_low,m3_high,call,status
+unspecified,574,50.354418541073834,23.106477332346586,83.63332023378838,9.649437673770379,0.804714662626127,19.270206978043735,larger,ok
+claude,24,,,,,,,,fewer than 30 exposed PRs
+chatgpt,4,,,,,,,,fewer than 30 exposed PRs
+gemini,1,,,,,,,,fewer than 30 exposed PRs

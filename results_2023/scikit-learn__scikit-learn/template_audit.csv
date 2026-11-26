@@ -1,0 +1,60 @@
+month,line,share_of_prs,n_prs
+2023-01,#### reference issues/prs,0.53125,128
+2023-01,#### what does this implement/fix? explain your changes.,0.5078125,128
+2023-01,#### any other comments?,0.359375,128
+2023-02,#### reference issues/prs,0.6829268292682927,123
+2023-02,#### what does this implement/fix? explain your changes.,0.6991869918699187,123
+2023-02,#### any other comments?,0.5040650406504065,123
+2023-03,#### reference issues/prs,0.593607305936073,219
+2023-03,#### what does this implement/fix? explain your changes.,0.5799086757990868,219
+2023-03,#### any other comments?,0.410958904109589,219
+2023-03,towards #24862,0.2100456621004566,219
+2023-04,#### reference issues/prs,0.7628865979381443,194
+2023-04,#### what does this implement/fix? explain your changes.,0.7783505154639175,194
+2023-04,#### any other comments?,0.4793814432989691,194
+2023-04,towards #24862,0.23195876288659795,194
+2023-05,#### reference issues/prs,0.6176470588235294,102
+2023-05,#### what does this implement/fix? explain your changes.,0.6568627450980392,102
+2023-05,#### any other comments?,0.4803921568627451,102
+2023-06,#### reference issues/prs,0.47023809523809523,168
+2023-06,#### what does this implement/fix? explain your changes.,0.5119047619047619,168
+2023-06,#### any other comments?,0.40476190476190477,168
+2023-07,#### reference issues/prs,0.5365853658536586,123
+2023-07,#### what does this implement/fix? explain your changes.,0.5934959349593496,123
+2023-07,#### any other comments?,0.4065040650406504,123
+2023-08,#### reference issues/prs,0.586046511627907,215
+2023-08,#### what does this implement/fix? explain your changes.,0.6,215
+2023-08,#### any other comments?,0.5255813953488372,215
+2023-08,towards #27090.,0.2186046511627907,215
+2023-09,#### reference issues/prs,0.5161290322580645,155
+2023-09,#### what does this implement/fix? explain your changes.,0.5225806451612903,155
+2023-09,#### any other comments?,0.41935483870967744,155
+2023-10,#### reference issues/prs,0.49137931034482757,116
+2023-10,#### what does this implement/fix? explain your changes.,0.5689655172413793,116
+2023-10,#### any other comments?,0.43103448275862066,116
+2023-11,#### reference issues/prs,0.3944954128440367,109
+2023-11,#### what does this implement/fix? explain your changes.,0.44954128440366975,109
+2023-11,#### any other comments?,0.3302752293577982,109
+2023-12,#### reference issues/prs,0.4588235294117647,85
+2023-12,#### what does this implement/fix? explain your changes.,0.5058823529411764,85
+2024-01,#### reference issues/prs,0.4433497536945813,203
+2024-01,#### what does this implement/fix? explain your changes.,0.47783251231527096,203
+2024-01,#### any other comments?,0.33004926108374383,203
+2024-02,#### reference issues/prs,0.5033112582781457,151
+2024-02,#### what does this implement/fix? explain your changes.,0.5298013245033113,151
+2024-02,#### any other comments?,0.4105960264900662,151
+2024-03,#### reference issues/prs,0.4631578947368421,95
+2024-03,#### what does this implement/fix? explain your changes.,0.4631578947368421,95
+2024-03,#### any other comments?,0.43157894736842106,95
+2024-04,#### reference issues/prs,0.3611111111111111,108
+2024-04,#### what does this implement/fix? explain your changes.,0.3888888888888889,108
+2024-04,#### any other comments?,0.3333333333333333,108
+2024-05,#### reference issues/prs,0.44,125
+2024-05,#### what does this implement/fix? explain your changes.,0.464,125
+2024-05,#### any other comments?,0.352,125
+2024-06,#### reference issues/prs,0.46551724137931033,116
+2024-06,#### what does this implement/fix? explain your changes.,0.5086206896551724,116
+2024-06,#### any other comments?,0.41379310344827586,116
+2024-07,#### reference issues/prs,0.425,120
+2024-07,#### what does this implement/fix? explain your changes.,0.4583333333333333,120
+2024-07,#### any other comments?,0.31666666666666665,120

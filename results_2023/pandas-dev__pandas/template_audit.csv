@@ -1,0 +1,94 @@
+month,line,share_of_prs,n_prs
+2023-01,tests added and passed if fixing a bug or adding a new feature,0.5576923076923077,312
+2023-01,all code checks passed.,0.5993589743589743,312
+2023-01,added an entry in the latest `doc/source/whatsnew/vx.x.x.rst` file if fixing a bug or adding a new feature.,0.5256410256410257,312
+2023-01,closes #xxxx (replace xxxx with the github issue number),0.2916666666666667,312
+2023-01,added type annotations to new arguments/methods/functions.,0.5480769230769231,312
+2023-02,tests added and passed if fixing a bug or adding a new feature,0.6042654028436019,422
+2023-02,all code checks passed.,0.6208530805687204,422
+2023-02,added an entry in the latest `doc/source/whatsnew/vx.x.x.rst` file if fixing a bug or adding a new feature.,0.5639810426540285,422
+2023-02,closes #xxxx (replace xxxx with the github issue number),0.33649289099526064,422
+2023-02,added type annotations to new arguments/methods/functions.,0.6042654028436019,422
+2023-03,tests added and passed if fixing a bug or adding a new feature,0.5390070921985816,423
+2023-03,all code checks passed.,0.5626477541371159,423
+2023-03,added an entry in the latest `doc/source/whatsnew/vx.x.x.rst` file if fixing a bug or adding a new feature.,0.491725768321513,423
+2023-03,closes #xxxx (replace xxxx with the github issue number),0.2624113475177305,423
+2023-03,added type annotations to new arguments/methods/functions.,0.4988179669030733,423
+2023-04,tests added and passed if fixing a bug or adding a new feature,0.5567685589519651,458
+2023-04,all code checks passed.,0.5829694323144105,458
+2023-04,added an entry in the latest `doc/source/whatsnew/vx.x.x.rst` file if fixing a bug or adding a new feature.,0.49344978165938863,458
+2023-04,closes #xxxx (replace xxxx with the github issue number),0.2205240174672489,458
+2023-04,added type annotations to new arguments/methods/functions.,0.5393013100436681,458
+2023-05,tests added and passed if fixing a bug or adding a new feature,0.4742268041237113,291
+2023-05,all code checks passed.,0.5463917525773195,291
+2023-05,added an entry in the latest `doc/source/whatsnew/vx.x.x.rst` file if fixing a bug or adding a new feature.,0.436426116838488,291
+2023-05,added type annotations to new arguments/methods/functions.,0.4639175257731959,291
+2023-06,tests added and passed if fixing a bug or adding a new feature,0.49324324324324326,296
+2023-06,all code checks passed.,0.6182432432432432,296
+2023-06,added an entry in the latest `doc/source/whatsnew/vx.x.x.rst` file if fixing a bug or adding a new feature.,0.44932432432432434,296
+2023-06,closes #xxxx (replace xxxx with the github issue number),0.22635135135135134,296
+2023-06,added type annotations to new arguments/methods/functions.,0.4831081081081081,296
+2023-07,tests added and passed if fixing a bug or adding a new feature,0.5173745173745173,259
+2023-07,all code checks passed.,0.6718146718146718,259
+2023-07,added an entry in the latest `doc/source/whatsnew/vx.x.x.rst` file if fixing a bug or adding a new feature.,0.4594594594594595,259
+2023-07,added type annotations to new arguments/methods/functions.,0.4864864864864865,259
+2023-08,tests added and passed if fixing a bug or adding a new feature,0.4847715736040609,394
+2023-08,all code checks passed.,0.5634517766497462,394
+2023-08,added an entry in the latest `doc/source/whatsnew/vx.x.x.rst` file if fixing a bug or adding a new feature.,0.4035532994923858,394
+2023-08,closes #xxxx (replace xxxx with the github issue number),0.2131979695431472,394
+2023-08,added type annotations to new arguments/methods/functions.,0.434010152284264,394
+2023-09,tests added and passed if fixing a bug or adding a new feature,0.45493562231759654,233
+2023-09,all code checks passed.,0.51931330472103,233
+2023-09,added an entry in the latest `doc/source/whatsnew/vx.x.x.rst` file if fixing a bug or adding a new feature.,0.41201716738197425,233
+2023-09,added type annotations to new arguments/methods/functions.,0.44635193133047213,233
+2023-10,tests added and passed if fixing a bug or adding a new feature,0.44755244755244755,286
+2023-10,all code checks passed.,0.4755244755244755,286
+2023-10,added an entry in the latest `doc/source/whatsnew/vx.x.x.rst` file if fixing a bug or adding a new feature.,0.4160839160839161,286
+2023-10,closes #xxxx (replace xxxx with the github issue number),0.27972027972027974,286
+2023-10,added type annotations to new arguments/methods/functions.,0.4370629370629371,286
+2023-11,tests added and passed if fixing a bug or adding a new feature,0.5373563218390804,348
+2023-11,all code checks passed.,0.5402298850574713,348
+2023-11,added an entry in the latest `doc/source/whatsnew/vx.x.x.rst` file if fixing a bug or adding a new feature.,0.49137931034482757,348
+2023-11,closes #xxxx (replace xxxx with the github issue number),0.3620689655172414,348
+2023-11,added type annotations to new arguments/methods/functions.,0.5114942528735632,348
+2023-12,tests added and passed if fixing a bug or adding a new feature,0.4785714285714286,280
+2023-12,all code checks passed.,0.4857142857142857,280
+2023-12,added an entry in the latest `doc/source/whatsnew/vx.x.x.rst` file if fixing a bug or adding a new feature.,0.45357142857142857,280
+2023-12,closes #xxxx (replace xxxx with the github issue number),0.2392857142857143,280
+2023-12,added type annotations to new arguments/methods/functions.,0.475,280
+2024-01,tests added and passed if fixing a bug or adding a new feature,0.5359477124183006,306
+2024-01,all code checks passed.,0.5620915032679739,306
+2024-01,added an entry in the latest `doc/source/whatsnew/vx.x.x.rst` file if fixing a bug or adding a new feature.,0.4934640522875817,306
+2024-01,added type annotations to new arguments/methods/functions.,0.5392156862745098,306
+2024-02,tests added and passed if fixing a bug or adding a new feature,0.565625,320
+2024-02,all code checks passed.,0.584375,320
+2024-02,added an entry in the latest `doc/source/whatsnew/vx.x.x.rst` file if fixing a bug or adding a new feature.,0.53125,320
+2024-02,closes #xxxx (replace xxxx with the github issue number),0.221875,320
+2024-02,added type annotations to new arguments/methods/functions.,0.5375,320
+2024-03,tests added and passed if fixing a bug or adding a new feature,0.4964788732394366,284
+2024-03,all code checks passed.,0.5211267605633803,284
+2024-03,added an entry in the latest `doc/source/whatsnew/vx.x.x.rst` file if fixing a bug or adding a new feature.,0.45422535211267606,284
+2024-03,closes #xxxx (replace xxxx with the github issue number),0.2007042253521127,284
+2024-03,added type annotations to new arguments/methods/functions.,0.46830985915492956,284
+2024-04,tests added and passed if fixing a bug or adding a new feature,0.4838709677419355,248
+2024-04,all code checks passed.,0.5564516129032258,248
+2024-04,added an entry in the latest `doc/source/whatsnew/vx.x.x.rst` file if fixing a bug or adding a new feature.,0.4959677419354839,248
+2024-04,added type annotations to new arguments/methods/functions.,0.4717741935483871,248
+2024-05,fixes,0.4230769230769231,260
+2024-05,tests added and passed if fixing a bug or adding a new feature,0.25769230769230766,260
+2024-05,all code checks passed.,0.29615384615384616,260
+2024-05,added an entry in the latest `doc/source/whatsnew/vx.x.x.rst` file if fixing a bug or adding a new feature.,0.22692307692307692,260
+2024-05,added type annotations to new arguments/methods/functions.,0.24615384615384617,260
+2024-06,fixes,0.20987654320987653,162
+2024-06,tests added and passed if fixing a bug or adding a new feature,0.3148148148148148,162
+2024-06,all code checks passed.,0.35185185185185186,162
+2024-06,added an entry in the latest `doc/source/whatsnew/vx.x.x.rst` file if fixing a bug or adding a new feature.,0.30246913580246915,162
+2024-06,added type annotations to new arguments/methods/functions.,0.3333333333333333,162
+2024-07,tests added and passed if fixing a bug or adding a new feature,0.3602941176470588,136
+2024-07,all code checks passed.,0.3897058823529412,136
+2024-07,added an entry in the latest `doc/source/whatsnew/vx.x.x.rst` file if fixing a bug or adding a new feature.,0.3235294117647059,136
+2024-07,added type annotations to new arguments/methods/functions.,0.34558823529411764,136
+2024-08,tests added and passed if fixing a bug or adding a new feature,0.37606837606837606,117
+2024-08,all code checks passed.,0.4188034188034188,117
+2024-08,added an entry in the latest `doc/source/whatsnew/vx.x.x.rst` file if fixing a bug or adding a new feature.,0.358974358974359,117
+2024-08,added type annotations to new arguments/methods/functions.,0.37606837606837606,117

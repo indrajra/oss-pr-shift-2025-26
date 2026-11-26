@@ -1,0 +1,7 @@
+line,first_month,last_month,months,peak_share,change_event
+## target release,2023-02,2024-04,10,0.6666666666666666,
+## draft changelog entry,2023-03,2024-04,5,0.5733333333333334,added
+--,2023-09,2024-04,4,0.4117647058823529,
+## backport,2023-09,2024-04,3,0.4,
+the below text is copied from the body of the original pr.,2023-09,2024-04,3,0.4,
+overview of commits,2023-10,2024-04,2,0.4,

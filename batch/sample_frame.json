@@ -1,0 +1,1991 @@
+{
+ "seed": 20261120,
+ "strata": {
+  "Python": {
+   "frame_size": 1716,
+   "screened": [
+    {
+     "repo": "rafaelpadilla/Object-Detection-Metrics",
+     "prs": {
+      "2023-24": 8,
+      "2025-26": 6
+     },
+     "merged": {},
+     "kept": false
+    },
+    {
+     "repo": "BGmi/BGmi",
+     "prs": {
+      "2023-24": 441,
+      "2025-26": 258
+     },
+     "merged": {},
+     "kept": false
+    },
+    {
+     "repo": "jupyterhub/jupyterhub",
+     "prs": {
+      "2023-24": 357,
+      "2025-26": 401
+     },
+     "merged": {
+      "2023-24": 337,
+      "2025-26": 345
+     },
+     "kept": true
+    },
+    {
+     "repo": "scrapy/scrapyd",
+     "prs": {
+      "2023-24": 24,
+      "2025-26": 29
+     },
+     "merged": {},
+     "kept": false
+    },
+    {
+     "repo": "python-pendulum/pendulum",
+     "prs": {
+      "2023-24": 68,
+      "2025-26": 87
+     },
+     "merged": {},
+     "kept": false
+    },
+    {
+     "repo": "textext/textext",
+     "prs": {
+      "2023-24": 6,
+      "2025-26": 18
+     },
+     "merged": {},
+     "kept": false
+    },
+    {
+     "repo": "ultralytics/yolov3",
+     "prs": {
+      "2023-24": 207,
+      "2025-26": 159
+     },
+     "merged": {},
+     "kept": false
+    },
+    {
+     "repo": "PyPSA/PyPSA",
+     "prs": {
+      "2023-24": 333,
+      "2025-26": 532
+     },
+     "merged": {
+      "2023-24": 287,
+      "2025-26": 438
+     },
+     "kept": true
+    },
+    {
+     "repo": "Tautulli/Tautulli",
+     "prs": {
+      "2023-24": 276,
+      "2025-26": 211
+     },
+     "merged": {},
+     "kept": false
+    },
+    {
+     "repo": "alecthomas/voluptuous",
+     "prs": {
+      "2023-24": 41,
+      "2025-26": 24
+     },
+     "merged": {},
+     "kept": false
+    },
+    {
+     "repo": "bayesian-optimization/BayesianOptimization",
+     "prs": {
+      "2023-24": 54,
+      "2025-26": 45
+     },
+     "merged": {},
+     "kept": false
+    },
+    {
+     "repo": "cloudpipe/cloudpickle",
+     "prs": {
+      "2023-24": 20,
+      "2025-26": 33
+     },
+     "merged": {},
+     "kept": false
+    },
+    {
+     "repo": "mypaint/mypaint",
+     "prs": {
+      "2023-24": 22,
+      "2025-26": 18
+     },
+     "merged": {},
+     "kept": false
+    },
+    {
+     "repo": "snorkel-team/snorkel",
+     "prs": {
+      "2023-24": 10,
+      "2025-26": 1
+     },
+     "merged": {},
+     "kept": false
+    },
+    {
+     "repo": "JoshData/python-email-validator",
+     "prs": {
+      "2023-24": 21,
+      "2025-26": 7
+     },
+     "merged": {},
+     "kept": false
+    },
+    {
+     "repo": "NVIDIA/apex",
+     "prs": {
+      "2023-24": 139,
+      "2025-26": 113
+     },
+     "merged": {},
+     "kept": false
+    },
+    {
+     "repo": "john-kurkowski/tldextract",
+     "prs": {
+      "2023-24": 30,
+      "2025-26": 19
+     },
+     "merged": {},
+     "kept": false
+    },
+    {
+     "repo": "libretro/libretro-database",
+     "prs": {
+      "2023-24": 93,
+      "2025-26": 150
+     },
+     "merged": {},
+     "kept": false
+    },
+    {
+     "repo": "skywind3000/ECDICT",
+     "prs": {
+      "2023-24": 7,
+      "2025-26": 3
+     },
+     "merged": {},
+     "kept": false
+    },
+    {
+     "repo": "prowler-cloud/prowler",
+     "prs": {
+      "2023-24": 2699,
+      "2025-26": 5664
+     },
+     "merged": {
+      "2023-24": 2567,
+      "2025-26": 4788
+     },
+     "kept": true
+    },
+    {
+     "repo": "matthewwithanm/django-imagekit",
+     "prs": {
+      "2023-24": 6,
+      "2025-26": 9
+     },
+     "merged": {},
+     "kept": false
+    },
+    {
+     "repo": "Legrandin/pycryptodome",
+     "prs": {
+      "2023-24": 49,
+      "2025-26": 38
+     },
+     "merged": {},
+     "kept": false
+    },
+    {
+     "repo": "abhinavsingh/proxy.py",
+     "prs": {
+      "2023-24": 80,
+      "2025-26": 10
+     },
+     "merged": {},
+     "kept": false
+    },
+    {
+     "repo": "alicevision/Meshroom",
+     "prs": {
+      "2023-24": 348,
+      "2025-26": 395
+     },
+     "merged": {
+      "2023-24": 323,
+      "2025-26": 321
+     },
+     "kept": true
+    },
+    {
+     "repo": "mikf/gallery-dl",
+     "prs": {
+      "2023-24": 184,
+      "2025-26": 229
+     },
+     "merged": {},
+     "kept": false
+    },
+    {
+     "repo": "myusuf3/delorean",
+     "prs": {
+      "2023-24": 1,
+      "2025-26": 25
+     },
+     "merged": {},
+     "kept": false
+    },
+    {
+     "repo": "ivre/ivre",
+     "prs": {
+      "2023-24": 101,
+      "2025-26": 223
+     },
+     "merged": {},
+     "kept": false
+    },
+    {
+     "repo": "vivisect/vivisect",
+     "prs": {
+      "2023-24": 81,
+      "2025-26": 21
+     },
+     "merged": {},
+     "kept": false
+    },
+    {
+     "repo": "gruns/icecream",
+     "prs": {
+      "2023-24": 17,
+      "2025-26": 27
+     },
+     "merged": {},
+     "kept": false
+    },
+    {
+     "repo": "python-streamz/streamz",
+     "prs": {
+      "2023-24": 1,
+      "2025-26": 15
+     },
+     "merged": {},
+     "kept": false
+    },
+    {
+     "repo": "zhanghang1989/PyTorch-Encoding",
+     "prs": {
+      "2023-24": 1,
+      "2025-26": 0
+     },
+     "merged": {},
+     "kept": false
+    },
+    {
+     "repo": "Hopetree/izone",
+     "prs": {
+      "2023-24": 93,
+      "2025-26": 3
+     },
+     "merged": {},
+     "kept": false
+    },
+    {
+     "repo": "Ultimaker/Cura",
+     "prs": {
+      "2023-24": 796,
+      "2025-26": 448
+     },
+     "merged": {
+      "2023-24": 530,
+      "2025-26": 369
+     },
+     "kept": true
+    }
+   ],
+   "kept": [
+    "jupyterhub/jupyterhub",
+    "PyPSA/PyPSA",
+    "prowler-cloud/prowler",
+    "alicevision/Meshroom",
+    "Ultimaker/Cura"
+   ]
+  },
+  "JavaScript/TypeScript": {
+   "frame_size": 2431,
+   "screened": [
+    {
+     "repo": "valor-software/ng2-file-upload",
+     "prs": {
+      "2023-24": 17,
+      "2025-26": 9
+     },
+     "merged": {},
+     "kept": false
+    },
+    {
+     "repo": "Paxa/postbird",
+     "prs": {
+      "2023-24": 1,
+      "2025-26": 3
+     },
+     "merged": {},
+     "kept": false
+    },
+    {
+     "repo": "Stremio/stremio-addon-sdk",
+     "prs": {
+      "2023-24": 13,
+      "2025-26": 22
+     },
+     "merged": {},
+     "kept": false
+    },
+    {
+     "repo": "cam-inc/viron",
+     "prs": {
+      "2023-24": 202,
+      "2025-26": 47
+     },
+     "merged": {},
+     "kept": false
+    },
+    {
+     "repo": "nasa/openmct",
+     "prs": {
+      "2023-24": 1018,
+      "2025-26": 300
+     },
+     "merged": {
+      "2023-24": 687,
+      "2025-26": 97
+     },
+     "kept": false
+    },
+    {
+     "repo": "jabbany/CommentCoreLibrary",
+     "prs": {
+      "2023-24": 4,
+      "2025-26": 0
+     },
+     "merged": {},
+     "kept": false
+    },
+    {
+     "repo": "IsmaelMartinez/teams-for-linux",
+     "prs": {
+      "2023-24": 216,
+      "2025-26": 722
+     },
+     "merged": {},
+     "kept": false
+    },
+    {
+     "repo": "vpulim/node-soap",
+     "prs": {
+      "2023-24": 41,
+      "2025-26": 189
+     },
+     "merged": {},
+     "kept": false
+    },
+    {
+     "repo": "snyk/cli",
+     "prs": {
+      "2023-24": 1107,
+      "2025-26": 1496
+     },
+     "merged": {
+      "2023-24": 664,
+      "2025-26": 1091
+     },
+     "kept": true
+    },
+    {
+     "repo": "creold/illustrator-scripts",
+     "prs": {
+      "2023-24": 1,
+      "2025-26": 2
+     },
+     "merged": {},
+     "kept": false
+    },
+    {
+     "repo": "techgaun/active-forks",
+     "prs": {
+      "2023-24": 1,
+      "2025-26": 12
+     },
+     "merged": {},
+     "kept": false
+    },
+    {
+     "repo": "firebase/firebase-tools",
+     "prs": {
+      "2023-24": 1210,
+      "2025-26": 2071
+     },
+     "merged": {
+      "2023-24": 888,
+      "2025-26": 1333
+     },
+     "kept": true
+    },
+    {
+     "repo": "kriasoft/react-starter-kit",
+     "prs": {
+      "2023-24": 32,
+      "2025-26": 89
+     },
+     "merged": {},
+     "kept": false
+    },
+    {
+     "repo": "theoephraim/node-google-spreadsheet",
+     "prs": {
+      "2023-24": 34,
+      "2025-26": 21
+     },
+     "merged": {},
+     "kept": false
+    },
+    {
+     "repo": "callstack/react-native-testing-library",
+     "prs": {
+      "2023-24": 251,
+      "2025-26": 159
+     },
+     "merged": {},
+     "kept": false
+    },
+    {
+     "repo": "reg-viz/reg-suit",
+     "prs": {
+      "2023-24": 97,
+      "2025-26": 14
+     },
+     "merged": {},
+     "kept": false
+    },
+    {
+     "repo": "Yomguithereal/mnemonist",
+     "prs": {
+      "2023-24": 11,
+      "2025-26": 8
+     },
+     "merged": {},
+     "kept": false
+    },
+    {
+     "repo": "TehShrike/deepmerge",
+     "prs": {
+      "2023-24": 3,
+      "2025-26": 3
+     },
+     "merged": {},
+     "kept": false
+    },
+    {
+     "repo": "showdownjs/showdown",
+     "prs": {
+      "2023-24": 8,
+      "2025-26": 27
+     },
+     "merged": {},
+     "kept": false
+    },
+    {
+     "repo": "jakerella/jquery-mockjax",
+     "prs": {
+      "2023-24": 1,
+      "2025-26": 17
+     },
+     "merged": {},
+     "kept": false
+    },
+    {
+     "repo": "yarnpkg/berry",
+     "prs": {
+      "2023-24": 457,
+      "2025-26": 265
+     },
+     "merged": {},
+     "kept": false
+    },
+    {
+     "repo": "antvis/G",
+     "prs": {
+      "2023-24": 323,
+      "2025-26": 98
+     },
+     "merged": {},
+     "kept": false
+    },
+    {
+     "repo": "mbnuqw/sidebery",
+     "prs": {
+      "2023-24": 68,
+      "2025-26": 78
+     },
+     "merged": {},
+     "kept": false
+    },
+    {
+     "repo": "gre/react-native-view-shot",
+     "prs": {
+      "2023-24": 35,
+      "2025-26": 91
+     },
+     "merged": {},
+     "kept": false
+    },
+    {
+     "repo": "PreMiD/PreMiD",
+     "prs": {
+      "2023-24": 115,
+      "2025-26": 13
+     },
+     "merged": {},
+     "kept": false
+    },
+    {
+     "repo": "cosmiconfig/cosmiconfig",
+     "prs": {
+      "2023-24": 16,
+      "2025-26": 9
+     },
+     "merged": {},
+     "kept": false
+    },
+    {
+     "repo": "selfrefactor/rambda",
+     "prs": {
+      "2023-24": 35,
+      "2025-26": 18
+     },
+     "merged": {},
+     "kept": false
+    },
+    {
+     "repo": "styled-components/jest-styled-components",
+     "prs": {
+      "2023-24": 12,
+      "2025-26": 10
+     },
+     "merged": {},
+     "kept": false
+    },
+    {
+     "repo": "GSConnect/gnome-shell-extension-gsconnect",
+     "prs": {
+      "2023-24": 101,
+      "2025-26": 162
+     },
+     "merged": {},
+     "kept": false
+    },
+    {
+     "repo": "jsdoc/jsdoc",
+     "prs": {
+      "2023-24": 31,
+      "2025-26": 25
+     },
+     "merged": {},
+     "kept": false
+    },
+    {
+     "repo": "Kong/httpsnippet",
+     "prs": {
+      "2023-24": 32,
+      "2025-26": 13
+     },
+     "merged": {},
+     "kept": false
+    },
+    {
+     "repo": "webpack/sass-loader",
+     "prs": {
+      "2023-24": 79,
+      "2025-26": 72
+     },
+     "merged": {},
+     "kept": false
+    },
+    {
+     "repo": "GiantappMan/livewallpaper",
+     "prs": {
+      "2023-24": 7,
+      "2025-26": 17
+     },
+     "merged": {},
+     "kept": false
+    },
+    {
+     "repo": "opensheetmusicdisplay/opensheetmusicdisplay",
+     "prs": {
+      "2023-24": 62,
+      "2025-26": 65
+     },
+     "merged": {},
+     "kept": false
+    },
+    {
+     "repo": "tutao/tutanota",
+     "prs": {
+      "2023-24": 1152,
+      "2025-26": 1189
+     },
+     "merged": {
+      "2023-24": 1043,
+      "2025-26": 985
+     },
+     "kept": true
+    },
+    {
+     "repo": "elastic/elasticsearch-js",
+     "prs": {
+      "2023-24": 459,
+      "2025-26": 777
+     },
+     "merged": {
+      "2023-24": 428,
+      "2025-26": 739
+     },
+     "kept": true
+    },
+    {
+     "repo": "loiane/javascript-datastructures-algorithms",
+     "prs": {
+      "2023-24": 11,
+      "2025-26": 34
+     },
+     "merged": {},
+     "kept": false
+    },
+    {
+     "repo": "ipfs/ipfs-companion",
+     "prs": {
+      "2023-24": 100,
+      "2025-26": 61
+     },
+     "merged": {},
+     "kept": false
+    },
+    {
+     "repo": "dessant/buster",
+     "prs": {
+      "2023-24": 0,
+      "2025-26": 2
+     },
+     "merged": {},
+     "kept": false
+    },
+    {
+     "repo": "microrealestate/microrealestate",
+     "prs": {
+      "2023-24": 24,
+      "2025-26": 19
+     },
+     "merged": {},
+     "kept": false
+    },
+    {
+     "repo": "quiltdata/quilt",
+     "prs": {
+      "2023-24": 849,
+      "2025-26": 878
+     },
+     "merged": {
+      "2023-24": 736,
+      "2025-26": 627
+     },
+     "kept": true
+    }
+   ],
+   "kept": [
+    "snyk/cli",
+    "firebase/firebase-tools",
+    "tutao/tutanota",
+    "elastic/elasticsearch-js",
+    "quiltdata/quilt"
+   ]
+  },
+  "Go": {
+   "frame_size": 1018,
+   "screened": [
+    {
+     "repo": "wormi4ok/evernote2md",
+     "prs": {
+      "2023-24": 16,
+      "2025-26": 18
+     },
+     "merged": {},
+     "kept": false
+    },
+    {
+     "repo": "Shopify/go-lua",
+     "prs": {
+      "2023-24": 3,
+      "2025-26": 4
+     },
+     "merged": {},
+     "kept": false
+    },
+    {
+     "repo": "bettercap/bettercap",
+     "prs": {
+      "2023-24": 14,
+      "2025-26": 76
+     },
+     "merged": {},
+     "kept": false
+    },
+    {
+     "repo": "apache/rocketmq-client-go",
+     "prs": {
+      "2023-24": 76,
+      "2025-26": 29
+     },
+     "merged": {},
+     "kept": false
+    },
+    {
+     "repo": "emersion/go-imap",
+     "prs": {
+      "2023-24": 75,
+      "2025-26": 70
+     },
+     "merged": {},
+     "kept": false
+    },
+    {
+     "repo": "qdm12/ddns-updater",
+     "prs": {
+      "2023-24": 135,
+      "2025-26": 133
+     },
+     "merged": {},
+     "kept": false
+    },
+    {
+     "repo": "dghubble/gologin",
+     "prs": {
+      "2023-24": 160,
+      "2025-26": 68
+     },
+     "merged": {},
+     "kept": false
+    },
+    {
+     "repo": "gabrie30/ghorg",
+     "prs": {
+      "2023-24": 126,
+      "2025-26": 164
+     },
+     "merged": {},
+     "kept": false
+    },
+    {
+     "repo": "schachmat/wego",
+     "prs": {
+      "2023-24": 10,
+      "2025-26": 31
+     },
+     "merged": {},
+     "kept": false
+    },
+    {
+     "repo": "k0kubun/pp",
+     "prs": {
+      "2023-24": 3,
+      "2025-26": 23
+     },
+     "merged": {},
+     "kept": false
+    },
+    {
+     "repo": "kuberhealthy/kuberhealthy",
+     "prs": {
+      "2023-24": 96,
+      "2025-26": 217
+     },
+     "merged": {},
+     "kept": false
+    },
+    {
+     "repo": "kubermatic/kubermatic",
+     "prs": {
+      "2023-24": 1468,
+      "2025-26": 1511
+     },
+     "merged": {
+      "2023-24": 1382,
+      "2025-26": 1301
+     },
+     "kept": true
+    },
+    {
+     "repo": "kayac/ecspresso",
+     "prs": {
+      "2023-24": 221,
+      "2025-26": 265
+     },
+     "merged": {},
+     "kept": false
+    },
+    {
+     "repo": "cortexproject/cortex",
+     "prs": {
+      "2023-24": 851,
+      "2025-26": 1076
+     },
+     "merged": {
+      "2023-24": 682,
+      "2025-26": 753
+     },
+     "kept": true
+    },
+    {
+     "repo": "go-gormigrate/gormigrate",
+     "prs": {
+      "2023-24": 44,
+      "2025-26": 9
+     },
+     "merged": {},
+     "kept": false
+    },
+    {
+     "repo": "flipt-io/flipt",
+     "prs": {
+      "2023-24": 1895,
+      "2025-26": 2390
+     },
+     "merged": {
+      "2023-24": 1765,
+      "2025-26": 2258
+     },
+     "kept": true
+    },
+    {
+     "repo": "dustin/go-humanize",
+     "prs": {
+      "2023-24": 8,
+      "2025-26": 27
+     },
+     "merged": {},
+     "kept": false
+    },
+    {
+     "repo": "google/cadvisor",
+     "prs": {
+      "2023-24": 173,
+      "2025-26": 173
+     },
+     "merged": {},
+     "kept": false
+    },
+    {
+     "repo": "elastic/apm-server",
+     "prs": {
+      "2023-24": 3614,
+      "2025-26": 6235
+     },
+     "merged": {},
+     "kept": false
+    },
+    {
+     "repo": "zerodha/dungbeetle",
+     "prs": {
+      "2023-24": 22,
+      "2025-26": 13
+     },
+     "merged": {},
+     "kept": false
+    },
+    {
+     "repo": "tcnksm/ghr",
+     "prs": {
+      "2023-24": 7,
+      "2025-26": 47
+     },
+     "merged": {},
+     "kept": false
+    },
+    {
+     "repo": "go-cmd/cmd",
+     "prs": {
+      "2023-24": 3,
+      "2025-26": 0
+     },
+     "merged": {},
+     "kept": false
+    },
+    {
+     "repo": "labring/sealos",
+     "prs": {
+      "2023-24": 1961,
+      "2025-26": 1587
+     },
+     "merged": {
+      "2023-24": 1772,
+      "2025-26": 1337
+     },
+     "kept": true
+    },
+    {
+     "repo": "tus/tusd",
+     "prs": {
+      "2023-24": 178,
+      "2025-26": 99
+     },
+     "merged": {},
+     "kept": false
+    },
+    {
+     "repo": "brianvoe/gofakeit",
+     "prs": {
+      "2023-24": 92,
+      "2025-26": 10
+     },
+     "merged": {},
+     "kept": false
+    },
+    {
+     "repo": "alibaba/MongoShake",
+     "prs": {
+      "2023-24": 8,
+      "2025-26": 33
+     },
+     "merged": {},
+     "kept": false
+    },
+    {
+     "repo": "canonical/lxd",
+     "prs": {
+      "2023-24": 1939,
+      "2025-26": 3527
+     },
+     "merged": {
+      "2023-24": 1726,
+      "2025-26": 3135
+     },
+     "kept": true
+    }
+   ],
+   "kept": [
+    "kubermatic/kubermatic",
+    "cortexproject/cortex",
+    "flipt-io/flipt",
+    "labring/sealos",
+    "canonical/lxd"
+   ]
+  },
+  "Rust": {
+   "frame_size": 419,
+   "screened": [
+    {
+     "repo": "magic-wormhole/magic-wormhole.rs",
+     "prs": {
+      "2023-24": 50,
+      "2025-26": 50
+     },
+     "merged": {},
+     "kept": false
+    },
+    {
+     "repo": "TheDan64/inkwell",
+     "prs": {
+      "2023-24": 53,
+      "2025-26": 88
+     },
+     "merged": {},
+     "kept": false
+    },
+    {
+     "repo": "rojo-rbx/rojo",
+     "prs": {
+      "2023-24": 172,
+      "2025-26": 110
+     },
+     "merged": {},
+     "kept": false
+    },
+    {
+     "repo": "servo/servo",
+     "prs": {
+      "2023-24": 3121,
+      "2025-26": 8893
+     },
+     "merged": {},
+     "kept": false
+    },
+    {
+     "repo": "rust-bio/rust-bio",
+     "prs": {
+      "2023-24": 59,
+      "2025-26": 58
+     },
+     "merged": {},
+     "kept": false
+    },
+    {
+     "repo": "cberner/redb",
+     "prs": {
+      "2023-24": 209,
+      "2025-26": 382
+     },
+     "merged": {},
+     "kept": false
+    },
+    {
+     "repo": "mimblewimble/grin",
+     "prs": {
+      "2023-24": 34,
+      "2025-26": 108
+     },
+     "merged": {},
+     "kept": false
+    },
+    {
+     "repo": "rust-lang/cc-rs",
+     "prs": {
+      "2023-24": 287,
+      "2025-26": 419
+     },
+     "merged": {},
+     "kept": false
+    },
+    {
+     "repo": "librespot-org/librespot",
+     "prs": {
+      "2023-24": 102,
+      "2025-26": 138
+     },
+     "merged": {},
+     "kept": false
+    },
+    {
+     "repo": "apache/mahout",
+     "prs": {
+      "2023-24": 31,
+      "2025-26": 622
+     },
+     "merged": {},
+     "kept": false
+    },
+    {
+     "repo": "burtonageo/cargo-bundle",
+     "prs": {
+      "2023-24": 30,
+      "2025-26": 34
+     },
+     "merged": {},
+     "kept": false
+    },
+    {
+     "repo": "hyperledger-solang/solang",
+     "prs": {
+      "2023-24": 412,
+      "2025-26": 155
+     },
+     "merged": {},
+     "kept": false
+    },
+    {
+     "repo": "fkie-cad/cwe_checker",
+     "prs": {
+      "2023-24": 75,
+      "2025-26": 7
+     },
+     "merged": {},
+     "kept": false
+    },
+    {
+     "repo": "chronotope/chrono",
+     "prs": {
+      "2023-24": 494,
+      "2025-26": 118
+     },
+     "merged": {},
+     "kept": false
+    },
+    {
+     "repo": "near/nearcore",
+     "prs": {
+      "2023-24": 2432,
+      "2025-26": 3060
+     },
+     "merged": {
+      "2023-24": 2121,
+      "2025-26": 2407
+     },
+     "kept": true
+    },
+    {
+     "repo": "pest-parser/pest",
+     "prs": {
+      "2023-24": 76,
+      "2025-26": 60
+     },
+     "merged": {},
+     "kept": false
+    },
+    {
+     "repo": "hermit-os/kernel",
+     "prs": {
+      "2023-24": 653,
+      "2025-26": 994
+     },
+     "merged": {
+      "2023-24": 606,
+      "2025-26": 837
+     },
+     "kept": true
+    },
+    {
+     "repo": "ash-rs/ash",
+     "prs": {
+      "2023-24": 164,
+      "2025-26": 48
+     },
+     "merged": {},
+     "kept": false
+    },
+    {
+     "repo": "rust-lang/regex",
+     "prs": {
+      "2023-24": 105,
+      "2025-26": 74
+     },
+     "merged": {},
+     "kept": false
+    },
+    {
+     "repo": "luozhouyang/python-string-similarity",
+     "prs": {
+      "2023-24": 0,
+      "2025-26": 0
+     },
+     "merged": {},
+     "kept": false
+    },
+    {
+     "repo": "sdiehl/write-you-a-haskell",
+     "prs": {
+      "2023-24": 0,
+      "2025-26": 1
+     },
+     "merged": {},
+     "kept": false
+    },
+    {
+     "repo": "rustsec/rustsec",
+     "prs": {
+      "2023-24": 358,
+      "2025-26": 313
+     },
+     "merged": {
+      "2023-24": 244,
+      "2025-26": 240
+     },
+     "kept": true
+    },
+    {
+     "repo": "napi-rs/napi-rs",
+     "prs": {
+      "2023-24": 516,
+      "2025-26": 818
+     },
+     "merged": {
+      "2023-24": 461,
+      "2025-26": 721
+     },
+     "kept": true
+    },
+    {
+     "repo": "nical/lyon",
+     "prs": {
+      "2023-24": 36,
+      "2025-26": 29
+     },
+     "merged": {},
+     "kept": false
+    },
+    {
+     "repo": "rust-lang/mdBook",
+     "prs": {
+      "2023-24": 197,
+      "2025-26": 422
+     },
+     "merged": {},
+     "kept": false
+    },
+    {
+     "repo": "xremap/xremap",
+     "prs": {
+      "2023-24": 134,
+      "2025-26": 242
+     },
+     "merged": {},
+     "kept": false
+    },
+    {
+     "repo": "indexmap-rs/indexmap",
+     "prs": {
+      "2023-24": 60,
+      "2025-26": 57
+     },
+     "merged": {},
+     "kept": false
+    },
+    {
+     "repo": "bytecodealliance/wasmtime",
+     "prs": {
+      "2023-24": 2720,
+      "2025-26": 3262
+     },
+     "merged": {
+      "2023-24": 2537,
+      "2025-26": 3031
+     },
+     "kept": true
+    }
+   ],
+   "kept": [
+    "near/nearcore",
+    "hermit-os/kernel",
+    "rustsec/rustsec",
+    "napi-rs/napi-rs",
+    "bytecodealliance/wasmtime"
+   ]
+  },
+  "Java/Kotlin": {
+   "frame_size": 1074,
+   "screened": [
+    {
+     "repo": "Loophole-LLC/Bastillion",
+     "prs": {
+      "2023-24": 55,
+      "2025-26": 110
+     },
+     "merged": {},
+     "kept": false
+    },
+    {
+     "repo": "apache/incubator-seata",
+     "prs": {
+      "2023-24": 693,
+      "2025-26": 644
+     },
+     "merged": {
+      "2023-24": 564,
+      "2025-26": 483
+     },
+     "kept": true
+    },
+    {
+     "repo": "luxiaoxun/NettyRpc",
+     "prs": {
+      "2023-24": 2,
+      "2025-26": 0
+     },
+     "merged": {},
+     "kept": false
+    },
+    {
+     "repo": "OpenFeign/feign",
+     "prs": {
+      "2023-24": 482,
+      "2025-26": 762
+     },
+     "merged": {
+      "2023-24": 434,
+      "2025-26": 598
+     },
+     "kept": true
+    },
+    {
+     "repo": "Tencent/tinker",
+     "prs": {
+      "2023-24": 3,
+      "2025-26": 17
+     },
+     "merged": {},
+     "kept": false
+    },
+    {
+     "repo": "GitLqr/LQRWeChat",
+     "prs": {
+      "2023-24": 0,
+      "2025-26": 1
+     },
+     "merged": {},
+     "kept": false
+    },
+    {
+     "repo": "mybatis/mybatis-dynamic-sql",
+     "prs": {
+      "2023-24": 219,
+      "2025-26": 224
+     },
+     "merged": {},
+     "kept": false
+    },
+    {
+     "repo": "Kotlin/kotlinx-atomicfu",
+     "prs": {
+      "2023-24": 108,
+      "2025-26": 74
+     },
+     "merged": {},
+     "kept": false
+    },
+    {
+     "repo": "jchambers/pushy",
+     "prs": {
+      "2023-24": 18,
+      "2025-26": 32
+     },
+     "merged": {},
+     "kept": false
+    },
+    {
+     "repo": "aws/serverless-java-container",
+     "prs": {
+      "2023-24": 426,
+      "2025-26": 381
+     },
+     "merged": {
+      "2023-24": 160,
+      "2025-26": 99
+     },
+     "kept": false
+    },
+    {
+     "repo": "apache/servicecomb-java-chassis",
+     "prs": {
+      "2023-24": 711,
+      "2025-26": 374
+     },
+     "merged": {
+      "2023-24": 548,
+      "2025-26": 258
+     },
+     "kept": true
+    },
+    {
+     "repo": "belaban/JGroups",
+     "prs": {
+      "2023-24": 118,
+      "2025-26": 161
+     },
+     "merged": {},
+     "kept": false
+    },
+    {
+     "repo": "vaadin/framework",
+     "prs": {
+      "2023-24": 29,
+      "2025-26": 32
+     },
+     "merged": {},
+     "kept": false
+    },
+    {
+     "repo": "yahoo/elide",
+     "prs": {
+      "2023-24": 332,
+      "2025-26": 91
+     },
+     "merged": {},
+     "kept": false
+    },
+    {
+     "repo": "bannedbook/fanqiang",
+     "prs": {
+      "2023-24": 1,
+      "2025-26": 2
+     },
+     "merged": {},
+     "kept": false
+    },
+    {
+     "repo": "react-native-share/react-native-share",
+     "prs": {
+      "2023-24": 69,
+      "2025-26": 81
+     },
+     "merged": {},
+     "kept": false
+    },
+    {
+     "repo": "bcgit/bc-java",
+     "prs": {
+      "2023-24": 109,
+      "2025-26": 100
+     },
+     "merged": {},
+     "kept": false
+    },
+    {
+     "repo": "signalapp/Signal-Android",
+     "prs": {
+      "2023-24": 118,
+      "2025-26": 254
+     },
+     "merged": {},
+     "kept": false
+    },
+    {
+     "repo": "google/flogger",
+     "prs": {
+      "2023-24": 46,
+      "2025-26": 64
+     },
+     "merged": {},
+     "kept": false
+    },
+    {
+     "repo": "find-sec-bugs/find-sec-bugs",
+     "prs": {
+      "2023-24": 13,
+      "2025-26": 20
+     },
+     "merged": {},
+     "kept": false
+    },
+    {
+     "repo": "mitre/HTTP-Proxy-Servlet",
+     "prs": {
+      "2023-24": 8,
+      "2025-26": 6
+     },
+     "merged": {},
+     "kept": false
+    },
+    {
+     "repo": "ajalt/mordant",
+     "prs": {
+      "2023-24": 73,
+      "2025-26": 21
+     },
+     "merged": {},
+     "kept": false
+    },
+    {
+     "repo": "apache/freemarker",
+     "prs": {
+      "2023-24": 26,
+      "2025-26": 12
+     },
+     "merged": {},
+     "kept": false
+    },
+    {
+     "repo": "zaproxy/zaproxy",
+     "prs": {
+      "2023-24": 469,
+      "2025-26": 384
+     },
+     "merged": {
+      "2023-24": 370,
+      "2025-26": 295
+     },
+     "kept": true
+    },
+    {
+     "repo": "adonespitogo/AdoBot",
+     "prs": {
+      "2023-24": 1,
+      "2025-26": 0
+     },
+     "merged": {},
+     "kept": false
+    },
+    {
+     "repo": "cruise-control-for-kafka/cruise-control",
+     "prs": {
+      "2023-24": 96,
+      "2025-26": 77
+     },
+     "merged": {},
+     "kept": false
+    },
+    {
+     "repo": "yzcheng90/x-springboot",
+     "prs": {
+      "2023-24": 4,
+      "2025-26": 3
+     },
+     "merged": {},
+     "kept": false
+    },
+    {
+     "repo": "hierynomus/sshj",
+     "prs": {
+      "2023-24": 37,
+      "2025-26": 33
+     },
+     "merged": {},
+     "kept": false
+    },
+    {
+     "repo": "EssentialsX/Essentials",
+     "prs": {
+      "2023-24": 189,
+      "2025-26": 258
+     },
+     "merged": {},
+     "kept": false
+    },
+    {
+     "repo": "auth0/java-jwt",
+     "prs": {
+      "2023-24": 26,
+      "2025-26": 78
+     },
+     "merged": {},
+     "kept": false
+    },
+    {
+     "repo": "brianwernick/ExoMedia",
+     "prs": {
+      "2023-24": 20,
+      "2025-26": 4
+     },
+     "merged": {},
+     "kept": false
+    },
+    {
+     "repo": "orientechnologies/orientdb",
+     "prs": {
+      "2023-24": 140,
+      "2025-26": 366
+     },
+     "merged": {},
+     "kept": false
+    },
+    {
+     "repo": "Col-E/Recaf",
+     "prs": {
+      "2023-24": 35,
+      "2025-26": 38
+     },
+     "merged": {},
+     "kept": false
+    },
+    {
+     "repo": "confluentinc/schema-registry",
+     "prs": {
+      "2023-24": 583,
+      "2025-26": 910
+     },
+     "merged": {
+      "2023-24": 527,
+      "2025-26": 771
+     },
+     "kept": true
+    }
+   ],
+   "kept": [
+    "apache/incubator-seata",
+    "OpenFeign/feign",
+    "apache/servicecomb-java-chassis",
+    "zaproxy/zaproxy",
+    "confluentinc/schema-registry"
+   ]
+  },
+  "C/C++": {
+   "frame_size": 1977,
+   "screened": [
+    {
+     "repo": "joeferner/node-java",
+     "prs": {
+      "2023-24": 14,
+      "2025-26": 24
+     },
+     "merged": {},
+     "kept": false
+    },
+    {
+     "repo": "CytopiaTeam/Cytopia",
+     "prs": {
+      "2023-24": 64,
+      "2025-26": 17
+     },
+     "merged": {},
+     "kept": false
+    },
+    {
+     "repo": "espruino/Espruino",
+     "prs": {
+      "2023-24": 104,
+      "2025-26": 59
+     },
+     "merged": {},
+     "kept": false
+    },
+    {
+     "repo": "ngtcp2/nghttp3",
+     "prs": {
+      "2023-24": 110,
+      "2025-26": 193
+     },
+     "merged": {},
+     "kept": false
+    },
+    {
+     "repo": "linux-can/can-utils",
+     "prs": {
+      "2023-24": 88,
+      "2025-26": 43
+     },
+     "merged": {},
+     "kept": false
+    },
+    {
+     "repo": "ZLMediaKit/ZLMediaKit",
+     "prs": {
+      "2023-24": 351,
+      "2025-26": 152
+     },
+     "merged": {},
+     "kept": false
+    },
+    {
+     "repo": "acidanthera/VirtualSMC",
+     "prs": {
+      "2023-24": 7,
+      "2025-26": 1
+     },
+     "merged": {},
+     "kept": false
+    },
+    {
+     "repo": "acados/acados",
+     "prs": {
+      "2023-24": 236,
+      "2025-26": 441
+     },
+     "merged": {},
+     "kept": false
+    },
+    {
+     "repo": "samba-team/samba",
+     "prs": {
+      "2023-24": 1,
+      "2025-26": 2
+     },
+     "merged": {},
+     "kept": false
+    },
+    {
+     "repo": "switchbrew/libnx",
+     "prs": {
+      "2023-24": 42,
+      "2025-26": 60
+     },
+     "merged": {},
+     "kept": false
+    },
+    {
+     "repo": "NVIDIA/DALI",
+     "prs": {
+      "2023-24": 784,
+      "2025-26": 628
+     },
+     "merged": {
+      "2023-24": 708,
+      "2025-26": 565
+     },
+     "kept": true
+    },
+    {
+     "repo": "libusb/libusb",
+     "prs": {
+      "2023-24": 135,
+      "2025-26": 205
+     },
+     "merged": {},
+     "kept": false
+    },
+    {
+     "repo": "gpg/gnupg",
+     "prs": {
+      "2023-24": 3,
+      "2025-26": 2
+     },
+     "merged": {},
+     "kept": false
+    },
+    {
+     "repo": "Snaipe/Criterion",
+     "prs": {
+      "2023-24": 20,
+      "2025-26": 21
+     },
+     "merged": {},
+     "kept": false
+    },
+    {
+     "repo": "EsotericSoftware/spine-runtimes",
+     "prs": {
+      "2023-24": 53,
+      "2025-26": 109
+     },
+     "merged": {},
+     "kept": false
+    },
+    {
+     "repo": "SWI-Prolog/swipl-devel",
+     "prs": {
+      "2023-24": 98,
+      "2025-26": 100
+     },
+     "merged": {},
+     "kept": false
+    },
+    {
+     "repo": "ceres-solver/ceres-solver",
+     "prs": {
+      "2023-24": 0,
+      "2025-26": 0
+     },
+     "merged": {},
+     "kept": false
+    },
+    {
+     "repo": "SFML/SFML",
+     "prs": {
+      "2023-24": 672,
+      "2025-26": 270
+     },
+     "merged": {},
+     "kept": false
+    },
+    {
+     "repo": "NVIDIAGameWorks/Falcor",
+     "prs": {
+      "2023-24": 30,
+      "2025-26": 19
+     },
+     "merged": {},
+     "kept": false
+    },
+    {
+     "repo": "vanhauser-thc/thc-hydra",
+     "prs": {
+      "2023-24": 20,
+      "2025-26": 60
+     },
+     "merged": {},
+     "kept": false
+    },
+    {
+     "repo": "transmission/transmission",
+     "prs": {
+      "2023-24": 1177,
+      "2025-26": 928
+     },
+     "merged": {
+      "2023-24": 992,
+      "2025-26": 735
+     },
+     "kept": true
+    },
+    {
+     "repo": "pocoproject/poco",
+     "prs": {
+      "2023-24": 231,
+      "2025-26": 276
+     },
+     "merged": {},
+     "kept": false
+    },
+    {
+     "repo": "file/file",
+     "prs": {
+      "2023-24": 11,
+      "2025-26": 32
+     },
+     "merged": {},
+     "kept": false
+    },
+    {
+     "repo": "pavel-odintsov/fastnetmon",
+     "prs": {
+      "2023-24": 7,
+      "2025-26": 41
+     },
+     "merged": {},
+     "kept": false
+    },
+    {
+     "repo": "arkhipenko/TaskScheduler",
+     "prs": {
+      "2023-24": 5,
+      "2025-26": 4
+     },
+     "merged": {},
+     "kept": false
+    },
+    {
+     "repo": "nem0/LumixEngine",
+     "prs": {
+      "2023-24": 17,
+      "2025-26": 17
+     },
+     "merged": {},
+     "kept": false
+    },
+    {
+     "repo": "Greedysky/TTKMusicPlayer",
+     "prs": {
+      "2023-24": 0,
+      "2025-26": 10
+     },
+     "merged": {},
+     "kept": false
+    },
+    {
+     "repo": "PDAL/PDAL",
+     "prs": {
+      "2023-24": 347,
+      "2025-26": 390
+     },
+     "merged": {
+      "2023-24": 310,
+      "2025-26": 357
+     },
+     "kept": true
+    },
+    {
+     "repo": "littlekernel/lk",
+     "prs": {
+      "2023-24": 34,
+      "2025-26": 78
+     },
+     "merged": {},
+     "kept": false
+    },
+    {
+     "repo": "linux-rdma/perftest",
+     "prs": {
+      "2023-24": 57,
+      "2025-26": 69
+     },
+     "merged": {},
+     "kept": false
+    },
+    {
+     "repo": "rainmeter/rainmeter",
+     "prs": {
+      "2023-24": 18,
+      "2025-26": 55
+     },
+     "merged": {},
+     "kept": false
+    },
+    {
+     "repo": "albertlauncher/albert",
+     "prs": {
+      "2023-24": 11,
+      "2025-26": 14
+     },
+     "merged": {},
+     "kept": false
+    },
+    {
+     "repo": "sysstat/sysstat",
+     "prs": {
+      "2023-24": 7,
+      "2025-26": 27
+     },
+     "merged": {},
+     "kept": false
+    },
+    {
+     "repo": "canonical/multipass",
+     "prs": {
+      "2023-24": 328,
+      "2025-26": 905
+     },
+     "merged": {
+      "2023-24": 278,
+      "2025-26": 682
+     },
+     "kept": true
+    },
+    {
+     "repo": "zlib-ng/zlib-ng",
+     "prs": {
+      "2023-24": 277,
+      "2025-26": 506
+     },
+     "merged": {},
+     "kept": false
+    },
+    {
+     "repo": "tklengyel/drakvuf",
+     "prs": {
+      "2023-24": 167,
+      "2025-26": 32
+     },
+     "merged": {},
+     "kept": false
+    },
+    {
+     "repo": "meta/fbthrift",
+     "prs": {
+      "2023-24": 53,
+      "2025-26": 52
+     },
+     "merged": {},
+     "kept": false
+    },
+    {
+     "repo": "json-parser/json-parser",
+     "prs": {
+      "2023-24": 0,
+      "2025-26": 2
+     },
+     "merged": {},
+     "kept": false
+    },
+    {
+     "repo": "Expensify/Bedrock",
+     "prs": {
+      "2023-24": 419,
+      "2025-26": 675
+     },
+     "merged": {
+      "2023-24": 388,
+      "2025-26": 607
+     },
+     "kept": true
+    }
+   ],
+   "kept": [
+    "NVIDIA/DALI",
+    "transmission/transmission",
+    "PDAL/PDAL",
+    "canonical/multipass",
+    "Expensify/Bedrock"
+   ]
+  }
+ }
+}

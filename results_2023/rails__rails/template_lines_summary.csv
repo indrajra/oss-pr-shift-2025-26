@@ -1,0 +1,11 @@
+line,first_month,last_month,months,peak_share,change_event
+before submitting the pr make sure the following are checked:,2023-01,2024-08,20,0.6857142857142857,
+### checklist,2023-01,2024-08,20,0.6742857142857143,
+commit message has a detailed description of what changed and why. if this pr fixes a related issue include it in the commit message. ex: `[fix #issue-number]`,2023-01,2024-08,20,0.6628571428571428,
+this pull request is related to one change. changes that are unrelated should be opened in separate prs.,2023-01,2024-03,15,0.6628571428571428,removed
+tests are added or updated if you fix a bug or add a feature.,2023-01,2024-08,20,0.6457142857142857,
+changelog files are updated for the changed libraries if there is a behavior change or additional feature. minor bug fixes and documentation changes should not be included.,2023-01,2024-08,20,0.6342857142857142,
+### motivation / background,2023-01,2024-08,20,0.5783783783783784,
+### detail,2023-01,2024-08,20,0.5714285714285714,
+### additional information,2023-01,2024-08,20,0.38285714285714284,
+this pull request is related to one change. unrelated changes should be opened in separate prs.,2024-03,2024-08,6,0.5942857142857143,added

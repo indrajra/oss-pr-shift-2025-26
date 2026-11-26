@@ -1,0 +1,21 @@
+# Environment and tooling
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+.DS_Store
+
+# Raw API caches (PR text as fetched from GitHub); regenerate with the tool
+cache/
+cache_2023/
+
+# Run logs and resume markers
+*.log
+results*/_batch/*.done
+batch/STOP
+
+# Per-PR files: they name the GitHub author of each PR. Regenerate with the tool if needed.
+results*/*/pr_features.csv
+results*/*/pr_word_counts.csv
+results*/*/ai_disclosure_samples.csv
+results*/*/file_type_sample.csv

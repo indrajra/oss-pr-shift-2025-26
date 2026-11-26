@@ -1,0 +1,12 @@
+line,first_month,last_month,months,peak_share,change_event
+all code checks passed.,2025-01,2026-08,16,0.6479750778816199,
+added type annotations to new arguments/methods/functions.,2025-01,2026-08,16,0.6146788990825688,
+tests added and passed if fixing a bug or adding a new feature,2025-01,2026-08,16,0.6055045871559633,
+added an entry in the latest `doc/source/whatsnew/vx.x.x.rst` file if fixing a bug or adding a new feature.,2025-01,2026-07,15,0.5389408099688473,removed
+closes #xxxx (replace xxxx with the github issue number),2025-02,2026-01,3,0.24812030075187969,
+"if i used ai to develop this pull request, i prompted it to follow `agents.md`.",2025-11,2026-08,6,0.4325068870523416,
+fixes,2026-01,2026-01,1,0.2066115702479339,
+i have reviewed and followed all the contribution guidelines,2026-02,2026-08,3,0.39730639730639733,
+## summary,2026-03,2026-05,3,0.5038167938931297,added
+## test plan,2026-03,2026-05,3,0.44274809160305345,
+🤖 generated with claude code,2026-03,2026-06,4,0.42493638676844786,

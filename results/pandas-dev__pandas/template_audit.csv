@@ -1,0 +1,87 @@
+month,line,share_of_prs,n_prs
+2025-01,tests added and passed if fixing a bug or adding a new feature,0.36792452830188677,106
+2025-01,all code checks passed.,0.41509433962264153,106
+2025-01,added type annotations to new arguments/methods/functions.,0.36792452830188677,106
+2025-01,added an entry in the latest `doc/source/whatsnew/vx.x.x.rst` file if fixing a bug or adding a new feature.,0.2830188679245283,106
+2025-02,tests added and passed if fixing a bug or adding a new feature,0.518796992481203,133
+2025-02,added type annotations to new arguments/methods/functions.,0.5338345864661654,133
+2025-02,added an entry in the latest `doc/source/whatsnew/vx.x.x.rst` file if fixing a bug or adding a new feature.,0.48872180451127817,133
+2025-02,all code checks passed.,0.5338345864661654,133
+2025-02,closes #xxxx (replace xxxx with the github issue number),0.24812030075187969,133
+2025-03,added an entry in the latest `doc/source/whatsnew/vx.x.x.rst` file if fixing a bug or adding a new feature.,0.5321100917431193,109
+2025-03,tests added and passed if fixing a bug or adding a new feature,0.6055045871559633,109
+2025-03,added type annotations to new arguments/methods/functions.,0.6146788990825688,109
+2025-03,all code checks passed.,0.6422018348623854,109
+2025-04,tests added and passed if fixing a bug or adding a new feature,0.5051546391752577,97
+2025-04,all code checks passed.,0.5876288659793815,97
+2025-04,added type annotations to new arguments/methods/functions.,0.4536082474226804,97
+2025-04,added an entry in the latest `doc/source/whatsnew/vx.x.x.rst` file if fixing a bug or adding a new feature.,0.4845360824742268,97
+2025-05,tests added and passed if fixing a bug or adding a new feature,0.4444444444444444,72
+2025-05,all code checks passed.,0.5277777777777778,72
+2025-05,added type annotations to new arguments/methods/functions.,0.4583333333333333,72
+2025-05,added an entry in the latest `doc/source/whatsnew/vx.x.x.rst` file if fixing a bug or adding a new feature.,0.4444444444444444,72
+2025-06,tests added and passed if fixing a bug or adding a new feature,0.3582089552238806,134
+2025-06,all code checks passed.,0.39552238805970147,134
+2025-06,added type annotations to new arguments/methods/functions.,0.34328358208955223,134
+2025-06,added an entry in the latest `doc/source/whatsnew/vx.x.x.rst` file if fixing a bug or adding a new feature.,0.29850746268656714,134
+2025-07,tests added and passed if fixing a bug or adding a new feature,0.3850574712643678,174
+2025-07,all code checks passed.,0.40229885057471265,174
+2025-07,added type annotations to new arguments/methods/functions.,0.3448275862068966,174
+2025-07,added an entry in the latest `doc/source/whatsnew/vx.x.x.rst` file if fixing a bug or adding a new feature.,0.3448275862068966,174
+2025-08,tests added and passed if fixing a bug or adding a new feature,0.47651006711409394,149
+2025-08,all code checks passed.,0.4899328859060403,149
+2025-08,added type annotations to new arguments/methods/functions.,0.44966442953020136,149
+2025-08,added an entry in the latest `doc/source/whatsnew/vx.x.x.rst` file if fixing a bug or adding a new feature.,0.4697986577181208,149
+2025-09,tests added and passed if fixing a bug or adding a new feature,0.4604651162790698,215
+2025-09,all code checks passed.,0.4930232558139535,215
+2025-09,added type annotations to new arguments/methods/functions.,0.40930232558139534,215
+2025-09,added an entry in the latest `doc/source/whatsnew/vx.x.x.rst` file if fixing a bug or adding a new feature.,0.4186046511627907,215
+2025-10,added an entry in the latest `doc/source/whatsnew/vx.x.x.rst` file if fixing a bug or adding a new feature.,0.5389408099688473,321
+2025-10,tests added and passed if fixing a bug or adding a new feature,0.5950155763239875,321
+2025-10,added type annotations to new arguments/methods/functions.,0.5669781931464174,321
+2025-10,all code checks passed.,0.6479750778816199,321
+2025-11,tests added and passed if fixing a bug or adding a new feature,0.5370370370370371,216
+2025-11,added type annotations to new arguments/methods/functions.,0.5277777777777778,216
+2025-11,added an entry in the latest `doc/source/whatsnew/vx.x.x.rst` file if fixing a bug or adding a new feature.,0.5046296296296297,216
+2025-11,"if i used ai to develop this pull request, i prompted it to follow `agents.md`.",0.2361111111111111,216
+2025-11,all code checks passed.,0.5462962962962963,216
+2025-12,tests added and passed if fixing a bug or adding a new feature,0.45588235294117646,204
+2025-12,added type annotations to new arguments/methods/functions.,0.4215686274509804,204
+2025-12,added an entry in the latest `doc/source/whatsnew/vx.x.x.rst` file if fixing a bug or adding a new feature.,0.4019607843137255,204
+2025-12,all code checks passed.,0.5196078431372549,204
+2025-12,closes #xxxx (replace xxxx with the github issue number),0.20098039215686275,204
+2025-12,"if i used ai to develop this pull request, i prompted it to follow `agents.md`.",0.43137254901960786,204
+2026-01,tests added and passed if fixing a bug or adding a new feature,0.4132231404958678,363
+2026-01,fixes,0.2066115702479339,363
+2026-01,added type annotations to new arguments/methods/functions.,0.4049586776859504,363
+2026-01,added an entry in the latest `doc/source/whatsnew/vx.x.x.rst` file if fixing a bug or adding a new feature.,0.41597796143250687,363
+2026-01,closes #xxxx (replace xxxx with the github issue number),0.21212121212121213,363
+2026-01,"if i used ai to develop this pull request, i prompted it to follow `agents.md`.",0.4325068870523416,363
+2026-01,all code checks passed.,0.4297520661157025,363
+2026-02,tests added and passed if fixing a bug or adding a new feature,0.36363636363636365,297
+2026-02,i have reviewed and followed all the contribution guidelines,0.39730639730639733,297
+2026-02,added type annotations to new arguments/methods/functions.,0.35353535353535354,297
+2026-02,added an entry in the latest `doc/source/whatsnew/vx.x.x.rst` file if fixing a bug or adding a new feature.,0.3602693602693603,297
+2026-02,all code checks passed.,0.38047138047138046,297
+2026-02,"if i used ai to develop this pull request, i prompted it to follow `agents.md`.",0.3569023569023569,297
+2026-03,## summary,0.4790874524714829,526
+2026-03,🤖 generated with claude code,0.40304182509505704,526
+2026-03,## test plan,0.3935361216730038,526
+2026-04,## summary,0.5038167938931297,393
+2026-04,🤖 generated with claude code,0.42493638676844786,393
+2026-04,## test plan,0.44274809160305345,393
+2026-05,## summary,0.44525547445255476,274
+2026-05,🤖 generated with claude code,0.3284671532846715,274
+2026-05,## test plan,0.38686131386861317,274
+2026-06,🤖 generated with claude code,0.22932330827067668,266
+2026-07,tests added and passed if fixing a bug or adding a new feature,0.2359882005899705,339
+2026-07,i have reviewed and followed all the contribution guidelines,0.2448377581120944,339
+2026-07,added type annotations to new arguments/methods/functions.,0.20943952802359883,339
+2026-07,added an entry in the latest `doc/source/whatsnew/vx.x.x.rst` file if fixing a bug or adding a new feature.,0.22418879056047197,339
+2026-07,all code checks passed.,0.25663716814159293,339
+2026-07,"if i used ai to develop this pull request, i prompted it to follow `agents.md`.",0.22123893805309736,339
+2026-08,tests added and passed if fixing a bug or adding a new feature,0.26704545454545453,176
+2026-08,i have reviewed and followed all the contribution guidelines,0.2556818181818182,176
+2026-08,added type annotations to new arguments/methods/functions.,0.21022727272727273,176
+2026-08,"if i used ai to develop this pull request, i prompted it to follow `agents.md`.",0.2215909090909091,176
+2026-08,all code checks passed.,0.2840909090909091,176

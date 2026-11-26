@@ -1,0 +1,5 @@
+tool,n_exposed,m1_pct,m1_low,m1_high,m3_pct,m3_low,m3_high,call,status
+unspecified,487,21.950594310817873,-11.139906161509472,67.36362533886691,31.136876065882557,5.060731673683638,63.68513706654715,no clear difference,ok
+claude,22,,,,,,,,fewer than 30 exposed PRs
+codex,2,,,,,,,,fewer than 30 exposed PRs
+chatgpt,1,,,,,,,,fewer than 30 exposed PRs

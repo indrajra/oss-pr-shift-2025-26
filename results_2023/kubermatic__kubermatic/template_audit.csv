@@ -1,0 +1,119 @@
+month,line,share_of_prs,n_prs
+2023-01,*special notes for your reviewer**:,0.8170731707317073,82
+2023-01,*what type of pr is this?**,0.975609756097561,82
+2023-01,fixes #,0.5487804878048781,82
+2023-01,*what this pr does / why we need it**:,0.9878048780487805,82
+2023-01,*documentation**:,0.9878048780487805,82
+2023-01,*which issue(s) this pr fixes**:,0.8536585365853658,82
+2023-01,*does this pr introduce a user-facing change? then add your release note here**:,0.975609756097561,82
+2023-02,*special notes for your reviewer**:,0.7976190476190477,84
+2023-02,/kind bug,0.5,84
+2023-02,*what type of pr is this?**,0.9523809523809523,84
+2023-02,fixes #,0.4642857142857143,84
+2023-02,*what this pr does / why we need it**:,0.9166666666666666,84
+2023-02,*documentation**:,0.9642857142857143,84
+2023-02,*which issue(s) this pr fixes**:,0.8452380952380952,84
+2023-02,*does this pr introduce a user-facing change? then add your release note here**:,0.9285714285714286,84
+2023-03,*special notes for your reviewer**:,0.6046511627906976,86
+2023-03,/kind chore,0.3488372093023256,86
+2023-03,*what type of pr is this?**,0.9186046511627907,86
+2023-03,fixes #,0.4069767441860465,86
+2023-03,*what this pr does / why we need it**:,0.9069767441860465,86
+2023-03,*documentation**:,0.9069767441860465,86
+2023-03,*which issue(s) this pr fixes**:,0.6395348837209303,86
+2023-03,*does this pr introduce a user-facing change? then add your release note here**:,0.8837209302325582,86
+2023-04,*special notes for your reviewer**:,0.6792452830188679,53
+2023-04,*what type of pr is this?**,0.8867924528301887,53
+2023-04,*what this pr does / why we need it**:,0.9245283018867925,53
+2023-04,*documentation**:,0.9811320754716981,53
+2023-04,*which issue(s) this pr fixes**:,0.6792452830188679,53
+2023-04,*does this pr introduce a user-facing change? then add your release note here**:,0.9245283018867925,53
+2023-05,*special notes for your reviewer**:,0.5068493150684932,73
+2023-05,*what type of pr is this?**,0.9452054794520548,73
+2023-05,*what this pr does / why we need it**:,0.9452054794520548,73
+2023-05,*documentation**:,0.9315068493150684,73
+2023-05,*which issue(s) this pr fixes**:,0.4931506849315068,73
+2023-05,*does this pr introduce a user-facing change? then add your release note here**:,0.9315068493150684,73
+2023-06,*special notes for your reviewer**:,0.7735849056603774,53
+2023-06,*what type of pr is this?**,0.9622641509433962,53
+2023-06,*what this pr does / why we need it**:,0.9811320754716981,53
+2023-06,*documentation**:,1.0,53
+2023-06,*which issue(s) this pr fixes**:,0.8301886792452831,53
+2023-06,*does this pr introduce a user-facing change? then add your release note here**:,1.0,53
+2023-07,*documentation**:,0.9444444444444444,54
+2023-07,*what this pr does / why we need it**:,0.9629629629629629,54
+2023-07,*what type of pr is this?**,0.9074074074074074,54
+2023-07,*does this pr introduce a user-facing change? then add your release note here**:,0.9444444444444444,54
+2023-08,*special notes for your reviewer**:,0.5901639344262295,61
+2023-08,*what type of pr is this?**,0.9836065573770492,61
+2023-08,*what this pr does / why we need it**:,0.9836065573770492,61
+2023-08,*documentation**:,0.9836065573770492,61
+2023-08,*does this pr introduce a user-facing change? then add your release note here**:,0.9836065573770492,61
+2023-09,*documentation**:,1.0,31
+2023-09,*what this pr does / why we need it**:,1.0,31
+2023-09,*what type of pr is this?**,1.0,31
+2023-09,*does this pr introduce a user-facing change? then add your release note here**:,1.0,31
+2023-10,*special notes for your reviewer**:,0.6153846153846154,78
+2023-10,/kind chore,0.4230769230769231,78
+2023-10,*what type of pr is this?**,0.9871794871794872,78
+2023-10,fixes #,0.47435897435897434,78
+2023-10,*what this pr does / why we need it**:,0.8974358974358975,78
+2023-10,*documentation**:,0.9871794871794872,78
+2023-10,*which issue(s) this pr fixes**:,0.6025641025641025,78
+2023-10,*does this pr introduce a user-facing change? then add your release note here**:,0.9871794871794872,78
+2023-11,*documentation**:,1.0,44
+2023-11,*what this pr does / why we need it**:,1.0,44
+2023-11,*what type of pr is this?**,0.9545454545454546,44
+2023-11,*does this pr introduce a user-facing change? then add your release note here**:,1.0,44
+2023-12,*special notes for your reviewer**:,0.7714285714285715,70
+2023-12,/kind chore,0.42857142857142855,70
+2023-12,*what type of pr is this?**,0.9714285714285714,70
+2023-12,fixes #,0.42857142857142855,70
+2023-12,*what this pr does / why we need it**:,1.0,70
+2023-12,*documentation**:,0.9857142857142858,70
+2023-12,*which issue(s) this pr fixes**:,0.7428571428571429,70
+2023-12,*does this pr introduce a user-facing change? then add your release note here**:,0.9857142857142858,70
+2024-01,*special notes for your reviewer**:,0.6938775510204082,49
+2024-01,*what type of pr is this?**,1.0,49
+2024-01,*what this pr does / why we need it**:,0.9795918367346939,49
+2024-01,*documentation**:,1.0,49
+2024-01,*which issue(s) this pr fixes**:,0.7755102040816326,49
+2024-01,*does this pr introduce a user-facing change? then add your release note here**:,0.9795918367346939,49
+2024-02,*special notes for your reviewer**:,0.8701298701298701,77
+2024-02,*what type of pr is this?**,0.987012987012987,77
+2024-02,fixes #,0.6233766233766234,77
+2024-02,*what this pr does / why we need it**:,0.987012987012987,77
+2024-02,*documentation**:,1.0,77
+2024-02,*which issue(s) this pr fixes**:,0.8441558441558441,77
+2024-02,*does this pr introduce a user-facing change? then add your release note here**:,0.987012987012987,77
+2024-03,*documentation**:,0.9830508474576272,59
+2024-03,*what this pr does / why we need it**:,0.9830508474576272,59
+2024-03,*what type of pr is this?**,0.8983050847457628,59
+2024-03,*does this pr introduce a user-facing change? then add your release note here**:,0.9661016949152542,59
+2024-04,*special notes for your reviewer**:,0.43434343434343436,99
+2024-04,/kind chore,0.40404040404040403,99
+2024-04,*what type of pr is this?**,0.8787878787878788,99
+2024-04,*what this pr does / why we need it**:,0.98989898989899,99
+2024-04,*documentation**:,0.9797979797979798,99
+2024-04,*which issue(s) this pr fixes**:,0.45454545454545453,99
+2024-04,*does this pr introduce a user-facing change? then add your release note here**:,0.9696969696969697,99
+2024-05,*special notes for your reviewer**:,0.484375,128
+2024-05,/kind chore,0.34375,128
+2024-05,*what type of pr is this?**,0.8828125,128
+2024-05,fixes #,0.34375,128
+2024-05,*what this pr does / why we need it**:,0.9609375,128
+2024-05,*documentation**:,0.9609375,128
+2024-05,*which issue(s) this pr fixes**:,0.5078125,128
+2024-05,*does this pr introduce a user-facing change? then add your release note here**:,0.953125,128
+2024-06,*documentation**:,0.9761904761904762,42
+2024-06,*what this pr does / why we need it**:,1.0,42
+2024-06,*what type of pr is this?**,0.8095238095238095,42
+2024-06,*does this pr introduce a user-facing change? then add your release note here**:,0.9523809523809523,42
+2024-07,*documentation**:,0.9555555555555556,45
+2024-07,*what this pr does / why we need it**:,1.0,45
+2024-07,*what type of pr is this?**,0.8888888888888888,45
+2024-07,*does this pr introduce a user-facing change? then add your release note here**:,0.9555555555555556,45
+2024-08,*documentation**:,1.0,32
+2024-08,*what this pr does / why we need it**:,1.0,32
+2024-08,*what type of pr is this?**,1.0,32
+2024-08,*does this pr introduce a user-facing change? then add your release note here**:,1.0,32

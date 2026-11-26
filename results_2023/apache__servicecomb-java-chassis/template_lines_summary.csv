@@ -1,0 +1,9 @@
+line,first_month,last_month,months,peak_share,change_event
+--,2023-03,2024-07,4,0.9411764705882353,
+each commit in the pull request should have a meaningful subject line and body.,2023-03,2024-07,4,0.9411764705882353,
+follow this checklist to help us incorporate your contribution quickly and easily:,2023-03,2024-07,4,0.9411764705882353,
+"format the pull request title like `[scb-xxx] fixes bug in approximatequantiles`, where you replace `scb-xxx` with the appropriate jira issue.",2023-03,2024-07,4,0.9411764705882353,
+"if this contribution is large, please file an apache individual contributor license agreement.",2023-03,2024-07,4,0.9411764705882353,
+"make sure there is a jira issue filed for the change (usually before you start working on it). trivial changes like typos do not require a jira issue. your pull request should address just this issue, without pulling in other changes.",2023-03,2024-07,4,0.9411764705882353,
+run `mvn clean install -pit` to make sure basic checks pass. a more thorough check will be performed on your pull request automatically.,2023-03,2024-07,4,0.9411764705882353,
+"write a pull request description that is detailed enough to understand what the pull request does, how, and why.",2023-03,2024-07,4,0.9411764705882353,

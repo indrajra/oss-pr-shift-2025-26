@@ -1,0 +1,32 @@
+month,line,share_of_prs,n_prs
+2025-08,#### does this pr introduce a user-facing change?,0.5795454545454546,88
+2025-08,#### which issue(s) does the pr fix:,0.3977272727272727,88
+2025-09,#### does this pr introduce a user-facing change?,0.9036144578313253,83
+2025-09,#### which issue(s) does the pr fix:,0.6144578313253012,83
+2025-10,#### does this pr introduce a user-facing change?,0.8602941176470589,136
+2025-10,#### which issue(s) does the pr fix:,0.6691176470588235,136
+2025-11,#### does this pr introduce a user-facing change?,0.9117647058823529,102
+2025-11,#### which issue(s) does the pr fix:,0.7058823529411765,102
+2025-12,#### does this pr introduce a user-facing change?,0.8809523809523809,84
+2025-12,#### which issue(s) does the pr fix:,0.6428571428571429,84
+2026-01,#### does this pr introduce a user-facing change?,0.901840490797546,163
+2026-01,#### which issue(s) does the pr fix:,0.6748466257668712,163
+2026-02,#### does this pr introduce a user-facing change?,0.8766233766233766,154
+2026-02,#### which issue(s) does the pr fix:,0.6038961038961039,154
+2026-03,#### does this pr introduce a user-facing change?,0.6234567901234568,162
+2026-03,#### which issue(s) does the pr fix:,0.6358024691358025,162
+2026-04,reviewers should verify clarity and quality.*,0.6503496503496503,143
+2026-04,#### release notes for end users (**all** commits must be considered).,0.7482517482517482,143
+2026-04,#### which issue(s) does the pr fix:,0.7412587412587412,143
+2026-05,reviewers should verify clarity and quality.*,0.6106870229007634,131
+2026-05,#### release notes for end users (**all** commits must be considered).,0.6717557251908397,131
+2026-05,#### which issue(s) does the pr fix:,0.6183206106870229,131
+2026-06,reviewers should verify clarity and quality.*,0.5629139072847682,151
+2026-06,#### release notes for end users (**all** commits must be considered).,0.6026490066225165,151
+2026-06,#### which issue(s) does the pr fix:,0.6423841059602649,151
+2026-07,reviewers should verify clarity and quality.*,0.43010752688172044,186
+2026-07,#### release notes for end users (**all** commits must be considered).,0.4946236559139785,186
+2026-07,#### which issue(s) does the pr fix:,0.5483870967741935,186
+2026-08,reviewers should verify clarity and quality.*,0.41836734693877553,98
+2026-08,#### release notes for end users (**all** commits must be considered).,0.5204081632653061,98
+2026-08,#### which issue(s) does the pr fix:,0.5,98

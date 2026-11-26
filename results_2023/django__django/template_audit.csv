@@ -1,0 +1,55 @@
+month,line,share_of_prs,n_prs
+2024-03,"i have checked the ""has patch"" **ticket flag** in the trac system.",0.5089285714285714,112
+2024-03,this pr targets the `main` branch.,0.5178571428571429,112
+2024-03,"for ui changes, i have attached **screenshots** in both light and dark modes.",0.4732142857142857,112
+2024-03,i have added or updated relevant **tests**.,0.5178571428571429,112
+2024-03,# branch description,0.5714285714285714,112
+2024-03,# trac ticket number,0.5178571428571429,112
+2024-03,"the commit message is written in past tense, mentions the ticket number, and ends with a period.",0.5089285714285714,112
+2024-03,"i have added or updated relevant **docs**, including release notes if applicable.",0.5178571428571429,112
+2024-03,# checklist,0.5178571428571429,112
+2024-04,"i have checked the ""has patch"" **ticket flag** in the trac system.",0.5061728395061729,81
+2024-04,this pr targets the `main` branch.,0.7407407407407407,81
+2024-04,"for ui changes, i have attached **screenshots** in both light and dark modes.",0.4444444444444444,81
+2024-04,i have added or updated relevant **tests**.,0.5061728395061729,81
+2024-04,# branch description,0.8024691358024691,81
+2024-04,# trac ticket number,0.7407407407407407,81
+2024-04,"the commit message is written in past tense, mentions the ticket number, and ends with a period.",0.7407407407407407,81
+2024-04,"i have added or updated relevant **docs**, including release notes if applicable.",0.5061728395061729,81
+2024-04,# checklist,0.7654320987654321,81
+2024-05,"i have checked the ""has patch"" ticket flag in the trac system.",0.6632653061224489,98
+2024-05,this pr targets the `main` branch.,0.7755102040816326,98
+2024-05,i have attached screenshots in both light and dark modes for any ui changes.,0.6326530612244898,98
+2024-05,"i have added or updated relevant docs, including release notes if applicable.",0.673469387755102,98
+2024-05,# branch description,0.7755102040816326,98
+2024-05,# trac ticket number,0.7142857142857143,98
+2024-05,"the commit message is written in past tense, mentions the ticket number, and ends with a period.",0.7653061224489796,98
+2024-05,i have added or updated relevant tests.,0.6836734693877551,98
+2024-05,# checklist,0.7551020408163265,98
+2024-06,"i have checked the ""has patch"" ticket flag in the trac system.",0.7117117117117117,111
+2024-06,this pr targets the `main` branch.,0.7567567567567568,111
+2024-06,i have attached screenshots in both light and dark modes for any ui changes.,0.6486486486486487,111
+2024-06,"i have added or updated relevant docs, including release notes if applicable.",0.6756756756756757,111
+2024-06,# branch description,0.7927927927927928,111
+2024-06,# trac ticket number,0.7747747747747747,111
+2024-06,"the commit message is written in past tense, mentions the ticket number, and ends with a period.",0.7297297297297297,111
+2024-06,i have added or updated relevant tests.,0.7027027027027027,111
+2024-06,# checklist,0.7657657657657657,111
+2024-07,"i have checked the ""has patch"" ticket flag in the trac system.",0.5963302752293578,109
+2024-07,this pr targets the `main` branch.,0.6330275229357798,109
+2024-07,i have attached screenshots in both light and dark modes for any ui changes.,0.5321100917431193,109
+2024-07,"i have added or updated relevant docs, including release notes if applicable.",0.6238532110091743,109
+2024-07,# branch description,0.7155963302752294,109
+2024-07,# trac ticket number,0.6605504587155964,109
+2024-07,"the commit message is written in past tense, mentions the ticket number, and ends with a period.",0.6330275229357798,109
+2024-07,i have added or updated relevant tests.,0.6238532110091743,109
+2024-07,# checklist,0.6422018348623854,109
+2024-08,"i have checked the ""has patch"" ticket flag in the trac system.",0.6935483870967742,62
+2024-08,this pr targets the `main` branch.,0.7258064516129032,62
+2024-08,i have attached screenshots in both light and dark modes for any ui changes.,0.6451612903225806,62
+2024-08,"i have added or updated relevant docs, including release notes if applicable.",0.6612903225806451,62
+2024-08,# branch description,0.7258064516129032,62
+2024-08,# trac ticket number,0.7096774193548387,62
+2024-08,"the commit message is written in past tense, mentions the ticket number, and ends with a period.",0.6935483870967742,62
+2024-08,i have added or updated relevant tests.,0.6935483870967742,62
+2024-08,# checklist,0.7096774193548387,62

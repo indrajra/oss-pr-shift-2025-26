@@ -1,0 +1,105 @@
+month,line,share_of_prs,n_prs
+2025-01,#### any other comments?,0.38461538461538464,91
+2025-01,#### reference issues/prs,0.4065934065934066,91
+2025-01,#### what does this implement/fix? explain your changes.,0.46153846153846156,91
+2025-02,#### any other comments?,0.4563106796116505,103
+2025-02,#### reference issues/prs,0.5631067961165048,103
+2025-02,#### what does this implement/fix? explain your changes.,0.6019417475728155,103
+2025-03,#### any other comments?,0.515625,128
+2025-03,#### reference issues/prs,0.5390625,128
+2025-03,#### what does this implement/fix? explain your changes.,0.609375,128
+2025-04,#### any other comments?,0.5142857142857142,105
+2025-04,#### reference issues/prs,0.5142857142857142,105
+2025-04,#### what does this implement/fix? explain your changes.,0.580952380952381,105
+2025-05,#### any other comments?,0.5185185185185185,108
+2025-05,#### reference issues/prs,0.5462962962962963,108
+2025-05,#### what does this implement/fix? explain your changes.,0.5648148148148148,108
+2025-06,#### any other comments?,0.4444444444444444,153
+2025-06,#### reference issues/prs,0.5098039215686274,153
+2025-06,#### what does this implement/fix? explain your changes.,0.5163398692810458,153
+2025-07,#### any other comments?,0.4732142857142857,112
+2025-07,#### reference issues/prs,0.5178571428571429,112
+2025-07,#### what does this implement/fix? explain your changes.,0.5535714285714286,112
+2025-08,#### any other comments?,0.6328125,128
+2025-08,#### reference issues/prs,0.6875,128
+2025-08,#### what does this implement/fix? explain your changes.,0.703125,128
+2025-09,#### any other comments?,0.389937106918239,159
+2025-09,#### reference issues/prs,0.44025157232704404,159
+2025-09,#### what does this implement/fix? explain your changes.,0.4968553459119497,159
+2025-10,#### any other comments?,0.4596774193548387,248
+2025-10,#### reference issues/prs,0.5201612903225806,248
+2025-10,#### what does this implement/fix? explain your changes.,0.5241935483870968,248
+2025-11,#### any other comments?,0.5035971223021583,139
+2025-11,#### reference issues/prs,0.5827338129496403,139
+2025-11,#### what does this implement/fix? explain your changes.,0.5971223021582733,139
+2025-12,research and understanding,0.39215686274509803,102
+2025-12,#### ai usage disclosure,0.43137254901960786,102
+2025-12,test/benchmark generation,0.38235294117647056,102
+2025-12,documentation (including examples),0.4019607843137255,102
+2025-12,#### reference issues/prs,0.5,102
+2025-12,i used ai assistance for:,0.4117647058823529,102
+2025-12,#### any other comments?,0.43137254901960786,102
+2025-12,#### what does this implement/fix? explain your changes.,0.5,102
+2025-12,"code generation (e.g., when writing an implementation or fixing a bug)",0.37254901960784315,102
+2026-01,research and understanding,0.4496124031007752,129
+2026-01,#### ai usage disclosure,0.5116279069767442,129
+2026-01,test/benchmark generation,0.4418604651162791,129
+2026-01,documentation (including examples),0.4883720930232558,129
+2026-01,#### reference issues/prs,0.49612403100775193,129
+2026-01,i used ai assistance for:,0.49612403100775193,129
+2026-01,#### any other comments?,0.4418604651162791,129
+2026-01,#### what does this implement/fix? explain your changes.,0.5348837209302325,129
+2026-01,"code generation (e.g., when writing an implementation or fixing a bug)",0.4728682170542636,129
+2026-02,research and understanding,0.33714285714285713,175
+2026-02,#### ai usage disclosure,0.4114285714285714,175
+2026-02,test/benchmark generation,0.33714285714285713,175
+2026-02,documentation (including examples),0.34285714285714286,175
+2026-02,#### reference issues/prs,0.46285714285714286,175
+2026-02,i used ai assistance for:,0.37142857142857144,175
+2026-02,#### any other comments?,0.4114285714285714,175
+2026-02,#### what does this implement/fix? explain your changes.,0.48,175
+2026-02,"code generation (e.g., when writing an implementation or fixing a bug)",0.34285714285714286,175
+2026-03,research and understanding,0.43636363636363634,165
+2026-03,#### ai usage disclosure,0.503030303030303,165
+2026-03,test/benchmark generation,0.44242424242424244,165
+2026-03,documentation (including examples),0.42424242424242425,165
+2026-03,#### reference issues/prs,0.5272727272727272,165
+2026-03,i used ai assistance for:,0.4666666666666667,165
+2026-03,#### any other comments?,0.4303030303030303,165
+2026-03,#### what does this implement/fix? explain your changes.,0.5454545454545454,165
+2026-03,"code generation (e.g., when writing an implementation or fixing a bug)",0.43636363636363634,165
+2026-04,research and understanding,0.5416666666666666,168
+2026-04,#### ai usage disclosure,0.6011904761904762,168
+2026-04,test/benchmark generation,0.5297619047619048,168
+2026-04,documentation (including examples),0.5476190476190477,168
+2026-04,#### reference issues/prs,0.6309523809523809,168
+2026-04,i used ai assistance for:,0.5654761904761905,168
+2026-04,#### any other comments?,0.5773809523809523,168
+2026-04,#### what does this implement/fix? explain your changes.,0.6309523809523809,168
+2026-04,"code generation (e.g., when writing an implementation or fixing a bug)",0.5297619047619048,168
+2026-05,research and understanding,0.3373493975903614,166
+2026-05,test/benchmark generation,0.26506024096385544,166
+2026-05,#### ai usage disclosure,0.5,166
+2026-05,documentation (including examples),0.25301204819277107,166
+2026-05,#### reference issues/prs,0.5,166
+2026-05,i used ai assistance for:,0.3855421686746988,166
+2026-05,#### any other comments?,0.41566265060240964,166
+2026-05,#### what does this implement/fix? explain your changes.,0.5240963855421686,166
+2026-05,"code generation (e.g., when writing an implementation or fixing a bug)",0.25301204819277107,166
+2026-06,#### ai usage disclosure,0.47593582887700536,187
+2026-06,#### reference issues/prs,0.5187165775401069,187
+2026-06,i used ai assistance for:,0.32620320855614976,187
+2026-06,#### any other comments?,0.37967914438502676,187
+2026-06,#### what does this implement/fix? explain your changes.,0.5454545454545454,187
+2026-07,research and understanding,0.2571428571428571,140
+2026-07,#### ai usage disclosure,0.5357142857142857,140
+2026-07,#### first time contributor introduction,0.32857142857142857,140
+2026-07,#### reference issues/prs,0.6285714285714286,140
+2026-07,i used ai assistance for:,0.37142857142857144,140
+2026-07,#### any other comments?,0.4928571428571429,140
+2026-07,#### what does this implement/fix? explain your changes.,0.6142857142857143,140
+2026-08,#### ai usage disclosure,0.3894736842105263,95
+2026-08,#### reference issues/prs,0.47368421052631576,95
+2026-08,i used ai assistance for:,0.35789473684210527,95
+2026-08,#### any other comments?,0.3473684210526316,95
+2026-08,#### what does this implement/fix? explain your changes.,0.4631578947368421,95

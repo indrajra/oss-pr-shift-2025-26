@@ -1,0 +1,32 @@
+month,line,share_of_prs,n_prs
+2023-01,## bug,0.5403508771929825,285
+2023-01,telemetry added. in case of a feature if it's used or not.,0.49122807017543857,285
+2023-01,"errors have a helpful link attached, see `contributing.md`",0.5649122807017544,285
+2023-01,e2e tests added,0.49122807017543857,285
+2023-01,integration tests added,0.5298245614035088,285
+2023-01,## documentation / examples,0.5157894736842106,285
+2023-01,related issues linked using `fixes #number`,0.5614035087719298,285
+2023-01,make sure the linting passes by running `pnpm build && pnpm lint`,0.5157894736842106,285
+2023-01,"the ""examples guidelines"" are followed from our contributing doc",0.512280701754386,285
+2023-01,documentation added,0.49122807017543857,285
+2023-01,implements an existing feature request or rfc. make sure the feature request has been accepted for implementation before opening a pr.,0.49122807017543857,285
+2023-01,## feature,0.49122807017543857,285
+2023-02,## feature,0.5264423076923077,416
+2023-02,## bug,0.6201923076923077,416
+2023-02,telemetry added. in case of a feature if it's used or not.,0.5264423076923077,416
+2023-02,"errors have a helpful link attached, see `contributing.md`",0.6274038461538461,416
+2023-02,e2e tests added,0.5264423076923077,416
+2023-02,## documentation / examples,0.5721153846153846,416
+2023-02,integration tests added,0.6081730769230769,416
+2023-02,make sure the linting passes by running `pnpm build && pnpm lint`,0.5600961538461539,416
+2023-02,"the ""examples guidelines"" are followed from our contributing doc",0.5673076923076923,416
+2023-02,documentation added,0.5264423076923077,416
+2023-02,implements an existing feature request or rfc. make sure the feature request has been accepted for implementation before opening a pr.,0.5264423076923077,416
+2023-02,related issues linked using `fixes #number`,0.6274038461538461,416
+2023-04,### what?,0.2266355140186916,428
+2023-07,### what?,0.21300448430493274,446
+2023-11,### what?,0.23389021479713604,419
+2023-12,### what?,0.22262773722627738,274
+2024-02,### what?,0.2689075630252101,476
+2024-06,### what?,0.20958083832335328,334
+2024-06,### why?,0.20359281437125748,334

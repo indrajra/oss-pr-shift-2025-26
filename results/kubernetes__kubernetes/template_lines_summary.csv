@@ -1,0 +1,12 @@
+line,first_month,last_month,months,peak_share,change_event
+#### what type of pr is this?,2025-01,2026-08,20,0.9021956087824351,
+#### what this pr does / why we need it:,2025-01,2026-08,20,0.8829787234042553,
+#### does this pr introduce a user-facing change?,2025-01,2026-08,20,0.8673218673218673,
+#### special notes for your reviewer:,2025-01,2026-08,20,0.7836879432624113,
+#### which issue(s) this pr fixes:,2025-01,2025-05,5,0.7180327868852459,removed
+"#### additional documentation e.g., keps (kubernetes enhancement proposals), usage docs, etc.:",2025-01,2026-08,20,0.6953316953316954,
+/kind cleanup,2025-01,2026-08,20,0.4296724470134875,
+fixes #,2025-01,2025-05,5,0.3586206896551724,
+/kind feature,2025-02,2026-07,9,0.33201581027667987,
+/kind bug,2025-04,2026-08,12,0.47058823529411764,
+#### which issue(s) this pr is related to:,2025-06,2026-08,15,0.7978723404255319,added

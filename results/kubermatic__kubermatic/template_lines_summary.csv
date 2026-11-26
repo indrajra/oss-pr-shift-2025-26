@@ -1,0 +1,11 @@
+line,first_month,last_month,months,peak_share,change_event
+*documentation**:,2025-01,2026-08,20,1.0,
+*does this pr introduce a user-facing change? then add your release note here**:,2025-01,2026-08,20,1.0,
+*what this pr does / why we need it**:,2025-01,2026-08,20,1.0,
+*what type of pr is this?**,2025-01,2026-08,20,1.0,
+*which issue(s) this pr fixes**:,2025-01,2026-08,20,1.0,
+*special notes for your reviewer**:,2025-01,2026-08,19,0.9833333333333333,
+fixes #,2025-04,2026-07,12,0.7818181818181819,added
+/kind chore,2025-04,2026-06,3,0.5,added
+/kind bug,2025-06,2025-06,1,0.4166666666666667,
+*test issue**:,2026-04,2026-08,5,1.0,added

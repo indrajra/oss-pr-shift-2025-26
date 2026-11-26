@@ -1,0 +1,5 @@
+line,first_month,last_month,months,peak_share,change_event
+verify test coverage and ci build status,2023-01,2024-08,20,0.8047337278106509,
+### committer checklist (excluded from commit message),2023-01,2024-08,20,0.7988165680473372,
+verify design and implementation,2023-01,2024-08,20,0.7988165680473372,
+verify documentation (including upgrade notes),2023-01,2024-08,20,0.7988165680473372,

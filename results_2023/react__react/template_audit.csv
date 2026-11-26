@@ -1,0 +1,32 @@
+month,line,share_of_prs,n_prs
+2023-01,## how did you test this change?,0.5555555555555556,54
+2023-01,## summary,0.5925925925925926,54
+2023-02,## how did you test this change?,0.4594594594594595,111
+2023-02,## summary,0.5135135135135135,111
+2023-03,## how did you test this change?,0.292817679558011,181
+2023-03,## summary,0.30386740331491713,181
+2023-04,## how did you test this change?,0.2595419847328244,131
+2023-04,## summary,0.2748091603053435,131
+2023-05,## how did you test this change?,0.3875,80
+2023-05,## summary,0.4,80
+2023-06,## how did you test this change?,0.4883720930232558,86
+2023-06,## summary,0.5697674418604651,86
+2023-07,## how did you test this change?,0.6666666666666666,54
+2023-07,## summary,0.6666666666666666,54
+2023-10,## how did you test this change?,0.32989690721649484,97
+2023-10,## summary,0.35051546391752575,97
+2024-02,## how did you test this change?,0.21621621621621623,222
+2024-02,## summary,0.23423423423423423,222
+2024-03,## summary,0.23529411764705882,153
+2024-04,## how did you test this change?,0.2048780487804878,205
+2024-04,## summary,0.21951219512195122,205
+2024-05,stack from ghstack (oldest at bottom):,0.2584745762711864,236
+2024-05,## how did you test this change?,0.3559322033898305,236
+2024-05,## summary,0.3855932203389831,236
+2024-06,stack from ghstack (oldest at bottom):,0.3793103448275862,232
+2024-06,## how did you test this change?,0.25,232
+2024-06,## summary,0.2801724137931034,232
+2024-07,stack from ghstack (oldest at bottom):,0.5,256
+2024-08,stack from ghstack (oldest at bottom):,0.37583892617449666,149
+2024-08,## how did you test this change?,0.21476510067114093,149
+2024-08,## summary,0.22818791946308725,149

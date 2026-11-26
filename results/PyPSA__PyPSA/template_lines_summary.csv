@@ -1,0 +1,9 @@
+line,first_month,last_month,months,peak_share,change_event
+## checklist,2025-04,2026-04,5,0.7674418604651163,
+i consent to the release of this pr's code under the mit license.,2025-04,2026-04,6,0.7619047619047619,
+unit tests for new features were added (if applicable).,2025-04,2026-03,3,0.6481481481481481,removed
+a note for the release notes `doc/release_notes.rst` of the upcoming release is included.,2025-04,2025-04,1,0.6111111111111112,removed
+code changes are sufficiently documented; i.e. new functions contain docstrings and further explanations may be given in `doc`.,2025-04,2025-04,1,0.6111111111111112,removed
+## changes proposed in this pull request,2025-04,2026-03,2,0.5925925925925926,removed
+a note for the release notes `docs/release-notes.md` of the upcoming release is included.,2025-12,2026-03,3,0.7142857142857143,added
+code changes are sufficiently documented; i.e. new functions contain docstrings and further explanations may be given in `docs`.,2025-12,2026-03,3,0.7142857142857143,added

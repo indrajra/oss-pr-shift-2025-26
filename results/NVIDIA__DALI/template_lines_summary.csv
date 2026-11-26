@@ -1,0 +1,28 @@
+line,first_month,last_month,months,peak_share,change_event
+## additional information:,2025-02,2026-08,19,1.0,
+## checklist,2025-02,2026-08,19,1.0,
+## description:,2025-02,2026-08,19,1.0,
+### dali team only,2025-02,2026-08,19,1.0,
+### documentation,2025-02,2026-08,19,1.0,
+### tests:,2025-02,2026-08,19,1.0,
+#### requirements,2025-02,2026-08,19,1.0,
+*req ids**: n/a,2025-02,2026-08,19,1.0,
+affects existing requirements,2025-02,2026-08,18,1.0,
+benchmark,2025-02,2026-08,18,1.0,
+docstring,2025-02,2026-08,18,1.0,
+documentation updated,2025-02,2026-08,19,1.0,
+doxygen,2025-02,2026-08,18,1.0,
+existing documentation applies,2025-02,2026-08,19,1.0,
+existing tests apply,2025-02,2026-08,18,1.0,
+gtests,2025-02,2026-08,18,1.0,
+implements new requirements,2025-02,2026-08,18,1.0,
+jupyter,2025-02,2026-08,18,1.0,
+n/a,2025-02,2026-08,19,1.0,
+new tests added,2025-02,2026-08,18,1.0,
+other,2025-02,2026-08,18,1.0,
+python tests,2025-02,2026-08,18,1.0,
+rst,2025-02,2026-08,18,1.0,
+## category:,2025-03,2026-08,16,1.0,added
+### affected modules and functionalities:,2025-03,2026-08,18,1.0,added
+### key points relevant for the review:,2025-03,2026-08,18,1.0,added
+*jira task**: n/a,2025-03,2026-07,11,1.0,added

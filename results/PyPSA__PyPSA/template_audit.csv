@@ -1,0 +1,25 @@
+month,line,share_of_prs,n_prs
+2025-04,code changes are sufficiently documented; i.e. new functions contain docstrings and further explanations may be given in `doc`.,0.6111111111111112,54
+2025-04,unit tests for new features were added (if applicable).,0.6481481481481481,54
+2025-04,## checklist,0.7037037037037037,54
+2025-04,## changes proposed in this pull request,0.5925925925925926,54
+2025-04,a note for the release notes `doc/release_notes.rst` of the upcoming release is included.,0.6111111111111112,54
+2025-04,i consent to the release of this pr's code under the mit license.,0.7037037037037037,54
+2025-11,i consent to the release of this pr's code under the mit license.,0.66,50
+2025-12,code changes are sufficiently documented; i.e. new functions contain docstrings and further explanations may be given in `docs`.,0.7142857142857143,42
+2025-12,i consent to the release of this pr's code under the mit license.,0.7619047619047619,42
+2025-12,a note for the release notes `docs/release-notes.md` of the upcoming release is included.,0.7142857142857143,42
+2025-12,## checklist,0.7142857142857143,42
+2026-01,unit tests for new features were added (if applicable).,0.6153846153846154,52
+2026-01,## checklist,0.6346153846153846,52
+2026-01,a note for the release notes `docs/release-notes.md` of the upcoming release is included.,0.6538461538461539,52
+2026-01,code changes are sufficiently documented; i.e. new functions contain docstrings and further explanations may be given in `docs`.,0.6153846153846154,52
+2026-01,i consent to the release of this pr's code under the mit license.,0.6730769230769231,52
+2026-03,unit tests for new features were added (if applicable).,0.5535714285714286,56
+2026-03,## checklist,0.6428571428571429,56
+2026-03,## changes proposed in this pull request,0.5357142857142857,56
+2026-03,a note for the release notes `docs/release-notes.md` of the upcoming release is included.,0.5714285714285714,56
+2026-03,code changes are sufficiently documented; i.e. new functions contain docstrings and further explanations may be given in `docs`.,0.625,56
+2026-03,i consent to the release of this pr's code under the mit license.,0.6428571428571429,56
+2026-04,i consent to the release of this pr's code under the mit license.,0.7209302325581395,43
+2026-04,## checklist,0.7674418604651163,43

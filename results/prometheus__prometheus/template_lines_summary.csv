@@ -1,0 +1,5 @@
+line,first_month,last_month,months,peak_share,change_event
+#### does this pr introduce a user-facing change?,2025-08,2026-03,8,0.9117647058823529,removed
+#### which issue(s) does the pr fix:,2025-08,2026-08,13,0.7412587412587412,
+#### release notes for end users (**all** commits must be considered).,2026-04,2026-08,5,0.7482517482517482,added
+reviewers should verify clarity and quality.*,2026-04,2026-08,5,0.6503496503496503,added

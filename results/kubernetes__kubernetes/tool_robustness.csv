@@ -1,0 +1,5 @@
+tool,n_exposed,m1_pct,m1_low,m1_high,m3_pct,m3_low,m3_high,call,status
+unspecified,37,155.26797179573032,14.781205194551351,467.7038964197858,136.16928657662135,-30.13542184950212,698.3435010794924,no clear difference,ok
+cursor,4,,,,,,,,fewer than 30 exposed PRs
+claude,3,,,,,,,,fewer than 30 exposed PRs
+gemini,2,,,,,,,,fewer than 30 exposed PRs

@@ -1,0 +1,4 @@
+tool,n_exposed,status
+unspecified,22,fewer than 30 exposed PRs
+claude,13,fewer than 30 exposed PRs
+codex,2,fewer than 30 exposed PRs

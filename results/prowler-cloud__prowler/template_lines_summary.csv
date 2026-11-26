@@ -1,0 +1,45 @@
+line,first_month,last_month,months,peak_share,change_event
+### license,2025-01,2026-08,20,1.0,
+"by submitting this pull request, i confirm that my contribution is made under the terms of the apache 2.0 license.",2025-01,2026-08,20,1.0,
+review if backport is needed.,2025-01,2026-08,20,1.0,
+review if code is being documented following this specification,2025-01,2026-08,20,1.0,
+### checklist,2025-01,2026-08,20,0.9942196531791907,
+### description,2025-01,2026-08,20,0.9942196531791907,
+review if is needed to change the readme.md,2025-01,2026-08,20,0.9923664122137404,
+review if the code is being covered by tests.,2025-01,2026-08,20,0.9923664122137404,
+"if so, do we need to update permissions for the provider? please review this carefully.",2025-01,2026-06,18,0.9465648854961832,removed
+are there new checks included in this pr? yes / no,2025-01,2026-06,18,0.9389312977099237,removed
+### context,2025-01,2026-08,20,0.7798507462686567,
+are there new checks included in this pr? no,2025-01,2026-08,10,0.44029850746268656,
+"ensure new entries are added to changelog.md, if applicable.",2025-02,2026-06,17,0.9847328244274809,added
+"check if version updates are required (e.g., specs, poetry, etc.).",2025-02,2026-04,15,0.9770992366412213,added
+#### api,2025-02,2026-08,19,0.9694656488549618,added
+verify if api specs need to be regenerated.,2025-02,2026-07,18,0.9694656488549618,added
+### steps to review,2025-08,2026-08,13,0.8449612403100775,added
+please add a detailed description of how to review this pr.,2025-09,2025-11,3,0.421875,
+#### ui,2025-11,2026-08,10,0.6140350877192983,added
+all issue/task requirements work as expected on the ui,2025-11,2026-08,10,0.6023391812865497,added
+screenshots/video of the functionality flow (if applicable) - mobile (x x 1024px),2025-11,2026-08,10,0.5906432748538012,added
+"if so, do we need to update permissions for the provider? no.",2025-12,2025-12,1,0.31343283582089554,
+community checklist,2026-01,2026-08,8,0.7075812274368231,added
+this feature/issue is listed in here or roadmap.prowler.com,2026-01,2026-06,6,0.6570397111913358,added
+#### sdk/cli,2026-01,2026-08,8,0.6462093862815884,added
+"is it assigned to me, if not, request it via the issue/feature in here or prowler community slack",2026-01,2026-06,6,0.6462093862815884,added
+all issue/task requirements work as expected on the api,2026-01,2026-07,7,0.5071428571428571,added
+any other relevant evidence of the implementation (if applicable),2026-01,2026-07,7,0.5069767441860465,added
+endpoint response output (if applicable),2026-01,2026-07,7,0.5069767441860465,added
+explain analyze output for new/modified queries or indexes (if applicable),2026-01,2026-07,7,0.5069767441860465,added
+performance test results (if applicable),2026-01,2026-07,7,0.5069767441860465,added
+"check if version updates are required (e.g., specs, uv, etc.).",2026-05,2026-07,3,0.44573643410852715,
+"if this pr adds or updates npm dependencies, include package-health evidence (maintenance, popularity, known vulnerabilities, license, release age) and explain why existing/native alternatives are insufficient.",2026-05,2026-07,3,0.37209302325581395,
+## summary by coderabbit,2026-06,2026-08,3,0.9037037037037037,added
+**bug fixes**,2026-06,2026-08,3,0.46745562130177515,
+**tests**,2026-06,2026-08,3,0.4467455621301775,
+**new features**,2026-06,2026-08,3,0.4378698224852071,
+**documentation**,2026-06,2026-08,3,0.34023668639053256,
+i have reviewed the open pull requests and confirmed there is no existing pr that implements the same outcome,2026-07,2026-08,2,0.3851851851851852,
+this feature/issue is listed in the open issues or roadmap.prowler.com,2026-07,2026-08,2,0.37037037037037035,
+"is it assigned to me, if not, request it via the open issues or prowler community slack",2026-07,2026-08,2,0.34074074074074073,
+"ensure a changelog fragment is added under prowler/changelog.d/, if applicable.",2026-07,2026-08,2,0.3333333333333333,
+#### mcp server,2026-07,2026-08,2,0.3037037037037037,
+"ensure a changelog fragment is added under api/changelog.d/, if applicable.",2026-07,2026-07,1,0.21893491124260356,

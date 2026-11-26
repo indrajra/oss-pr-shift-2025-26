@@ -1,0 +1,8 @@
+line,first_month,last_month,months,peak_share,change_event
+*checklist**,2023-02,2024-08,18,1.0,
+*what this pr does**:,2023-02,2024-08,17,1.0,
+"`changelog.md` updated - the order of entries should be `[change]`, `[feature]`, `[enhancement]`, `[bugfix]`",2023-02,2024-08,16,1.0,
+documentation added,2023-02,2024-08,16,1.0,
+tests updated,2023-02,2024-08,17,1.0,
+*which issue(s) this pr fixes**:,2023-06,2024-08,13,0.9714285714285714,added
+fixes #,2023-09,2024-08,4,0.74,added

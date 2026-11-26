@@ -1,0 +1,182 @@
+month,line,share_of_prs,n_prs
+2023-01,"#### additional documentation e.g., keps (kubernetes enhancement proposals), usage docs, etc.:",0.524547803617571,387
+2023-01,/kind cleanup,0.3695090439276486,387
+2023-01,#### does this pr introduce a user-facing change?,0.6434108527131783,387
+2023-01,#### which issue(s) this pr fixes:,0.5788113695090439,387
+2023-01,#### what type of pr is this?,0.6821705426356589,387
+2023-01,#### what this pr does / why we need it:,0.6821705426356589,387
+2023-01,#### special notes for your reviewer:,0.5607235142118863,387
+2023-01,/kind bug,0.20155038759689922,387
+2023-01,fixes #,0.22997416020671835,387
+2023-02,"#### additional documentation e.g., keps (kubernetes enhancement proposals), usage docs, etc.:",0.5877551020408164,490
+2023-02,/kind cleanup,0.3510204081632653,490
+2023-02,#### does this pr introduce a user-facing change?,0.7693877551020408,490
+2023-02,#### which issue(s) this pr fixes:,0.6510204081632653,490
+2023-02,#### what type of pr is this?,0.7489795918367347,490
+2023-02,#### what this pr does / why we need it:,0.7612244897959184,490
+2023-02,#### special notes for your reviewer:,0.6795918367346939,490
+2023-02,/kind feature,0.21224489795918366,490
+2023-02,fixes #,0.2714285714285714,490
+2023-03,"#### additional documentation e.g., keps (kubernetes enhancement proposals), usage docs, etc.:",0.5796387520525451,609
+2023-03,/kind cleanup,0.34811165845648606,609
+2023-03,#### does this pr introduce a user-facing change?,0.7044334975369458,609
+2023-03,#### which issue(s) this pr fixes:,0.6206896551724138,609
+2023-03,#### what this pr does / why we need it:,0.729064039408867,609
+2023-03,#### what type of pr is this?,0.7257799671592775,609
+2023-03,#### special notes for your reviewer:,0.6518883415435139,609
+2023-03,/kind feature,0.22495894909688013,609
+2023-03,/kind bug,0.20525451559934318,609
+2023-03,fixes #,0.2889983579638752,609
+2023-04,"#### additional documentation e.g., keps (kubernetes enhancement proposals), usage docs, etc.:",0.570264765784114,491
+2023-04,/kind cleanup,0.47657841140529533,491
+2023-04,#### does this pr introduce a user-facing change?,0.7311608961303462,491
+2023-04,#### which issue(s) this pr fixes:,0.6313645621181263,491
+2023-04,#### what type of pr is this?,0.7393075356415478,491
+2023-04,#### what this pr does / why we need it:,0.7393075356415478,491
+2023-04,#### special notes for your reviewer:,0.6496945010183299,491
+2023-04,/kind bug,0.20162932790224034,491
+2023-04,fixes #,0.3095723014256619,491
+2023-05,"#### additional documentation e.g., keps (kubernetes enhancement proposals), usage docs, etc.:",0.5728952772073922,487
+2023-05,/kind cleanup,0.4271047227926078,487
+2023-05,#### does this pr introduce a user-facing change?,0.6981519507186859,487
+2023-05,#### which issue(s) this pr fixes:,0.5995893223819302,487
+2023-05,#### what type of pr is this?,0.704312114989733,487
+2023-05,#### what this pr does / why we need it:,0.702258726899384,487
+2023-05,#### special notes for your reviewer:,0.5934291581108829,487
+2023-05,fixes #,0.26283367556468173,487
+2023-06,"#### additional documentation e.g., keps (kubernetes enhancement proposals), usage docs, etc.:",0.6420323325635104,433
+2023-06,/kind cleanup,0.40877598152424943,433
+2023-06,#### does this pr introduce a user-facing change?,0.7852193995381063,433
+2023-06,#### which issue(s) this pr fixes:,0.6928406466512702,433
+2023-06,#### what type of pr is this?,0.792147806004619,433
+2023-06,#### what this pr does / why we need it:,0.8013856812933026,433
+2023-06,#### special notes for your reviewer:,0.7182448036951501,433
+2023-06,/kind bug,0.20554272517321015,433
+2023-06,fixes #,0.3325635103926097,433
+2023-07,"#### additional documentation e.g., keps (kubernetes enhancement proposals), usage docs, etc.:",0.6616052060737527,461
+2023-07,/kind cleanup,0.29067245119305857,461
+2023-07,#### does this pr introduce a user-facing change?,0.7592190889370932,461
+2023-07,#### which issue(s) this pr fixes:,0.7049891540130152,461
+2023-07,#### what type of pr is this?,0.7874186550976139,461
+2023-07,#### what this pr does / why we need it:,0.7852494577006508,461
+2023-07,#### special notes for your reviewer:,0.6898047722342733,461
+2023-07,/kind feature,0.2017353579175705,461
+2023-07,/kind bug,0.21691973969631237,461
+2023-07,fixes #,0.29067245119305857,461
+2023-08,"#### additional documentation e.g., keps (kubernetes enhancement proposals), usage docs, etc.:",0.6220657276995305,426
+2023-08,/kind cleanup,0.3967136150234742,426
+2023-08,#### does this pr introduce a user-facing change?,0.7276995305164319,426
+2023-08,#### which issue(s) this pr fixes:,0.6971830985915493,426
+2023-08,#### what type of pr is this?,0.7488262910798122,426
+2023-08,#### what this pr does / why we need it:,0.7488262910798122,426
+2023-08,#### special notes for your reviewer:,0.6643192488262911,426
+2023-08,/kind bug,0.25586854460093894,426
+2023-08,fixes #,0.3192488262910798,426
+2023-09,"#### additional documentation e.g., keps (kubernetes enhancement proposals), usage docs, etc.:",0.6441860465116279,430
+2023-09,/kind cleanup,0.32558139534883723,430
+2023-09,#### does this pr introduce a user-facing change?,0.7395348837209302,430
+2023-09,#### which issue(s) this pr fixes:,0.672093023255814,430
+2023-09,#### what type of pr is this?,0.7418604651162791,430
+2023-09,#### what this pr does / why we need it:,0.7511627906976744,430
+2023-09,#### special notes for your reviewer:,0.6744186046511628,430
+2023-09,/kind bug,0.20232558139534884,430
+2023-09,fixes #,0.3325581395348837,430
+2023-10,"#### additional documentation e.g., keps (kubernetes enhancement proposals), usage docs, etc.:",0.668,500
+2023-10,/kind cleanup,0.372,500
+2023-10,#### does this pr introduce a user-facing change?,0.776,500
+2023-10,#### which issue(s) this pr fixes:,0.702,500
+2023-10,#### what type of pr is this?,0.78,500
+2023-10,#### what this pr does / why we need it:,0.772,500
+2023-10,#### special notes for your reviewer:,0.708,500
+2023-10,/kind feature,0.21,500
+2023-10,fixes #,0.308,500
+2023-11,"#### additional documentation e.g., keps (kubernetes enhancement proposals), usage docs, etc.:",0.6233766233766234,308
+2023-11,/kind cleanup,0.39285714285714285,308
+2023-11,#### does this pr introduce a user-facing change?,0.7824675324675324,308
+2023-11,#### which issue(s) this pr fixes:,0.7207792207792207,308
+2023-11,#### what type of pr is this?,0.8051948051948052,308
+2023-11,#### what this pr does / why we need it:,0.814935064935065,308
+2023-11,#### special notes for your reviewer:,0.7077922077922078,308
+2023-11,fixes #,0.29545454545454547,308
+2023-12,"#### additional documentation e.g., keps (kubernetes enhancement proposals), usage docs, etc.:",0.6203007518796992,266
+2023-12,/kind cleanup,0.39097744360902253,266
+2023-12,#### does this pr introduce a user-facing change?,0.7669172932330827,266
+2023-12,#### which issue(s) this pr fixes:,0.7030075187969925,266
+2023-12,#### what type of pr is this?,0.7631578947368421,266
+2023-12,#### what this pr does / why we need it:,0.7631578947368421,266
+2023-12,#### special notes for your reviewer:,0.706766917293233,266
+2023-12,/kind bug,0.22180451127819548,266
+2023-12,fixes #,0.3157894736842105,266
+2024-01,"#### additional documentation e.g., keps (kubernetes enhancement proposals), usage docs, etc.:",0.5778364116094987,379
+2024-01,/kind cleanup,0.40633245382585753,379
+2024-01,#### does this pr introduce a user-facing change?,0.783641160949868,379
+2024-01,#### which issue(s) this pr fixes:,0.7097625329815304,379
+2024-01,#### what type of pr is this?,0.762532981530343,379
+2024-01,#### what this pr does / why we need it:,0.7889182058047494,379
+2024-01,#### special notes for your reviewer:,0.6490765171503958,379
+2024-01,fixes #,0.37730870712401055,379
+2024-02,"#### additional documentation e.g., keps (kubernetes enhancement proposals), usage docs, etc.:",0.6528497409326425,386
+2024-02,/kind cleanup,0.30569948186528495,386
+2024-02,#### does this pr introduce a user-facing change?,0.8031088082901554,386
+2024-02,#### which issue(s) this pr fixes:,0.7202072538860104,386
+2024-02,#### what this pr does / why we need it:,0.8238341968911918,386
+2024-02,#### what type of pr is this?,0.8264248704663213,386
+2024-02,#### special notes for your reviewer:,0.7435233160621761,386
+2024-02,/kind feature,0.29533678756476683,386
+2024-02,/kind bug,0.21502590673575128,386
+2024-02,fixes #,0.29015544041450775,386
+2024-03,"#### additional documentation e.g., keps (kubernetes enhancement proposals), usage docs, etc.:",0.6350148367952523,337
+2024-03,/kind cleanup,0.3887240356083086,337
+2024-03,#### does this pr introduce a user-facing change?,0.7299703264094956,337
+2024-03,#### which issue(s) this pr fixes:,0.6617210682492581,337
+2024-03,#### what this pr does / why we need it:,0.7774480712166172,337
+2024-03,#### what type of pr is this?,0.7685459940652819,337
+2024-03,#### special notes for your reviewer:,0.658753709198813,337
+2024-03,/kind bug,0.2522255192878338,337
+2024-03,fixes #,0.3086053412462908,337
+2024-04,"#### additional documentation e.g., keps (kubernetes enhancement proposals), usage docs, etc.:",0.5833333333333334,360
+2024-04,/kind cleanup,0.33055555555555555,360
+2024-04,#### does this pr introduce a user-facing change?,0.7416666666666667,360
+2024-04,#### which issue(s) this pr fixes:,0.6361111111111111,360
+2024-04,#### what type of pr is this?,0.7527777777777778,360
+2024-04,#### what this pr does / why we need it:,0.7611111111111111,360
+2024-04,#### special notes for your reviewer:,0.6611111111111111,360
+2024-04,/kind bug,0.20833333333333334,360
+2024-04,fixes #,0.3277777777777778,360
+2024-05,"#### additional documentation e.g., keps (kubernetes enhancement proposals), usage docs, etc.:",0.6965174129353234,402
+2024-05,/kind cleanup,0.39552238805970147,402
+2024-05,#### does this pr introduce a user-facing change?,0.8109452736318408,402
+2024-05,#### which issue(s) this pr fixes:,0.7288557213930348,402
+2024-05,#### what type of pr is this?,0.818407960199005,402
+2024-05,#### what this pr does / why we need it:,0.8233830845771144,402
+2024-05,#### special notes for your reviewer:,0.753731343283582,402
+2024-05,/kind feature,0.22388059701492538,402
+2024-05,fixes #,0.373134328358209,402
+2024-06,"#### additional documentation e.g., keps (kubernetes enhancement proposals), usage docs, etc.:",0.7150259067357513,386
+2024-06,/kind cleanup,0.42487046632124353,386
+2024-06,#### does this pr introduce a user-facing change?,0.8212435233160622,386
+2024-06,#### which issue(s) this pr fixes:,0.7564766839378239,386
+2024-06,#### what type of pr is this?,0.810880829015544,386
+2024-06,#### what this pr does / why we need it:,0.8290155440414507,386
+2024-06,#### special notes for your reviewer:,0.7590673575129534,386
+2024-06,/kind feature,0.22538860103626943,386
+2024-06,/kind bug,0.22020725388601037,386
+2024-06,fixes #,0.3756476683937824,386
+2024-07,"#### additional documentation e.g., keps (kubernetes enhancement proposals), usage docs, etc.:",0.6739130434782609,460
+2024-07,/kind cleanup,0.3456521739130435,460
+2024-07,#### does this pr introduce a user-facing change?,0.7652173913043478,460
+2024-07,#### which issue(s) this pr fixes:,0.7391304347826086,460
+2024-07,#### what type of pr is this?,0.7739130434782608,460
+2024-07,#### what this pr does / why we need it:,0.7978260869565217,460
+2024-07,#### special notes for your reviewer:,0.7347826086956522,460
+2024-07,/kind bug,0.22608695652173913,460
+2024-07,fixes #,0.34782608695652173,460
+2024-08,"#### additional documentation e.g., keps (kubernetes enhancement proposals), usage docs, etc.:",0.6411483253588517,209
+2024-08,/kind cleanup,0.42105263157894735,209
+2024-08,#### does this pr introduce a user-facing change?,0.7272727272727273,209
+2024-08,#### which issue(s) this pr fixes:,0.6985645933014354,209
+2024-08,#### what type of pr is this?,0.7703349282296651,209
+2024-08,#### what this pr does / why we need it:,0.7559808612440191,209
+2024-08,#### special notes for your reviewer:,0.6889952153110048,209
+2024-08,/kind bug,0.215311004784689,209
+2024-08,fixes #,0.36363636363636365,209

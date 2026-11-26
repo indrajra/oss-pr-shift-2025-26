@@ -1,0 +1,26 @@
+line,first_month,last_month,months,peak_share,change_event
+---,2025-02,2026-08,18,1.0,
+---------,2025-02,2026-08,18,1.0,
+-----------,2025-02,2026-08,18,1.0,
+-----------------,2025-02,2026-08,18,1.0,
+-------------------------,2025-02,2026-08,18,1.0,
+checklist,2025-02,2026-08,18,1.0,
+"if not, please explain why it is not required",2025-02,2026-08,16,1.0,
+"if so, include tracking information for the system test changes",2025-02,2026-08,18,1.0,
+jira:,2025-02,2026-08,16,1.0,
+list the ld flags needed to be set to enable this change,2025-02,2025-05,4,1.0,removed
+open questions / follow-ups,2025-02,2026-08,18,1.0,
+references,2025-02,2026-08,18,1.0,
+test & review,2025-02,2026-08,18,1.0,
+what,2025-02,2026-08,18,1.0,
+does this change require modifying existing system tests or adding new system tests?,2025-02,2025-05,4,0.9523809523809523,removed
+is this change gated behind feature flag(s)?,2025-02,2025-05,4,0.9523809523809523,removed
+did you add sufficient unit test and/or integration test coverage for this pr?,2025-02,2025-05,4,0.9285714285714286,removed
+contains customer facing changes? including api/behavior changes,2025-02,2025-05,4,0.9047619047619048,removed
+"if so, please include the link(s) to the changes that must be released together",2025-07,2026-08,14,1.0,added
+list the config(s) needed to be set to enable this change,2025-07,2026-08,14,1.0,added
+"please answer the questions with y, n or n/a if not applicable.",2025-07,2026-08,14,1.0,added
+**[n]** does this change require modifying existing system tests or adding new system tests?,2025-08,2026-08,5,0.6612903225806451,added
+**[n]** is this change gated behind config(s)?,2025-08,2026-02,4,0.6612903225806451,added
+"**[n]** must this be released together with other change(s), either in this repo or another one?",2025-08,2026-02,4,0.6451612903225806,added
+**[y]** did you add sufficient unit test and/or integration test coverage for this pr?,2025-12,2026-08,2,0.4838709677419355,

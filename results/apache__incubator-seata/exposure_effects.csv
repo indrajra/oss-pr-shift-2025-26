@@ -1,0 +1,6 @@
+exposure,outcome,label,n,n_exposed,median_exposed,median_unexposed,model,status
+ai_disclosed,churn,Lines changed,641,2,713.0,114.0,all,fewer than 30 exposed PRs
+ai_disclosed,files_changed,Files changed,641,2,12.0,5.0,all,fewer than 30 exposed PRs
+ai_disclosed,additions,Lines added,641,2,708.5,83.0,all,fewer than 30 exposed PRs
+ai_disclosed,deletions,Lines deleted,641,2,4.5,8.0,all,fewer than 30 exposed PRs
+ai_disclosed,hours_to_merge,Hours to merge,481,1,234.3322222222222,44.84916666666666,all,fewer than 30 exposed PRs

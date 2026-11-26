@@ -1,0 +1,504 @@
+{
+  "repo": "OpenFeign/feign",
+  "language": "Java",
+  "window": [
+    "2025-01-06",
+    "2026-08-17"
+  ],
+  "n_prs": 133,
+  "verdicts": {
+    "ai_disclosed": {
+      "category": "not testable",
+      "explanation": "Too few exposed PRs.",
+      "pattern": "lines changed: not estimated; files changed: not estimated; lines added: not estimated; lines deleted: not estimated; hours to merge: not estimated"
+    }
+  },
+  "window_numeric": [
+    {
+      "metric": "words_prose",
+      "label": "Description words (non-empty)",
+      "n_baseline": 2,
+      "n_final": 10
+    },
+    {
+      "metric": "files_changed",
+      "label": "Files changed",
+      "n_baseline": 3,
+      "n_final": 10
+    },
+    {
+      "metric": "additions",
+      "label": "Lines added",
+      "n_baseline": 3,
+      "n_final": 10
+    },
+    {
+      "metric": "deletions",
+      "label": "Lines deleted",
+      "n_baseline": 3,
+      "n_final": 10
+    },
+    {
+      "metric": "net_lines",
+      "label": "Net lines (added minus deleted)",
+      "n_baseline": 3,
+      "n_final": 10
+    },
+    {
+      "metric": "churn",
+      "label": "Lines changed (added plus deleted)",
+      "n_baseline": 3,
+      "n_final": 10
+    },
+    {
+      "metric": "hours_to_merge",
+      "label": "Hours from open to merge (merged PRs)",
+      "n_baseline": 2,
+      "n_final": 8
+    },
+    {
+      "metric": "commits",
+      "label": "Commits",
+      "n_baseline": 3,
+      "n_final": 10
+    },
+    {
+      "metric": "comments",
+      "label": "Comments",
+      "n_baseline": 3,
+      "n_final": 10
+    },
+    {
+      "metric": "reviews",
+      "label": "Reviews",
+      "n_baseline": 3,
+      "n_final": 10
+    }
+  ],
+  "window_proportions": [
+    {
+      "metric": "merged_in_followup",
+      "label": "Merged within follow-up period",
+      "n_baseline": 3,
+      "n_final": 10,
+      "share_baseline": 0.3333333333,
+      "baseline_ci_low": 0.0614903153,
+      "baseline_ci_high": 0.7923450449,
+      "share_final": 0.8,
+      "final_ci_low": 0.4901568467,
+      "final_ci_high": 0.943319052,
+      "change_points": 46.6666666667,
+      "fisher_p": 0.2027972028
+    },
+    {
+      "metric": "closed_unmerged",
+      "label": "Closed without merging",
+      "n_baseline": 3,
+      "n_final": 10,
+      "share_baseline": 0.3333333333,
+      "baseline_ci_low": 0.0614903153,
+      "baseline_ci_high": 0.7923450449,
+      "share_final": 0.2,
+      "final_ci_low": 0.056680948,
+      "final_ci_high": 0.5098431533,
+      "change_points": -13.3333333333,
+      "fisher_p": 1.0
+    },
+    {
+      "metric": "is_draft",
+      "label": "Opened as draft",
+      "n_baseline": 3,
+      "n_final": 10,
+      "share_baseline": 0.0,
+      "baseline_ci_low": 0.0,
+      "baseline_ci_high": 0.5615060804,
+      "share_final": 0.0,
+      "final_ci_low": -2.775557562e-17,
+      "final_ci_high": 0.2775401688,
+      "change_points": 0.0,
+      "fisher_p": 1.0
+    },
+    {
+      "metric": "is_outside",
+      "label": "From outside contributors",
+      "n_baseline": 3,
+      "n_final": 10,
+      "share_baseline": 0.3333333333,
+      "baseline_ci_low": 0.0614903153,
+      "baseline_ci_high": 0.7923450449,
+      "share_final": 0.7,
+      "final_ci_low": 0.39677322,
+      "final_ci_high": 0.8922107125,
+      "change_points": 36.6666666667,
+      "fisher_p": 0.5104895105
+    },
+    {
+      "metric": "has_kind_label",
+      "label": "Has a kind or type label",
+      "n_baseline": 3,
+      "n_final": 10,
+      "share_baseline": 0.0,
+      "baseline_ci_low": 0.0,
+      "baseline_ci_high": 0.5615060804,
+      "share_final": 0.0,
+      "final_ci_low": -2.775557562e-17,
+      "final_ci_high": 0.2775401688,
+      "change_points": 0.0,
+      "fisher_p": 1.0
+    },
+    {
+      "metric": "is_duplicate_text",
+      "label": "Description text repeated elsewhere",
+      "n_baseline": 3,
+      "n_final": 10,
+      "share_baseline": 0.0,
+      "baseline_ci_low": 0.0,
+      "baseline_ci_high": 0.5615060804,
+      "share_final": 0.0,
+      "final_ci_low": -2.775557562e-17,
+      "final_ci_high": 0.2775401688,
+      "change_points": 0.0,
+      "fisher_p": 1.0
+    },
+    {
+      "metric": "ai_disclosed",
+      "label": "Names an AI tool (disclosure)",
+      "n_baseline": 3,
+      "n_final": 10,
+      "share_baseline": 0.0,
+      "baseline_ci_low": 0.0,
+      "baseline_ci_high": 0.5615060804,
+      "share_final": 0.0,
+      "final_ci_low": -2.775557562e-17,
+      "final_ci_high": 0.2775401688,
+      "change_points": 0.0,
+      "fisher_p": 1.0
+    },
+    {
+      "metric": "cat_feature",
+      "label": "Label category: feature",
+      "n_baseline": 3,
+      "n_final": 10,
+      "share_baseline": 0.0,
+      "baseline_ci_low": 0.0,
+      "baseline_ci_high": 0.5615060804,
+      "share_final": 0.0,
+      "final_ci_low": -2.775557562e-17,
+      "final_ci_high": 0.2775401688,
+      "change_points": 0.0,
+      "fisher_p": 1.0
+    },
+    {
+      "metric": "cat_bug",
+      "label": "Label category: bug",
+      "n_baseline": 3,
+      "n_final": 10,
+      "share_baseline": 0.0,
+      "baseline_ci_low": 0.0,
+      "baseline_ci_high": 0.5615060804,
+      "share_final": 0.0,
+      "final_ci_low": -2.775557562e-17,
+      "final_ci_high": 0.2775401688,
+      "change_points": 0.0,
+      "fisher_p": 1.0
+    },
+    {
+      "metric": "cat_design",
+      "label": "Label category: design",
+      "n_baseline": 3,
+      "n_final": 10,
+      "share_baseline": 0.0,
+      "baseline_ci_low": 0.0,
+      "baseline_ci_high": 0.5615060804,
+      "share_final": 0.0,
+      "final_ci_low": -2.775557562e-17,
+      "final_ci_high": 0.2775401688,
+      "change_points": 0.0,
+      "fisher_p": 1.0
+    },
+    {
+      "metric": "cat_docs",
+      "label": "Label category: docs",
+      "n_baseline": 3,
+      "n_final": 10,
+      "share_baseline": 0.0,
+      "baseline_ci_low": 0.0,
+      "baseline_ci_high": 0.5615060804,
+      "share_final": 0.0,
+      "final_ci_low": -2.775557562e-17,
+      "final_ci_high": 0.2775401688,
+      "change_points": 0.0,
+      "fisher_p": 1.0
+    },
+    {
+      "metric": "cat_cleanup",
+      "label": "Label category: cleanup",
+      "n_baseline": 3,
+      "n_final": 10,
+      "share_baseline": 0.0,
+      "baseline_ci_low": 0.0,
+      "baseline_ci_high": 0.5615060804,
+      "share_final": 0.0,
+      "final_ci_low": -2.775557562e-17,
+      "final_ci_high": 0.2775401688,
+      "change_points": 0.0,
+      "fisher_p": 1.0
+    },
+    {
+      "metric": "cat_test",
+      "label": "Label category: test",
+      "n_baseline": 3,
+      "n_final": 10,
+      "share_baseline": 0.0,
+      "baseline_ci_low": 0.0,
+      "baseline_ci_high": 0.5615060804,
+      "share_final": 0.0,
+      "final_ci_low": -2.775557562e-17,
+      "final_ci_high": 0.2775401688,
+      "change_points": 0.0,
+      "fisher_p": 1.0
+    },
+    {
+      "metric": "cat_api_change",
+      "label": "Label category: api_change",
+      "n_baseline": 3,
+      "n_final": 10,
+      "share_baseline": 0.0,
+      "baseline_ci_low": 0.0,
+      "baseline_ci_high": 0.5615060804,
+      "share_final": 0.0,
+      "final_ci_low": -2.775557562e-17,
+      "final_ci_high": 0.2775401688,
+      "change_points": 0.0,
+      "fisher_p": 1.0
+    }
+  ],
+  "trends": [
+    {
+      "metric": "median_words",
+      "months": 17,
+      "slope_per_month": 7.125,
+      "slope_ci_low": 1.35,
+      "slope_ci_high": 12.375,
+      "tau": 0.3763863263545405,
+      "p": 0.035499992390609754
+    },
+    {
+      "metric": "median_files_changed",
+      "months": 17,
+      "slope_per_month": 0.020833333333333332,
+      "slope_ci_low": -0.3333333333333333,
+      "slope_ci_high": 0.3333333333333333,
+      "tau": 0.07639154141901759,
+      "p": 0.6769222390213793
+    },
+    {
+      "metric": "median_additions",
+      "months": 17,
+      "slope_per_month": 7.121794871794872,
+      "slope_ci_low": -0.25,
+      "slope_ci_high": 16.0,
+      "tau": 0.3321055820775357,
+      "p": 0.0635615431407758
+    },
+    {
+      "metric": "median_deletions",
+      "months": 17,
+      "slope_per_month": 0.3693181818181818,
+      "slope_ci_low": -0.6666666666666666,
+      "slope_ci_high": 1.5,
+      "tau": 0.11852177018919194,
+      "p": 0.5091234068916393
+    },
+    {
+      "metric": "median_churn",
+      "months": 17,
+      "slope_per_month": 6.631118881118881,
+      "slope_ci_low": -3.3125,
+      "slope_ci_high": 18.333333333333332,
+      "tau": 0.20588235294117643,
+      "p": 0.27056053596407176
+    },
+    {
+      "metric": "median_hours_to_merge",
+      "months": 15,
+      "slope_per_month": -12.335277777777778,
+      "slope_ci_low": -51.20888888888889,
+      "slope_ci_high": 34.50291666666666,
+      "tau": -0.12380952380952381,
+      "p": 0.5589660721223221
+    },
+    {
+      "metric": "merge_rate",
+      "months": 17,
+      "slope_per_month": 0.018623737373737376,
+      "slope_ci_low": -0.010101010101010104,
+      "slope_ci_high": 0.06111111111111111,
+      "tau": 0.22066155952869532,
+      "p": 0.22759048415191185
+    },
+    {
+      "metric": "share_outside_contributors",
+      "months": 17,
+      "slope_per_month": -0.0,
+      "slope_ci_low": -0.037209302325581395,
+      "slope_ci_high": 0.036111111111111115,
+      "tau": -0.03865876665285686,
+      "p": 0.8339713684833123
+    },
+    {
+      "metric": "share_ai_disclosed",
+      "months": 17,
+      "slope_per_month": -0.0,
+      "slope_ci_low": -0.0,
+      "slope_ci_high": -0.0,
+      "tau": 0.14348601079588785,
+      "p": 0.47069072227984043
+    },
+    {
+      "metric": "median_comments",
+      "months": 17,
+      "slope_per_month": -0.0,
+      "slope_ci_low": -0.05,
+      "slope_ci_high": -0.0,
+      "tau": -0.23923566684866998,
+      "p": 0.2385626355931072
+    },
+    {
+      "metric": "median_reviews",
+      "months": 17,
+      "slope_per_month": -0.0,
+      "slope_ci_low": -0.0,
+      "slope_ci_high": 0.09090909090909091,
+      "tau": 0.25112204948395955,
+      "p": 0.21249132088118516
+    },
+    {
+      "metric": "share_feature",
+      "months": 17,
+      "slope_per_month": -0.0,
+      "slope_ci_low": -0.0,
+      "slope_ci_high": -0.0,
+      "tau": null,
+      "p": null
+    },
+    {
+      "metric": "share_bug",
+      "months": 17,
+      "slope_per_month": -0.0,
+      "slope_ci_low": -0.0,
+      "slope_ci_high": -0.0,
+      "tau": null,
+      "p": null
+    },
+    {
+      "metric": "share_design",
+      "months": 17,
+      "slope_per_month": -0.0,
+      "slope_ci_low": -0.0,
+      "slope_ci_high": -0.0,
+      "tau": null,
+      "p": null
+    },
+    {
+      "metric": "share_docs",
+      "months": 17,
+      "slope_per_month": -0.0,
+      "slope_ci_low": -0.0,
+      "slope_ci_high": -0.0,
+      "tau": null,
+      "p": null
+    },
+    {
+      "metric": "share_cleanup",
+      "months": 17,
+      "slope_per_month": -0.0,
+      "slope_ci_low": -0.0,
+      "slope_ci_high": -0.0,
+      "tau": null,
+      "p": null
+    },
+    {
+      "metric": "share_test",
+      "months": 17,
+      "slope_per_month": -0.0,
+      "slope_ci_low": -0.0,
+      "slope_ci_high": -0.0,
+      "tau": null,
+      "p": null
+    },
+    {
+      "metric": "share_api_change",
+      "months": 17,
+      "slope_per_month": -0.0,
+      "slope_ci_low": -0.0,
+      "slope_ci_high": -0.0,
+      "tau": null,
+      "p": null
+    }
+  ],
+  "effects": [
+    {
+      "exposure": "ai_disclosed",
+      "outcome": "churn",
+      "label": "Lines changed",
+      "n": 133,
+      "n_exposed": 20,
+      "median_exposed": 184.0,
+      "median_unexposed": 92.0,
+      "model": "all",
+      "status": "fewer than 30 exposed PRs"
+    },
+    {
+      "exposure": "ai_disclosed",
+      "outcome": "files_changed",
+      "label": "Files changed",
+      "n": 133,
+      "n_exposed": 20,
+      "median_exposed": 5.0,
+      "median_unexposed": 3.0,
+      "model": "all",
+      "status": "fewer than 30 exposed PRs"
+    },
+    {
+      "exposure": "ai_disclosed",
+      "outcome": "additions",
+      "label": "Lines added",
+      "n": 133,
+      "n_exposed": 20,
+      "median_exposed": 144.5,
+      "median_unexposed": 74.0,
+      "model": "all",
+      "status": "fewer than 30 exposed PRs"
+    },
+    {
+      "exposure": "ai_disclosed",
+      "outcome": "deletions",
+      "label": "Lines deleted",
+      "n": 133,
+      "n_exposed": 20,
+      "median_exposed": 45.5,
+      "median_unexposed": 6.0,
+      "model": "all",
+      "status": "fewer than 30 exposed PRs"
+    },
+    {
+      "exposure": "ai_disclosed",
+      "outcome": "hours_to_merge",
+      "label": "Hours to merge",
+      "n": 102,
+      "n_exposed": 16,
+      "median_exposed": 0.5177777778,
+      "median_unexposed": 55.6315277778,
+      "model": "all",
+      "status": "fewer than 30 exposed PRs"
+    }
+  ],
+  "tools": [
+    {
+      "tool": "unspecified",
+      "n_exposed": 20,
+      "status": "fewer than 30 exposed PRs"
+    }
+  ]
+}

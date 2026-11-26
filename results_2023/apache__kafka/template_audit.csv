@@ -1,0 +1,81 @@
+month,line,share_of_prs,n_prs
+2023-01,verify test coverage and ci build status,0.6292134831460674,89
+2023-01,verify design and implementation,0.6292134831460674,89
+2023-01,verify documentation (including upgrade notes),0.6292134831460674,89
+2023-01,### committer checklist (excluded from commit message),0.6292134831460674,89
+2023-02,verify test coverage and ci build status,0.7883211678832117,137
+2023-02,verify design and implementation,0.7883211678832117,137
+2023-02,verify documentation (including upgrade notes),0.7883211678832117,137
+2023-02,### committer checklist (excluded from commit message),0.7883211678832117,137
+2023-03,verify test coverage and ci build status,0.7109826589595376,173
+2023-03,verify design and implementation,0.7109826589595376,173
+2023-03,verify documentation (including upgrade notes),0.7109826589595376,173
+2023-03,### committer checklist (excluded from commit message),0.7109826589595376,173
+2023-04,verify test coverage and ci build status,0.6790123456790124,162
+2023-04,verify design and implementation,0.6790123456790124,162
+2023-04,verify documentation (including upgrade notes),0.6790123456790124,162
+2023-04,### committer checklist (excluded from commit message),0.6790123456790124,162
+2023-05,verify test coverage and ci build status,0.6074074074074074,135
+2023-05,verify design and implementation,0.6074074074074074,135
+2023-05,verify documentation (including upgrade notes),0.6074074074074074,135
+2023-05,### committer checklist (excluded from commit message),0.6074074074074074,135
+2023-06,verify test coverage and ci build status,0.631578947368421,152
+2023-06,verify design and implementation,0.625,152
+2023-06,verify documentation (including upgrade notes),0.625,152
+2023-06,### committer checklist (excluded from commit message),0.631578947368421,152
+2023-07,verify test coverage and ci build status,0.6424870466321243,193
+2023-07,verify design and implementation,0.6528497409326425,193
+2023-07,verify documentation (including upgrade notes),0.6528497409326425,193
+2023-07,### committer checklist (excluded from commit message),0.6580310880829016,193
+2023-08,verify test coverage and ci build status,0.6684782608695652,184
+2023-08,verify design and implementation,0.6684782608695652,184
+2023-08,verify documentation (including upgrade notes),0.657608695652174,184
+2023-08,### committer checklist (excluded from commit message),0.6739130434782609,184
+2023-09,verify test coverage and ci build status,0.609271523178808,151
+2023-09,verify design and implementation,0.6026490066225165,151
+2023-09,verify documentation (including upgrade notes),0.6026490066225165,151
+2023-09,### committer checklist (excluded from commit message),0.609271523178808,151
+2023-10,verify test coverage and ci build status,0.6273584905660378,212
+2023-10,verify design and implementation,0.6273584905660378,212
+2023-10,verify documentation (including upgrade notes),0.6226415094339622,212
+2023-10,### committer checklist (excluded from commit message),0.6273584905660378,212
+2023-11,verify test coverage and ci build status,0.7609756097560976,205
+2023-11,verify design and implementation,0.7609756097560976,205
+2023-11,verify documentation (including upgrade notes),0.7609756097560976,205
+2023-11,### committer checklist (excluded from commit message),0.7658536585365854,205
+2023-12,verify test coverage and ci build status,0.7336448598130841,214
+2023-12,verify design and implementation,0.7336448598130841,214
+2023-12,verify documentation (including upgrade notes),0.7336448598130841,214
+2023-12,### committer checklist (excluded from commit message),0.7336448598130841,214
+2024-01,verify test coverage and ci build status,0.6534653465346535,202
+2024-01,verify design and implementation,0.6534653465346535,202
+2024-01,verify documentation (including upgrade notes),0.6534653465346535,202
+2024-01,### committer checklist (excluded from commit message),0.6485148514851485,202
+2024-02,verify test coverage and ci build status,0.6689655172413793,145
+2024-02,verify design and implementation,0.6689655172413793,145
+2024-02,verify documentation (including upgrade notes),0.6689655172413793,145
+2024-02,### committer checklist (excluded from commit message),0.6689655172413793,145
+2024-03,verify test coverage and ci build status,0.7354497354497355,189
+2024-03,verify design and implementation,0.7354497354497355,189
+2024-03,verify documentation (including upgrade notes),0.7354497354497355,189
+2024-03,### committer checklist (excluded from commit message),0.7354497354497355,189
+2024-04,verify test coverage and ci build status,0.67,200
+2024-04,verify design and implementation,0.67,200
+2024-04,verify documentation (including upgrade notes),0.675,200
+2024-04,### committer checklist (excluded from commit message),0.675,200
+2024-05,verify test coverage and ci build status,0.6614906832298136,322
+2024-05,verify design and implementation,0.6614906832298136,322
+2024-05,verify documentation (including upgrade notes),0.6614906832298136,322
+2024-05,### committer checklist (excluded from commit message),0.6459627329192547,322
+2024-06,verify test coverage and ci build status,0.6846846846846847,333
+2024-06,verify design and implementation,0.6816816816816816,333
+2024-06,verify documentation (including upgrade notes),0.6786786786786787,333
+2024-06,### committer checklist (excluded from commit message),0.6726726726726727,333
+2024-07,verify test coverage and ci build status,0.769811320754717,265
+2024-07,verify design and implementation,0.769811320754717,265
+2024-07,verify documentation (including upgrade notes),0.769811320754717,265
+2024-07,### committer checklist (excluded from commit message),0.7622641509433963,265
+2024-08,verify test coverage and ci build status,0.8047337278106509,169
+2024-08,verify design and implementation,0.7988165680473372,169
+2024-08,verify documentation (including upgrade notes),0.7988165680473372,169
+2024-08,### committer checklist (excluded from commit message),0.7988165680473372,169

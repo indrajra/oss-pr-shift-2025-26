@@ -1,0 +1,28 @@
+month,line,share_of_prs,n_prs
+2023-02,## target release,0.5606060606060606,66
+2023-03,## draft changelog entry,0.32608695652173914,92
+2023-03,## target release,0.42391304347826086,92
+2023-04,## target release,0.5135135135135135,74
+2023-05,## target release,0.34065934065934067,91
+2023-08,## draft changelog entry,0.4024390243902439,82
+2023-08,## target release,0.5121951219512195,82
+2023-09,## backport,0.3333333333333333,105
+2023-09,## draft changelog entry,0.3142857142857143,105
+2023-09,## target release,0.49523809523809526,105
+2023-09,the below text is copied from the body of the original pr.,0.3333333333333333,105
+2023-09,--,0.3523809523809524,105
+2023-10,## backport,0.4,75
+2023-10,overview of commits,0.4,75
+2023-10,## draft changelog entry,0.5733333333333334,75
+2023-10,## target release,0.6666666666666666,75
+2023-10,the below text is copied from the body of the original pr.,0.4,75
+2023-10,--,0.4,75
+2024-01,## target release,0.5,62
+2024-02,## target release,0.4430379746835443,79
+2024-03,--,0.4117647058823529,102
+2024-04,## backport,0.32038834951456313,103
+2024-04,overview of commits,0.32038834951456313,103
+2024-04,## draft changelog entry,0.4563106796116505,103
+2024-04,## target release,0.47572815533980584,103
+2024-04,the below text is copied from the body of the original pr.,0.32038834951456313,103
+2024-04,--,0.36893203883495146,103

@@ -1,0 +1,66 @@
+line,first_month,last_month,months,peak_share,change_event
+for more information:,2023-01,2023-07,3,0.6666666666666666,removed
+🧐 view latest project report,2023-01,2023-07,3,0.6666666666666666,removed
+#### changes included in this pr,2023-01,2023-07,3,0.6,removed
+*learn how to fix vulnerabilities with free interactive lessons:**,2023-01,2023-07,3,0.6,removed
+--,2023-01,2023-07,3,0.6,removed
+🛠 adjust project settings,2023-01,2023-07,3,0.6,removed
+(*) note that the real score may have changed since the pr was raised.,2023-01,2023-07,3,0.5714285714285714,removed
+#### vulnerabilities that will be fixed,2023-01,2023-07,3,0.5476190476190477,removed
+##### with an upgrade:,2023-01,2023-07,3,0.5476190476190477,removed
+*note:** *you are seeing this because you or someone else with access to this repository has authorized snyk to open fix prs.*,2023-01,2023-07,3,0.5476190476190477,removed
+-----------,2023-01,2023-07,3,0.5476190476190477,removed
+:-------------------------:|-------------------------|:-------------------------|:-------------------------|:-------------------------,2023-01,2023-07,3,0.5476190476190477,removed
+changes to the following files to upgrade the vulnerable dependencies to a fixed version:,2023-01,2023-07,3,0.5476190476190477,removed
+check the changes in this pr to ensure they won't cause issues with your project.,2023-01,2023-07,3,0.5476190476190477,removed
+severity | priority score (*) | issue | breaking change | exploit maturity,2023-01,2023-07,3,0.5476190476190477,removed
+📚 read more about snyk's upgrade and patch logic,2023-01,2023-07,3,0.5476190476190477,removed
+🦉 regular expression denial of service (redos),2023-01,2023-07,3,0.5476190476190477,removed
+commit messages,2023-01,2023-01,1,0.38095238095238093,
+"| **461/1000** **why?** recently disclosed, has a fix available, cvss 3.5 | regular expression denial of service (redos) snyk-js-debug-3227433 | yes | no known exploit",2023-01,2023-01,1,0.35714285714285715,
+#### what does this pr do?,2023-02,2023-10,7,0.8771929824561403,added
+follows contributing rules,2023-02,2023-10,6,0.8596491228070176,added
+"| **658/1000** **why?** proof of concept exploit, recently disclosed, has a fix available, cvss 5.3 | regular expression denial of service (redos) snyk-js-semver-3247795 | yes | proof of concept",2023-06,2023-07,2,0.4888888888888889,
+this pr was automatically created by snyk using the credentials of a real user. snyk has created this pr to fix one or more vulnerable packages in the `npm` dependencies of this project.,2023-06,2023-07,2,0.4777777777777778,
+#### what are the relevant tickets?,2023-10,2023-10,1,0.5056179775280899,added
+#### any background context you want to provide?,2023-10,2023-10,1,0.449438202247191,
+#### how should this be manually tested?,2023-10,2023-10,1,0.39325842696629215,
+#### where should the reviewer start?,2023-10,2023-10,1,0.39325842696629215,
+#### screenshots,2023-10,2023-10,1,0.38202247191011235,
+#### additional questions,2023-10,2023-10,1,0.3707865168539326,
+## what does this pr do?,2024-02,2024-08,6,0.9259259259259259,added
+**reviewer documentation**,2024-02,2024-08,6,0.8985507246376812,added
+**testing**,2024-02,2024-08,6,0.8985507246376812,added
+**user facing documentation**,2024-02,2024-08,6,0.8985507246376812,added
+be accompanied by a detailed description of the changes,2024-02,2024-08,6,0.8985507246376812,added
+"changes, removals and additions to functionality must be covered by acceptance / integration tests or smoke tests - either already existing ones, or new ones, created by the author of the pr.",2024-02,2024-08,6,0.8985507246376812,added
+contain a link to the automatic tests that cover the updated functionality.,2024-02,2024-08,6,0.8985507246376812,added
+"contain a risk assessment of the change (low | medium | high) with regards to breaking existing functionality. a change e.g. of an underlying language plugin can completely break the functionality for that language, but appearing as only a version change in the dependencies.",2024-02,2024-08,6,0.8985507246376812,added
+"contain testing instructions in case that the reviewer wants to manual verify as well, to add to the manual testing done by the author.",2024-02,2024-08,6,0.8985507246376812,added
+"ensure that the message of the final single commit is descriptive and prefixed with either `feat:` or `fix:` , others might be used in rare occasions as well, if there is no need to document the changes in the release notes. the changes or fixes should be described in detail in the commit message for the changelog & release notes.",2024-02,2024-08,6,0.8985507246376812,added
+follow contributing rules,2024-02,2024-08,6,0.8985507246376812,added
+highlight breaking api if applicable,2024-02,2024-08,6,0.8985507246376812,added
+the pull request must:,2024-02,2024-08,6,0.8985507246376812,added
+## pull request submission,2024-02,2024-08,6,0.8840579710144928,added
+link to the link to the pr for the user-facing documentation,2024-02,2024-08,6,0.8840579710144928,added
+please check the boxes once done.,2024-02,2024-08,6,0.8840579710144928,added
+"update any relevant documentation in gitbook by submitting a gitbook pr, and including the pr link here",2024-02,2024-08,6,0.8840579710144928,added
+## pull request approval,2024-02,2024-08,6,0.8571428571428571,added
+## pull request review,2024-02,2024-08,6,0.8571428571428571,added
+"***************************if a dependency is not necessary, don’t add it.****************************",2024-02,2024-08,6,0.8571428571428571,added
+all pull requests must undergo a thorough review process before being merged.,2024-02,2024-08,6,0.8571428571428571,added
+by our content writers.,2024-02,2024-08,6,0.8571428571428571,added
+documentation prs in gitbook are reviewed by snyk's content team. they will also advise on the best phrasing and structuring if needed.,2024-02,2024-08,6,0.8571428571428571,added
+for node projects: it’s important to make sure changes in `package.json` are also affecting `package-lock.json` correctly.,2024-02,2024-08,6,0.8571428571428571,added
+"manual testing will not be performed by the reviewing team, and is the responsibility of the author of the pr.",2024-02,2024-08,6,0.8571428571428571,added
+"once a pull request has been reviewed and all necessary revisions have been made, it is approved for merging into",2024-02,2024-08,6,0.8571428571428571,added
+pull request reviews of functionality developed in other teams only review the given documentation and test reports.,2024-02,2024-08,6,0.8571428571428571,added
+"the main codebase. the merging of the code pr is performed by the code owners, the merging of the documentation pr",2024-02,2024-08,6,0.8571428571428571,added
+"the review process of the code pr should include code review, testing, and any necessary feedback or revisions.",2024-02,2024-08,6,0.8571428571428571,added
+"when adding a new package as a dependency, make sure that the change is absolutely necessary. we would like to refrain from adding new dependencies when possible.",2024-02,2024-08,6,0.8571428571428571,added
+## how should this be manually tested?,2024-02,2024-08,5,0.8157894736842105,added
+## additional questions,2024-02,2024-08,5,0.7894736842105263,added
+## what are the relevant tickets?,2024-02,2024-08,5,0.7894736842105263,added
+## where should the reviewer start?,2024-02,2024-06,4,0.7391304347826086,added
+## any background context you want to provide?,2024-02,2024-06,4,0.7101449275362319,added
+## screenshots,2024-02,2024-06,4,0.6956521739130435,added

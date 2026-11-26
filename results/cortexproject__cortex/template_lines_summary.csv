@@ -1,0 +1,9 @@
+line,first_month,last_month,months,peak_share,change_event
+*checklist**,2025-01,2026-08,16,0.9696969696969697,
+*which issue(s) this pr fixes**:,2025-01,2026-08,13,0.9696969696969697,
+"`changelog.md` updated - the order of entries should be `[change]`, `[feature]`, `[enhancement]`, `[bugfix]`",2025-01,2026-08,13,0.9696969696969697,
+documentation added,2025-01,2026-08,13,0.9696969696969697,
+tests updated,2025-01,2026-08,14,0.9696969696969697,
+*what this pr does**:,2025-01,2026-08,6,0.8163265306122449,
+fixes #,2025-01,2026-05,6,0.6481481481481481,removed
+`docs/configuration/v1-guarantees.md` updated if this pr introduces experimental flags,2026-05,2026-08,2,0.569620253164557,added

@@ -1,0 +1,14 @@
+line,first_month,last_month,months,peak_share,change_event
+# branch description,2024-03,2024-08,6,0.8024691358024691,
+this pr targets the `main` branch.,2024-03,2024-08,6,0.7755102040816326,
+# trac ticket number,2024-03,2024-08,6,0.7747747747747747,
+# checklist,2024-03,2024-08,6,0.7657657657657657,
+"the commit message is written in past tense, mentions the ticket number, and ends with a period.",2024-03,2024-08,6,0.7653061224489796,
+"i have added or updated relevant **docs**, including release notes if applicable.",2024-03,2024-04,2,0.5178571428571429,removed
+i have added or updated relevant **tests**.,2024-03,2024-04,2,0.5178571428571429,removed
+"i have checked the ""has patch"" **ticket flag** in the trac system.",2024-03,2024-04,2,0.5089285714285714,removed
+"for ui changes, i have attached **screenshots** in both light and dark modes.",2024-03,2024-04,2,0.4732142857142857,
+"i have checked the ""has patch"" ticket flag in the trac system.",2024-05,2024-08,4,0.7117117117117117,added
+i have added or updated relevant tests.,2024-05,2024-08,4,0.7027027027027027,added
+"i have added or updated relevant docs, including release notes if applicable.",2024-05,2024-08,4,0.6756756756756757,added
+i have attached screenshots in both light and dark modes for any ui changes.,2024-05,2024-08,4,0.6486486486486487,added

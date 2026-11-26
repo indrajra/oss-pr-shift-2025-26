@@ -1,0 +1,21 @@
+repo,language,PRs,bots removed,words,lines added,lines deleted,lines changed,files,PRs opened,PRs merged,merge rate,bug share,ai_disclosed n,ai_disclosed verdict
+kubernetes/kubernetes,Go,8615,0,+109%*,+118%*,+0%,+62%*,+50%,+40%*,+26%,-12%*,+35%,46,no difference detected
+tokio-rs/tokio,Rust,828,4,+166%,+56%,+33%,+95%,+0%,+91%*,+73%,-19%,,3,not testable
+microsoft/TypeScript,Go,741,166,+814%*,-83%,-71%,-80%,-60%,-24%,-62%,-64%*,,4,not testable
+hashicorp/terraform,Go,1657,405,+273%*,+126%,+79%,+55%,+33%,+4%,-14%,-18%*,+187%,4,not testable
+django/django,Python,2780,0,+82%*,+25%,-40%,+0%,-33%,+53%*,+17%*,-29%*,,14,not testable
+prometheus/prometheus,Go,2243,567,+217%*,+114%,-56%*,+75%,+0%,+80%*,+46%*,-23%*,,30,no difference detected
+scikit-learn/scikit-learn,Python,2801,320,+82%*,+173%*,+25%,+68%*,+100%,+58%*,+9%,-30%*,,28,not testable
+react/react,JavaScript,3275,126,+238%*,+111%,-17%,+71%,+0%,+5%,-46%*,-49%*,,21,not testable
+rails/rails,Ruby,3469,1,+71%*,+36%,-33%,+29%,+0%,+177%*,+174%,+4%,,10,not testable
+pola-rs/polars,Rust,4570,87,+102%*,-14%,+25%,-17%,+0%,-1%,-13%,-15%*,+13%,40,no difference detected
+pandas-dev/pandas,Python,4564,135,+396%*,+10%,+0%,-6%,+50%,+151%*,+216%*,+11%,+253%,603,larger
+apache/kafka,Java,4789,4,+159%*,+108%*,-45%,+37%*,+0%,-1%,-18%,-13%*,,37,no difference detected
+denoland/deno,Rust,5516,70,+969%*,+124%*,-12%,+74%*,+33%,+276%*,+210%*,-21%*,,512,no difference detected
+duckdb/duckdb,C++,5992,0,+128%*,+171%*,+80%,+159%*,+100%,+100%*,+90%*,-10%*,,47,no difference detected
+nodejs/node,JavaScript,5630,740,+128%*,+179%*,+12%,+92%*,+0%,+64%*,+64%,-9%,,184,no difference detected
+keycloak/keycloak,Java,6331,710,+93%,+91%*,-38%,+51%*,+0%,+40%*,+19%*,-15%*,,29,not testable
+astral-sh/ruff,Rust,8484,1197,+67%,+30%,+33%,+13%,+0%,+111%*,+48%,-34%*,-10%,37,no difference detected
+godotengine/godot,C++,12018,1,+36%*,+0%,-25%,+0%,+0%,-24%,-43%,-21%*,+9%,37,no difference detected
+vercel/next.js,JavaScript,11347,1722,+206%*,+207%*,+0%,+141%*,+33%,+19%,-2%,-26%*,,90,no difference detected
+python/cpython,Python,18787,15,+50%,+12%*,-40%,+4%,+0%,+84%,+82%,-4%*,,575,mixed

@@ -1,0 +1,33 @@
+month,line,share_of_prs,n_prs
+2023-03,"format the pull request title like `[scb-xxx] fixes bug in approximatequantiles`, where you replace `scb-xxx` with the appropriate jira issue.",0.6122448979591837,49
+2023-03,"if this contribution is large, please file an apache individual contributor license agreement.",0.6122448979591837,49
+2023-03,each commit in the pull request should have a meaningful subject line and body.,0.6122448979591837,49
+2023-03,--,0.6122448979591837,49
+2023-03,"write a pull request description that is detailed enough to understand what the pull request does, how, and why.",0.6122448979591837,49
+2023-03,follow this checklist to help us incorporate your contribution quickly and easily:,0.6122448979591837,49
+2023-03,run `mvn clean install -pit` to make sure basic checks pass. a more thorough check will be performed on your pull request automatically.,0.6122448979591837,49
+2023-03,"make sure there is a jira issue filed for the change (usually before you start working on it). trivial changes like typos do not require a jira issue. your pull request should address just this issue, without pulling in other changes.",0.6122448979591837,49
+2023-12,"format the pull request title like `[scb-xxx] fixes bug in approximatequantiles`, where you replace `scb-xxx` with the appropriate jira issue.",0.7222222222222222,54
+2023-12,"if this contribution is large, please file an apache individual contributor license agreement.",0.7222222222222222,54
+2023-12,each commit in the pull request should have a meaningful subject line and body.,0.7222222222222222,54
+2023-12,--,0.7222222222222222,54
+2023-12,"write a pull request description that is detailed enough to understand what the pull request does, how, and why.",0.7222222222222222,54
+2023-12,follow this checklist to help us incorporate your contribution quickly and easily:,0.7222222222222222,54
+2023-12,run `mvn clean install -pit` to make sure basic checks pass. a more thorough check will be performed on your pull request automatically.,0.7222222222222222,54
+2023-12,"make sure there is a jira issue filed for the change (usually before you start working on it). trivial changes like typos do not require a jira issue. your pull request should address just this issue, without pulling in other changes.",0.7222222222222222,54
+2024-01,"format the pull request title like `[scb-xxx] fixes bug in approximatequantiles`, where you replace `scb-xxx` with the appropriate jira issue.",0.75,72
+2024-01,"if this contribution is large, please file an apache individual contributor license agreement.",0.75,72
+2024-01,each commit in the pull request should have a meaningful subject line and body.,0.75,72
+2024-01,--,0.75,72
+2024-01,"write a pull request description that is detailed enough to understand what the pull request does, how, and why.",0.75,72
+2024-01,follow this checklist to help us incorporate your contribution quickly and easily:,0.75,72
+2024-01,run `mvn clean install -pit` to make sure basic checks pass. a more thorough check will be performed on your pull request automatically.,0.75,72
+2024-01,"make sure there is a jira issue filed for the change (usually before you start working on it). trivial changes like typos do not require a jira issue. your pull request should address just this issue, without pulling in other changes.",0.75,72
+2024-07,"format the pull request title like `[scb-xxx] fixes bug in approximatequantiles`, where you replace `scb-xxx` with the appropriate jira issue.",0.9411764705882353,34
+2024-07,"if this contribution is large, please file an apache individual contributor license agreement.",0.9411764705882353,34
+2024-07,each commit in the pull request should have a meaningful subject line and body.,0.9411764705882353,34
+2024-07,--,0.9411764705882353,34
+2024-07,"write a pull request description that is detailed enough to understand what the pull request does, how, and why.",0.9411764705882353,34
+2024-07,follow this checklist to help us incorporate your contribution quickly and easily:,0.9411764705882353,34
+2024-07,run `mvn clean install -pit` to make sure basic checks pass. a more thorough check will be performed on your pull request automatically.,0.9411764705882353,34
+2024-07,"make sure there is a jira issue filed for the change (usually before you start working on it). trivial changes like typos do not require a jira issue. your pull request should address just this issue, without pulling in other changes.",0.9411764705882353,34

@@ -1,0 +1,22 @@
+month,line,share_of_prs,n_prs
+2025-07,### details,0.5636363636363636,55
+2025-07,### tests,0.5636363636363636,55
+2025-07,### fixed issues,0.5636363636363636,55
+2025-12,"*internal testing reminder:** when changing bedrock, please compile auth against your new changes",0.5084745762711864,59
+2025-12,### details,0.5084745762711864,59
+2025-12,### fixed issues,0.559322033898305,59
+2025-12,_________,0.5084745762711864,59
+2025-12,### tests,0.559322033898305,59
+2026-01,"*internal testing reminder:** when changing bedrock, please compile auth against your new changes",0.6428571428571429,56
+2026-01,### details,0.6607142857142857,56
+2026-01,### fixed issues,0.625,56
+2026-01,_________,0.6428571428571429,56
+2026-01,### tests,0.6607142857142857,56
+2026-04,### details,0.5263157894736842,57
+2026-04,### tests,0.5614035087719298,57
+2026-04,### fixed issues,0.5789473684210527,57
+2026-08,"*internal testing reminder:** when changing bedrock, please compile auth against your new changes",0.5538461538461539,65
+2026-08,### details,0.6153846153846154,65
+2026-08,### fixed issues,0.6307692307692307,65
+2026-08,_________,0.5538461538461539,65
+2026-08,### tests,0.6307692307692307,65

@@ -1,0 +1,5 @@
+tool,n_exposed,status
+claude,13,fewer than 30 exposed PRs
+unspecified,12,fewer than 30 exposed PRs
+copilot,3,fewer than 30 exposed PRs
+chatgpt,1,fewer than 30 exposed PRs

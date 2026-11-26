@@ -1,0 +1,32 @@
+month,line,share_of_prs,n_prs
+2025-11,important files changed,0.5925925925925926,54
+2025-11,sequence diagram,0.5555555555555556,54
+2025-12,important files changed,0.8888888888888888,36
+2025-12,sequence diagram,0.8611111111111112,36
+2025-12,greptile summary,0.8611111111111112,36
+2026-01,important files changed,0.8571428571428571,42
+2026-01,sequence diagram,0.8095238095238095,42
+2026-01,greptile summary,0.8095238095238095,42
+2026-05,## summary,0.7,50
+2026-05,important files changed,0.7,50
+2026-05,|----------|----------|,0.7,50
+2026-05,greptile summary,0.7,50
+2026-05,| filename | overview |,0.7,50
+2026-06,important files changed,0.8160919540229885,87
+2026-06,# todo,0.41379310344827586,87
+2026-06,no files require special attention.,0.3563218390804598,87
+2026-06,🤖 generated with claude code,0.5057471264367817,87
+2026-06,flowchart,0.4482758620689655,87
+2026-06,|----------|----------|,0.8275862068965517,87
+2026-06,greptile summary,0.7931034482758621,87
+2026-06,| filename | overview |,0.8275862068965517,87
+2026-06,# description,0.47126436781609193,87
+2026-06,confidence score: 5/5,0.6436781609195402,87
+2026-07,important files changed,0.7894736842105263,38
+2026-07,| filename | overview |,0.7894736842105263,38
+2026-07,|----------|----------|,0.7894736842105263,38
+2026-07,greptile summary,0.7894736842105263,38
+2026-08,important files changed,0.8297872340425532,47
+2026-08,| filename | overview |,0.8297872340425532,47
+2026-08,|----------|----------|,0.8297872340425532,47
+2026-08,greptile summary,0.8085106382978723,47

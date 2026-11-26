@@ -1,0 +1,11 @@
+line,first_month,last_month,months,peak_share,change_event
+#### what does this implement/fix? explain your changes.,2025-01,2026-08,20,0.703125,
+#### reference issues/prs,2025-01,2026-08,20,0.6875,
+#### any other comments?,2025-01,2026-08,20,0.6328125,
+#### ai usage disclosure,2025-12,2026-08,9,0.6011904761904762,added
+i used ai assistance for:,2025-12,2026-08,9,0.5654761904761905,added
+documentation (including examples),2025-12,2026-05,6,0.5476190476190477,added
+research and understanding,2025-12,2026-07,7,0.5416666666666666,added
+"code generation (e.g., when writing an implementation or fixing a bug)",2025-12,2026-05,6,0.5297619047619048,added
+test/benchmark generation,2025-12,2026-05,6,0.5297619047619048,added
+#### first time contributor introduction,2026-07,2026-07,1,0.32857142857142857,

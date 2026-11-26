@@ -1,0 +1,9 @@
+category,n_prs,share,median_words,median_files,median_churn,merge_rate,median_hours_to_merge,share_ai_disclosed
+feature,0,0.0,,,,,,
+bug,0,0.0,,,,,,
+design,0,0.0,,,,,,
+docs,956,0.22745657863430882,46.0,1.0,16.0,0.7751046025104602,6.924722222222222,0.0
+cleanup,0,0.0,,,,,,
+test,0,0.0,,,,,,
+api_change,0,0.0,,,,,,
+(no category label),3247,0.7725434213656912,56.0,2.0,19.0,0.7428395441946412,9.835416666666667,0.0006159531875577456

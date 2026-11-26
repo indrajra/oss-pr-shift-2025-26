@@ -1,0 +1,12 @@
+month,line,share_of_prs,n_prs
+2024-05,### details,0.5964912280701754,57
+2024-05,### fixed issues,0.5614035087719298,57
+2024-05,### tests,0.5964912280701754,57
+2024-05,_________,0.5789473684210527,57
+2024-05,"*internal testing reminder:** when changing bedrock, please compile auth against your new changes",0.5789473684210527,57
+2024-06,"will self-merge, this code has already been peer reviewed.",0.36470588235294116,85
+2024-06,### details,0.5176470588235295,85
+2024-06,### fixed issues,0.5058823529411764,85
+2024-06,### tests,0.5294117647058824,85
+2024-06,_________,0.5294117647058824,85
+2024-06,"*internal testing reminder:** when changing bedrock, please compile auth against your new changes",0.5294117647058824,85

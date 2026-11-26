@@ -1,0 +1,7 @@
+tool,n_exposed,m1_pct,m1_low,m1_high,m3_pct,m3_low,m3_high,call,status
+claude,404,9.35612427918917,-16.72816139827593,43.61111893496572,72.72744571680695,63.110989807778274,82.91085437598002,no clear difference,ok
+unspecified,165,88.749221887117,-3.2076038536209106,268.06887918256035,4.626286958182946,-38.21672254182514,77.17836238238664,no clear difference,ok
+copilot,3,,,,,,,,fewer than 30 exposed PRs
+cline,1,,,,,,,,fewer than 30 exposed PRs
+chatgpt,1,,,,,,,,fewer than 30 exposed PRs
+codex,1,,,,,,,,fewer than 30 exposed PRs

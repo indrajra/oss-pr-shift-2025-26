@@ -1,0 +1,438 @@
+month,line,share_of_prs,n_prs
+2025-01,### checklist,0.8918918918918919,148
+2025-01,are there new checks included in this pr? yes / no,0.5608108108108109,148
+2025-01,review if code is being documented following this specification,0.8783783783783784,148
+2025-01,### description,0.9662162162162162,148
+2025-01,"if so, do we need to update permissions for the provider? please review this carefully.",0.6824324324324325,148
+2025-01,### license,0.9797297297297297,148
+2025-01,### context,0.4594594594594595,148
+2025-01,are there new checks included in this pr? no,0.2702702702702703,148
+2025-01,review if backport is needed.,0.8783783783783784,148
+2025-01,"by submitting this pull request, i confirm that my contribution is made under the terms of the apache 2.0 license.",0.9864864864864865,148
+2025-01,review if is needed to change the readme.md,0.5067567567567568,148
+2025-01,review if the code is being covered by tests.,0.8783783783783784,148
+2025-02,### checklist,0.9615384615384616,104
+2025-02,are there new checks included in this pr? yes / no,0.7403846153846154,104
+2025-02,"check if version updates are required (e.g., specs, poetry, etc.).",0.6730769230769231,104
+2025-02,#### api,0.6923076923076923,104
+2025-02,review if code is being documented following this specification,0.9134615384615384,104
+2025-02,### description,0.9807692307692307,104
+2025-02,"if so, do we need to update permissions for the provider? please review this carefully.",0.8269230769230769,104
+2025-02,### context,0.4230769230769231,104
+2025-02,### license,0.9903846153846154,104
+2025-02,review if backport is needed.,0.9230769230769231,104
+2025-02,"by submitting this pull request, i confirm that my contribution is made under the terms of the apache 2.0 license.",0.9903846153846154,104
+2025-02,verify if api specs need to be regenerated.,0.6826923076923077,104
+2025-02,"ensure new entries are added to changelog.md, if applicable.",0.6730769230769231,104
+2025-02,review if is needed to change the readme.md,0.9038461538461539,104
+2025-02,review if the code is being covered by tests.,0.9423076923076923,104
+2025-03,### checklist,0.9570552147239264,163
+2025-03,are there new checks included in this pr? yes / no,0.8343558282208589,163
+2025-03,"check if version updates are required (e.g., specs, poetry, etc.).",0.9570552147239264,163
+2025-03,#### api,0.950920245398773,163
+2025-03,review if code is being documented following this specification,0.950920245398773,163
+2025-03,### description,0.9815950920245399,163
+2025-03,"if so, do we need to update permissions for the provider? please review this carefully.",0.8588957055214724,163
+2025-03,### context,0.3496932515337423,163
+2025-03,### license,0.9693251533742331,163
+2025-03,review if backport is needed.,0.950920245398773,163
+2025-03,"by submitting this pull request, i confirm that my contribution is made under the terms of the apache 2.0 license.",0.9754601226993865,163
+2025-03,verify if api specs need to be regenerated.,0.9570552147239264,163
+2025-03,"ensure new entries are added to changelog.md, if applicable.",0.950920245398773,163
+2025-03,review if is needed to change the readme.md,0.9447852760736196,163
+2025-03,review if the code is being covered by tests.,0.9447852760736196,163
+2025-04,### checklist,0.9923664122137404,131
+2025-04,are there new checks included in this pr? yes / no,0.9389312977099237,131
+2025-04,"check if version updates are required (e.g., specs, poetry, etc.).",0.9770992366412213,131
+2025-04,#### api,0.9694656488549618,131
+2025-04,review if code is being documented following this specification,1.0,131
+2025-04,### description,0.9847328244274809,131
+2025-04,"if so, do we need to update permissions for the provider? please review this carefully.",0.9465648854961832,131
+2025-04,### context,0.46564885496183206,131
+2025-04,### license,0.9923664122137404,131
+2025-04,review if backport is needed.,1.0,131
+2025-04,"by submitting this pull request, i confirm that my contribution is made under the terms of the apache 2.0 license.",1.0,131
+2025-04,verify if api specs need to be regenerated.,0.9694656488549618,131
+2025-04,"ensure new entries are added to changelog.md, if applicable.",0.9847328244274809,131
+2025-04,review if is needed to change the readme.md,0.9923664122137404,131
+2025-04,review if the code is being covered by tests.,0.9923664122137404,131
+2025-05,### checklist,0.9942196531791907,173
+2025-05,are there new checks included in this pr? yes / no,0.9017341040462428,173
+2025-05,"check if version updates are required (e.g., specs, poetry, etc.).",0.9248554913294798,173
+2025-05,#### api,0.930635838150289,173
+2025-05,review if code is being documented following this specification,0.9884393063583815,173
+2025-05,### description,0.9942196531791907,173
+2025-05,"if so, do we need to update permissions for the provider? please review this carefully.",0.9190751445086706,173
+2025-05,### license,1.0,173
+2025-05,### context,0.6127167630057804,173
+2025-05,review if backport is needed.,0.9826589595375722,173
+2025-05,"by submitting this pull request, i confirm that my contribution is made under the terms of the apache 2.0 license.",1.0,173
+2025-05,verify if api specs need to be regenerated.,0.9248554913294798,173
+2025-05,"ensure new entries are added to changelog.md, if applicable.",0.9826589595375722,173
+2025-05,review if is needed to change the readme.md,0.976878612716763,173
+2025-05,review if the code is being covered by tests.,0.9884393063583815,173
+2025-06,### checklist,0.9878787878787879,165
+2025-06,are there new checks included in this pr? yes / no,0.8303030303030303,165
+2025-06,"check if version updates are required (e.g., specs, poetry, etc.).",0.9393939393939394,165
+2025-06,#### api,0.9515151515151515,165
+2025-06,review if code is being documented following this specification,0.9757575757575757,165
+2025-06,### description,0.9636363636363636,165
+2025-06,"if so, do we need to update permissions for the provider? please review this carefully.",0.8848484848484849,165
+2025-06,### context,0.593939393939394,165
+2025-06,### license,1.0,165
+2025-06,review if backport is needed.,0.9696969696969697,165
+2025-06,"by submitting this pull request, i confirm that my contribution is made under the terms of the apache 2.0 license.",0.9939393939393939,165
+2025-06,verify if api specs need to be regenerated.,0.9393939393939394,165
+2025-06,"ensure new entries are added to changelog.md, if applicable.",0.9757575757575757,165
+2025-06,review if is needed to change the readme.md,0.9757575757575757,165
+2025-06,review if the code is being covered by tests.,0.9757575757575757,165
+2025-07,### checklist,0.9545454545454546,198
+2025-07,are there new checks included in this pr? yes / no,0.7474747474747475,198
+2025-07,"check if version updates are required (e.g., specs, poetry, etc.).",0.8787878787878788,198
+2025-07,#### api,0.8888888888888888,198
+2025-07,review if code is being documented following this specification,0.9444444444444444,198
+2025-07,### description,0.9393939393939394,198
+2025-07,"if so, do we need to update permissions for the provider? please review this carefully.",0.8333333333333334,198
+2025-07,### license,0.9797979797979798,198
+2025-07,### context,0.6414141414141414,198
+2025-07,review if backport is needed.,0.9444444444444444,198
+2025-07,"by submitting this pull request, i confirm that my contribution is made under the terms of the apache 2.0 license.",0.9646464646464646,198
+2025-07,verify if api specs need to be regenerated.,0.8838383838383839,198
+2025-07,"ensure new entries are added to changelog.md, if applicable.",0.9444444444444444,198
+2025-07,review if is needed to change the readme.md,0.9545454545454546,198
+2025-07,review if the code is being covered by tests.,0.9343434343434344,198
+2025-08,### checklist,0.9714285714285714,140
+2025-08,are there new checks included in this pr? yes / no,0.85,140
+2025-08,"check if version updates are required (e.g., specs, poetry, etc.).",0.9214285714285714,140
+2025-08,### steps to review,0.2571428571428571,140
+2025-08,#### api,0.9214285714285714,140
+2025-08,review if code is being documented following this specification,0.9785714285714285,140
+2025-08,### description,0.95,140
+2025-08,"if so, do we need to update permissions for the provider? please review this carefully.",0.9357142857142857,140
+2025-08,### context,0.5214285714285715,140
+2025-08,### license,0.9857142857142858,140
+2025-08,review if backport is needed.,0.9714285714285714,140
+2025-08,"by submitting this pull request, i confirm that my contribution is made under the terms of the apache 2.0 license.",0.9857142857142858,140
+2025-08,verify if api specs need to be regenerated.,0.9214285714285714,140
+2025-08,"ensure new entries are added to changelog.md, if applicable.",0.9785714285714285,140
+2025-08,review if is needed to change the readme.md,0.9785714285714285,140
+2025-08,review if the code is being covered by tests.,0.9714285714285714,140
+2025-09,### checklist,0.9140625,128
+2025-09,are there new checks included in this pr? yes / no,0.6875,128
+2025-09,### steps to review,0.7265625,128
+2025-09,"check if version updates are required (e.g., specs, poetry, etc.).",0.8671875,128
+2025-09,#### api,0.875,128
+2025-09,review if code is being documented following this specification,0.90625,128
+2025-09,### description,0.9765625,128
+2025-09,"if so, do we need to update permissions for the provider? please review this carefully.",0.7578125,128
+2025-09,### context,0.625,128
+2025-09,### license,0.984375,128
+2025-09,review if backport is needed.,0.90625,128
+2025-09,"by submitting this pull request, i confirm that my contribution is made under the terms of the apache 2.0 license.",0.9921875,128
+2025-09,please add a detailed description of how to review this pr.,0.421875,128
+2025-09,verify if api specs need to be regenerated.,0.8671875,128
+2025-09,"ensure new entries are added to changelog.md, if applicable.",0.90625,128
+2025-09,review if is needed to change the readme.md,0.8984375,128
+2025-09,review if the code is being covered by tests.,0.90625,128
+2025-10,### checklist,0.8538461538461538,260
+2025-10,are there new checks included in this pr? yes / no,0.46923076923076923,260
+2025-10,"check if version updates are required (e.g., specs, poetry, etc.).",0.7653846153846153,260
+2025-10,### steps to review,0.5038461538461538,260
+2025-10,#### api,0.8192307692307692,260
+2025-10,review if code is being documented following this specification,0.8076923076923077,260
+2025-10,### description,0.9346153846153846,260
+2025-10,"if so, do we need to update permissions for the provider? please review this carefully.",0.6,260
+2025-10,### license,0.9769230769230769,260
+2025-10,### context,0.7653846153846153,260
+2025-10,are there new checks included in this pr? no,0.3384615384615385,260
+2025-10,review if backport is needed.,0.8153846153846154,260
+2025-10,"by submitting this pull request, i confirm that my contribution is made under the terms of the apache 2.0 license.",0.9730769230769231,260
+2025-10,please add a detailed description of how to review this pr.,0.21153846153846154,260
+2025-10,verify if api specs need to be regenerated.,0.7653846153846153,260
+2025-10,"ensure new entries are added to changelog.md, if applicable.",0.8038461538461539,260
+2025-10,review if is needed to change the readme.md,0.8076923076923077,260
+2025-10,review if the code is being covered by tests.,0.8076923076923077,260
+2025-11,"if so, do we need to update permissions for the provider? please review this carefully.",0.6783625730994152,171
+2025-11,screenshots/video of the functionality flow (if applicable) - mobile (x x 1024px),0.5906432748538012,171
+2025-11,please add a detailed description of how to review this pr.,0.23391812865497075,171
+2025-11,verify if api specs need to be regenerated.,0.7777777777777778,171
+2025-11,are there new checks included in this pr? yes / no,0.6432748538011696,171
+2025-11,#### api,0.8011695906432749,171
+2025-11,"by submitting this pull request, i confirm that my contribution is made under the terms of the apache 2.0 license.",0.935672514619883,171
+2025-11,review if the code is being covered by tests.,0.8421052631578947,171
+2025-11,### checklist,0.8771929824561403,171
+2025-11,### steps to review,0.7192982456140351,171
+2025-11,### context,0.7309941520467836,171
+2025-11,#### ui,0.6140350877192983,171
+2025-11,"check if version updates are required (e.g., specs, poetry, etc.).",0.7777777777777778,171
+2025-11,review if code is being documented following this specification,0.8421052631578947,171
+2025-11,### description,0.9122807017543859,171
+2025-11,### license,0.935672514619883,171
+2025-11,review if backport is needed.,0.8362573099415205,171
+2025-11,all issue/task requirements work as expected on the ui,0.6023391812865497,171
+2025-11,"ensure new entries are added to changelog.md, if applicable.",0.8304093567251462,171
+2025-11,review if is needed to change the readme.md,0.8245614035087719,171
+2025-12,"if so, do we need to update permissions for the provider? please review this carefully.",0.39925373134328357,268
+2025-12,screenshots/video of the functionality flow (if applicable) - mobile (x x 1024px),0.4626865671641791,268
+2025-12,verify if api specs need to be regenerated.,0.75,268
+2025-12,are there new checks included in this pr? yes / no,0.3917910447761194,268
+2025-12,#### api,0.8246268656716418,268
+2025-12,"by submitting this pull request, i confirm that my contribution is made under the terms of the apache 2.0 license.",0.9626865671641791,268
+2025-12,review if the code is being covered by tests.,0.8582089552238806,268
+2025-12,### checklist,0.8955223880597015,268
+2025-12,### steps to review,0.43283582089552236,268
+2025-12,### context,0.7798507462686567,268
+2025-12,"if so, do we need to update permissions for the provider? no.",0.31343283582089554,268
+2025-12,#### ui,0.5485074626865671,268
+2025-12,"check if version updates are required (e.g., specs, poetry, etc.).",0.7574626865671642,268
+2025-12,review if code is being documented following this specification,0.8544776119402985,268
+2025-12,### description,0.9477611940298507,268
+2025-12,### license,0.9589552238805971,268
+2025-12,review if backport is needed.,0.8544776119402985,268
+2025-12,all issue/task requirements work as expected on the ui,0.48880597014925375,268
+2025-12,"ensure new entries are added to changelog.md, if applicable.",0.8619402985074627,268
+2025-12,review if is needed to change the readme.md,0.8283582089552238,268
+2025-12,are there new checks included in this pr? no,0.44029850746268656,268
+2026-01,"if so, do we need to update permissions for the provider? please review this carefully.",0.5285714285714286,140
+2026-01,screenshots/video of the functionality flow (if applicable) - mobile (x x 1024px),0.5285714285714286,140
+2026-01,endpoint response output (if applicable),0.5,140
+2026-01,all issue/task requirements work as expected on the api,0.5071428571428571,140
+2026-01,verify if api specs need to be regenerated.,0.5785714285714286,140
+2026-01,performance test results (if applicable),0.4928571428571429,140
+2026-01,any other relevant evidence of the implementation (if applicable),0.5,140
+2026-01,explain analyze output for new/modified queries or indexes (if applicable),0.4928571428571429,140
+2026-01,are there new checks included in this pr? yes / no,0.4714285714285714,140
+2026-01,#### api,0.6142857142857143,140
+2026-01,community checklist,0.5928571428571429,140
+2026-01,"is it assigned to me, if not, request it via the issue/feature in here or prowler community slack",0.5785714285714286,140
+2026-01,"by submitting this pull request, i confirm that my contribution is made under the terms of the apache 2.0 license.",0.8714285714285714,140
+2026-01,review if the code is being covered by tests.,0.8071428571428572,140
+2026-01,### checklist,0.8428571428571429,140
+2026-01,### steps to review,0.6571428571428571,140
+2026-01,### context,0.5928571428571429,140
+2026-01,this feature/issue is listed in here or roadmap.prowler.com,0.5857142857142857,140
+2026-01,#### ui,0.55,140
+2026-01,"check if version updates are required (e.g., specs, poetry, etc.).",0.5714285714285714,140
+2026-01,#### sdk/cli,0.5928571428571429,140
+2026-01,review if code is being documented following this specification,0.7357142857142858,140
+2026-01,### description,0.8642857142857143,140
+2026-01,### license,0.8714285714285714,140
+2026-01,review if backport is needed.,0.8142857142857143,140
+2026-01,all issue/task requirements work as expected on the ui,0.5642857142857143,140
+2026-01,"ensure new entries are added to changelog.md, if applicable.",0.8,140
+2026-01,review if is needed to change the readme.md,0.7785714285714286,140
+2026-02,"if so, do we need to update permissions for the provider? please review this carefully.",0.4157303370786517,178
+2026-02,screenshots/video of the functionality flow (if applicable) - mobile (x x 1024px),0.38764044943820225,178
+2026-02,endpoint response output (if applicable),0.4606741573033708,178
+2026-02,all issue/task requirements work as expected on the api,0.48314606741573035,178
+2026-02,verify if api specs need to be regenerated.,0.47752808988764045,178
+2026-02,performance test results (if applicable),0.47752808988764045,178
+2026-02,any other relevant evidence of the implementation (if applicable),0.4606741573033708,178
+2026-02,explain analyze output for new/modified queries or indexes (if applicable),0.47752808988764045,178
+2026-02,are there new checks included in this pr? yes / no,0.3146067415730337,178
+2026-02,#### api,0.449438202247191,178
+2026-02,community checklist,0.5786516853932584,178
+2026-02,"is it assigned to me, if not, request it via the issue/feature in here or prowler community slack",0.5674157303370787,178
+2026-02,"by submitting this pull request, i confirm that my contribution is made under the terms of the apache 2.0 license.",0.8707865168539326,178
+2026-02,review if the code is being covered by tests.,0.7696629213483146,178
+2026-02,### checklist,0.8426966292134831,178
+2026-02,### steps to review,0.8202247191011236,178
+2026-02,### context,0.6573033707865169,178
+2026-02,this feature/issue is listed in here or roadmap.prowler.com,0.5674157303370787,178
+2026-02,#### ui,0.47752808988764045,178
+2026-02,"check if version updates are required (e.g., specs, poetry, etc.).",0.43258426966292135,178
+2026-02,#### sdk/cli,0.5955056179775281,178
+2026-02,review if code is being documented following this specification,0.5674157303370787,178
+2026-02,### description,0.8651685393258427,178
+2026-02,### license,0.8651685393258427,178
+2026-02,review if backport is needed.,0.7865168539325843,178
+2026-02,all issue/task requirements work as expected on the ui,0.47191011235955055,178
+2026-02,"ensure new entries are added to changelog.md, if applicable.",0.7865168539325843,178
+2026-02,review if is needed to change the readme.md,0.7303370786516854,178
+2026-02,are there new checks included in this pr? no,0.2247191011235955,178
+2026-03,"if so, do we need to update permissions for the provider? please review this carefully.",0.4232558139534884,215
+2026-03,screenshots/video of the functionality flow (if applicable) - mobile (x x 1024px),0.4,215
+2026-03,endpoint response output (if applicable),0.5069767441860465,215
+2026-03,all issue/task requirements work as expected on the api,0.5069767441860465,215
+2026-03,verify if api specs need to be regenerated.,0.5069767441860465,215
+2026-03,performance test results (if applicable),0.5069767441860465,215
+2026-03,any other relevant evidence of the implementation (if applicable),0.5069767441860465,215
+2026-03,explain analyze output for new/modified queries or indexes (if applicable),0.5069767441860465,215
+2026-03,are there new checks included in this pr? yes / no,0.3488372093023256,215
+2026-03,#### api,0.5116279069767442,215
+2026-03,community checklist,0.6,215
+2026-03,"is it assigned to me, if not, request it via the issue/feature in here or prowler community slack",0.5720930232558139,215
+2026-03,"by submitting this pull request, i confirm that my contribution is made under the terms of the apache 2.0 license.",0.8604651162790697,215
+2026-03,review if the code is being covered by tests.,0.7767441860465116,215
+2026-03,### checklist,0.8046511627906977,215
+2026-03,### steps to review,0.6651162790697674,215
+2026-03,### context,0.6,215
+2026-03,this feature/issue is listed in here or roadmap.prowler.com,0.5906976744186047,215
+2026-03,#### ui,0.48372093023255813,215
+2026-03,"check if version updates are required (e.g., specs, poetry, etc.).",0.48372093023255813,215
+2026-03,#### sdk/cli,0.5627906976744186,215
+2026-03,review if code is being documented following this specification,0.586046511627907,215
+2026-03,### description,0.8,215
+2026-03,### license,0.8511627906976744,215
+2026-03,review if backport is needed.,0.7674418604651163,215
+2026-03,all issue/task requirements work as expected on the ui,0.5023255813953489,215
+2026-03,"ensure new entries are added to changelog.md, if applicable.",0.7441860465116279,215
+2026-03,review if is needed to change the readme.md,0.7162790697674418,215
+2026-03,are there new checks included in this pr? no,0.20930232558139536,215
+2026-04,"if so, do we need to update permissions for the provider? please review this carefully.",0.384,250
+2026-04,screenshots/video of the functionality flow (if applicable) - mobile (x x 1024px),0.4,250
+2026-04,endpoint response output (if applicable),0.404,250
+2026-04,all issue/task requirements work as expected on the api,0.436,250
+2026-04,verify if api specs need to be regenerated.,0.424,250
+2026-04,performance test results (if applicable),0.408,250
+2026-04,any other relevant evidence of the implementation (if applicable),0.416,250
+2026-04,explain analyze output for new/modified queries or indexes (if applicable),0.408,250
+2026-04,are there new checks included in this pr? yes / no,0.252,250
+2026-04,#### api,0.448,250
+2026-04,community checklist,0.64,250
+2026-04,"is it assigned to me, if not, request it via the issue/feature in here or prowler community slack",0.616,250
+2026-04,"by submitting this pull request, i confirm that my contribution is made under the terms of the apache 2.0 license.",0.868,250
+2026-04,review if the code is being covered by tests.,0.82,250
+2026-04,### checklist,0.84,250
+2026-04,### steps to review,0.724,250
+2026-04,### context,0.68,250
+2026-04,this feature/issue is listed in here or roadmap.prowler.com,0.632,250
+2026-04,#### ui,0.484,250
+2026-04,"check if version updates are required (e.g., specs, poetry, etc.).",0.376,250
+2026-04,#### sdk/cli,0.612,250
+2026-04,review if code is being documented following this specification,0.62,250
+2026-04,### description,0.852,250
+2026-04,### license,0.864,250
+2026-04,review if backport is needed.,0.816,250
+2026-04,all issue/task requirements work as expected on the ui,0.48,250
+2026-04,"ensure new entries are added to changelog.md, if applicable.",0.804,250
+2026-04,review if is needed to change the readme.md,0.784,250
+2026-04,are there new checks included in this pr? no,0.264,250
+2026-05,"if so, do we need to update permissions for the provider? please review this carefully.",0.34296028880866425,277
+2026-05,screenshots/video of the functionality flow (if applicable) - mobile (x x 1024px),0.4223826714801444,277
+2026-05,endpoint response output (if applicable),0.3971119133574007,277
+2026-05,all issue/task requirements work as expected on the api,0.4259927797833935,277
+2026-05,verify if api specs need to be regenerated.,0.40794223826714804,277
+2026-05,performance test results (if applicable),0.3935018050541516,277
+2026-05,any other relevant evidence of the implementation (if applicable),0.3935018050541516,277
+2026-05,explain analyze output for new/modified queries or indexes (if applicable),0.3935018050541516,277
+2026-05,are there new checks included in this pr? yes / no,0.2815884476534296,277
+2026-05,#### api,0.5306859205776173,277
+2026-05,community checklist,0.7075812274368231,277
+2026-05,"is it assigned to me, if not, request it via the issue/feature in here or prowler community slack",0.6462093862815884,277
+2026-05,"if this pr adds or updates npm dependencies, include package-health evidence (maintenance, popularity, known vulnerabilities, license, release age) and explain why existing/native alternatives are insufficient.",0.23104693140794225,277
+2026-05,"by submitting this pull request, i confirm that my contribution is made under the terms of the apache 2.0 license.",0.8158844765342961,277
+2026-05,review if the code is being covered by tests.,0.6859205776173285,277
+2026-05,### checklist,0.7978339350180506,277
+2026-05,### steps to review,0.6642599277978339,277
+2026-05,"check if version updates are required (e.g., specs, uv, etc.).",0.20938628158844766,277
+2026-05,### context,0.6353790613718412,277
+2026-05,this feature/issue is listed in here or roadmap.prowler.com,0.6570397111913358,277
+2026-05,#### ui,0.5487364620938628,277
+2026-05,#### sdk/cli,0.6462093862815884,277
+2026-05,review if code is being documented following this specification,0.5631768953068592,277
+2026-05,### description,0.7906137184115524,277
+2026-05,### license,0.8267148014440433,277
+2026-05,review if backport is needed.,0.7111913357400722,277
+2026-05,all issue/task requirements work as expected on the ui,0.516245487364621,277
+2026-05,"ensure new entries are added to changelog.md, if applicable.",0.6678700361010831,277
+2026-05,review if is needed to change the readme.md,0.6606498194945848,277
+2026-05,are there new checks included in this pr? no,0.21299638989169675,277
+2026-06,**tests**,0.29069767441860467,258
+2026-06,"if so, do we need to update permissions for the provider? please review this carefully.",0.29844961240310075,258
+2026-06,screenshots/video of the functionality flow (if applicable) - mobile (x x 1024px),0.43410852713178294,258
+2026-06,endpoint response output (if applicable),0.4573643410852713,258
+2026-06,all issue/task requirements work as expected on the api,0.4806201550387597,258
+2026-06,verify if api specs need to be regenerated.,0.46124031007751937,258
+2026-06,performance test results (if applicable),0.4573643410852713,258
+2026-06,any other relevant evidence of the implementation (if applicable),0.46124031007751937,258
+2026-06,explain analyze output for new/modified queries or indexes (if applicable),0.4573643410852713,258
+2026-06,are there new checks included in this pr? yes / no,0.2558139534883721,258
+2026-06,#### api,0.6046511627906976,258
+2026-06,**documentation**,0.2364341085271318,258
+2026-06,community checklist,0.6046511627906976,258
+2026-06,"is it assigned to me, if not, request it via the issue/feature in here or prowler community slack",0.5542635658914729,258
+2026-06,**new features**,0.26744186046511625,258
+2026-06,"if this pr adds or updates npm dependencies, include package-health evidence (maintenance, popularity, known vulnerabilities, license, release age) and explain why existing/native alternatives are insufficient.",0.37209302325581395,258
+2026-06,"by submitting this pull request, i confirm that my contribution is made under the terms of the apache 2.0 license.",0.9108527131782945,258
+2026-06,review if the code is being covered by tests.,0.7209302325581395,258
+2026-06,### checklist,0.8992248062015504,258
+2026-06,### steps to review,0.8449612403100775,258
+2026-06,"check if version updates are required (e.g., specs, uv, etc.).",0.44573643410852715,258
+2026-06,### context,0.7286821705426356,258
+2026-06,this feature/issue is listed in here or roadmap.prowler.com,0.5503875968992248,258
+2026-06,#### ui,0.5891472868217055,258
+2026-06,## summary by coderabbit,0.6589147286821705,258
+2026-06,#### sdk/cli,0.6434108527131783,258
+2026-06,review if code is being documented following this specification,0.6162790697674418,258
+2026-06,### description,0.9224806201550387,258
+2026-06,### license,0.9147286821705426,258
+2026-06,**bug fixes**,0.29457364341085274,258
+2026-06,review if backport is needed.,0.7054263565891473,258
+2026-06,all issue/task requirements work as expected on the ui,0.5077519379844961,258
+2026-06,"ensure new entries are added to changelog.md, if applicable.",0.6589147286821705,258
+2026-06,review if is needed to change the readme.md,0.6511627906976745,258
+2026-06,are there new checks included in this pr? no,0.32945736434108525,258
+2026-07,"is it assigned to me, if not, request it via the open issues or prowler community slack",0.31952662721893493,338
+2026-07,**tests**,0.4467455621301775,338
+2026-07,this feature/issue is listed in the open issues or roadmap.prowler.com,0.33727810650887574,338
+2026-07,screenshots/video of the functionality flow (if applicable) - mobile (x x 1024px),0.27218934911242604,338
+2026-07,i have reviewed the open pull requests and confirmed there is no existing pr that implements the same outcome,0.24260355029585798,338
+2026-07,endpoint response output (if applicable),0.3165680473372781,338
+2026-07,all issue/task requirements work as expected on the api,0.3609467455621302,338
+2026-07,verify if api specs need to be regenerated.,0.31952662721893493,338
+2026-07,performance test results (if applicable),0.3165680473372781,338
+2026-07,any other relevant evidence of the implementation (if applicable),0.3076923076923077,338
+2026-07,explain analyze output for new/modified queries or indexes (if applicable),0.3165680473372781,338
+2026-07,#### api,0.4556213017751479,338
+2026-07,**documentation**,0.34023668639053256,338
+2026-07,community checklist,0.5502958579881657,338
+2026-07,**new features**,0.4378698224852071,338
+2026-07,#### mcp server,0.25443786982248523,338
+2026-07,"if this pr adds or updates npm dependencies, include package-health evidence (maintenance, popularity, known vulnerabilities, license, release age) and explain why existing/native alternatives are insufficient.",0.25443786982248523,338
+2026-07,"by submitting this pull request, i confirm that my contribution is made under the terms of the apache 2.0 license.",0.7485207100591716,338
+2026-07,review if the code is being covered by tests.,0.636094674556213,338
+2026-07,### checklist,0.757396449704142,338
+2026-07,### steps to review,0.7011834319526628,338
+2026-07,"check if version updates are required (e.g., specs, uv, etc.).",0.30177514792899407,338
+2026-07,### context,0.6745562130177515,338
+2026-07,#### ui,0.4260355029585799,338
+2026-07,"ensure a changelog fragment is added under api/changelog.d/, if applicable.",0.21893491124260356,338
+2026-07,## summary by coderabbit,0.8875739644970414,338
+2026-07,#### sdk/cli,0.5710059171597633,338
+2026-07,review if code is being documented following this specification,0.5088757396449705,338
+2026-07,### description,0.878698224852071,338
+2026-07,### license,0.7189349112426036,338
+2026-07,**bug fixes**,0.46745562130177515,338
+2026-07,review if backport is needed.,0.6005917159763313,338
+2026-07,"ensure a changelog fragment is added under prowler/changelog.d/, if applicable.",0.3047337278106509,338
+2026-07,all issue/task requirements work as expected on the ui,0.35798816568047337,338
+2026-07,review if is needed to change the readme.md,0.5236686390532544,338
+2026-07,are there new checks included in this pr? no,0.2988165680473373,338
+2026-08,"is it assigned to me, if not, request it via the open issues or prowler community slack",0.34074074074074073,135
+2026-08,**tests**,0.2962962962962963,135
+2026-08,this feature/issue is listed in the open issues or roadmap.prowler.com,0.37037037037037035,135
+2026-08,i have reviewed the open pull requests and confirmed there is no existing pr that implements the same outcome,0.3851851851851852,135
+2026-08,screenshots/video of the functionality flow (if applicable) - mobile (x x 1024px),0.23703703703703705,135
+2026-08,#### api,0.3333333333333333,135
+2026-08,**documentation**,0.3333333333333333,135
+2026-08,community checklist,0.5407407407407407,135
+2026-08,**new features**,0.34074074074074073,135
+2026-08,#### mcp server,0.3037037037037037,135
+2026-08,"by submitting this pull request, i confirm that my contribution is made under the terms of the apache 2.0 license.",0.7555555555555555,135
+2026-08,review if the code is being covered by tests.,0.5703703703703704,135
+2026-08,### checklist,0.7407407407407407,135
+2026-08,### steps to review,0.6370370370370371,135
+2026-08,### context,0.6666666666666666,135
+2026-08,#### ui,0.45185185185185184,135
+2026-08,## summary by coderabbit,0.9037037037037037,135
+2026-08,#### sdk/cli,0.4666666666666667,135
+2026-08,review if code is being documented following this specification,0.4074074074074074,135
+2026-08,### description,0.7185185185185186,135
+2026-08,### license,0.7481481481481481,135
+2026-08,**bug fixes**,0.42962962962962964,135
+2026-08,review if backport is needed.,0.4962962962962963,135
+2026-08,"ensure a changelog fragment is added under prowler/changelog.d/, if applicable.",0.3333333333333333,135
+2026-08,all issue/task requirements work as expected on the ui,0.31851851851851853,135
+2026-08,review if is needed to change the readme.md,0.37037037037037035,135
+2026-08,are there new checks included in this pr? no,0.3111111111111111,135

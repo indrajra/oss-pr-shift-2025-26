@@ -1,0 +1,7 @@
+line,first_month,last_month,months,peak_share,change_event
+all code checks passed.,2023-01,2024-08,20,0.6718146718146718,
+added type annotations to new arguments/methods/functions.,2023-01,2024-08,20,0.6042654028436019,
+tests added and passed if fixing a bug or adding a new feature,2023-01,2024-08,20,0.6042654028436019,
+added an entry in the latest `doc/source/whatsnew/vx.x.x.rst` file if fixing a bug or adding a new feature.,2023-01,2024-08,20,0.5639810426540285,
+closes #xxxx (replace xxxx with the github issue number),2023-01,2024-03,11,0.3620689655172414,
+fixes,2024-05,2024-06,2,0.4230769230769231,
